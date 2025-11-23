@@ -4,227 +4,213 @@
       "source": "api_agent",
       "type": "regional_summary",
       "region": "East Asia",
-      "timestamp": "2025-11-19T16:53:11.260678"
+      "timestamp": "2025-11-23T12:25:07.382025"
     },
     {
       "source": "api_agent",
       "type": "stock_data",
       "symbol": "TSM",
       "region": "East Asia",
-      "timestamp": "2025-11-19T16:53:11.260678"
+      "timestamp": "2025-11-23T12:25:07.382025"
     },
     {
       "source": "api_agent",
       "type": "stock_data",
       "symbol": "005930.KS",
       "region": "East Asia",
-      "timestamp": "2025-11-19T16:53:11.260678"
+      "timestamp": "2025-11-23T12:25:07.382025"
     },
     {
       "source": "api_agent",
       "type": "stock_data",
       "symbol": "0700.HK",
       "region": "East Asia",
-      "timestamp": "2025-11-19T16:53:11.260678"
+      "timestamp": "2025-11-23T12:25:07.382025"
     },
     {
       "source": "api_agent",
       "type": "stock_data",
       "symbol": "6758.T",
       "region": "East Asia",
-      "timestamp": "2025-11-19T16:53:11.260678"
+      "timestamp": "2025-11-23T12:25:07.382025"
     },
     {
       "source": "api_agent",
       "type": "stock_data",
       "symbol": "9888.HK",
       "region": "East Asia",
-      "timestamp": "2025-11-19T16:53:11.260678"
+      "timestamp": "2025-11-23T12:25:07.382025"
     },
     {
       "source": "api_agent",
       "type": "stock_data",
       "symbol": "BABA",
       "region": "East Asia",
-      "timestamp": "2025-11-19T16:53:11.260678"
+      "timestamp": "2025-11-23T12:25:07.382025"
     },
     {
       "source": "api_agent",
       "type": "stock_data",
       "symbol": "9984.T",
       "region": "East Asia",
-      "timestamp": "2025-11-19T16:53:11.260678"
+      "timestamp": "2025-11-23T12:25:07.382025"
     },
     {
       "source": "api_agent",
       "type": "stock_data",
       "symbol": "000660.KS",
       "region": "East Asia",
-      "timestamp": "2025-11-19T16:53:11.260678"
+      "timestamp": "2025-11-23T12:25:07.382025"
     },
     {
       "source": "api_agent",
       "type": "regional_summary",
       "region": "South Asia",
-      "timestamp": "2025-11-19T16:53:11.260678"
+      "timestamp": "2025-11-23T12:25:07.382025"
     },
     {
       "source": "api_agent",
       "type": "stock_data",
       "symbol": "TCS.BO",
       "region": "South Asia",
-      "timestamp": "2025-11-19T16:53:11.260678"
+      "timestamp": "2025-11-23T12:25:07.382025"
     },
     {
       "source": "api_agent",
       "type": "stock_data",
       "symbol": "INFY.BO",
       "region": "South Asia",
-      "timestamp": "2025-11-19T16:53:11.260678"
+      "timestamp": "2025-11-23T12:25:07.382025"
     },
     {
       "source": "api_agent",
       "type": "stock_data",
       "symbol": "WIPRO.BO",
       "region": "South Asia",
-      "timestamp": "2025-11-19T16:53:11.260678"
+      "timestamp": "2025-11-23T12:25:07.382025"
     },
     {
       "source": "api_agent",
       "type": "stock_data",
       "symbol": "HCLTECH.BO",
       "region": "South Asia",
-      "timestamp": "2025-11-19T16:53:11.260678"
+      "timestamp": "2025-11-23T12:25:07.382025"
     },
     {
       "source": "api_agent",
       "type": "regional_summary",
       "region": "Southeast Asia",
-      "timestamp": "2025-11-19T16:53:11.260678"
+      "timestamp": "2025-11-23T12:25:07.382025"
     },
     {
       "source": "api_agent",
       "type": "stock_data",
       "symbol": "ADVANC.BK",
       "region": "Southeast Asia",
-      "timestamp": "2025-11-19T16:53:11.260678"
+      "timestamp": "2025-11-23T12:25:07.382025"
     },
     {
       "source": "api_agent",
       "type": "stock_data",
       "symbol": "U11.SI",
       "region": "Southeast Asia",
-      "timestamp": "2025-11-19T16:53:11.260678"
+      "timestamp": "2025-11-23T12:25:07.382025"
     },
     {
       "source": "api_agent",
       "type": "stock_data",
       "symbol": "TLKM.JK",
       "region": "Southeast Asia",
-      "timestamp": "2025-11-19T16:53:11.260678"
+      "timestamp": "2025-11-23T12:25:07.382025"
     },
     {
       "source": "api_agent",
       "type": "stock_data",
       "symbol": "5185.KL",
       "region": "Southeast Asia",
-      "timestamp": "2025-11-19T16:53:11.260678"
+      "timestamp": "2025-11-23T12:25:07.382025"
     },
     {
       "source": "api_agent",
       "type": "regional_summary",
       "region": "Western Asia",
-      "timestamp": "2025-11-19T16:53:11.260678"
+      "timestamp": "2025-11-23T12:25:07.382025"
     },
     {
       "source": "api_agent",
       "type": "stock_data",
       "symbol": "EMAAR.AE",
       "region": "Western Asia",
-      "timestamp": "2025-11-19T16:53:11.260678"
+      "timestamp": "2025-11-23T12:25:07.382025"
     },
     {
       "source": "api_agent",
       "type": "stock_data",
       "symbol": "2222.SR",
       "region": "Western Asia",
-      "timestamp": "2025-11-19T16:53:11.260678"
+      "timestamp": "2025-11-23T12:25:07.382025"
     },
     {
       "source": "scraping_agent",
       "type": "regional_sentiment",
       "region": "East Asia",
-      "timestamp": "2025-11-19T16:56:44.040590"
+      "timestamp": "2025-11-23T12:32:36.559013"
     },
     {
       "source": "scraping_agent",
       "type": "stock_sentiment",
       "symbol": "BABA",
       "region": "East Asia",
-      "timestamp": "2025-11-19T16:56:44.040590"
+      "timestamp": "2025-11-23T12:32:36.559013"
     },
     {
       "source": "scraping_agent",
       "type": "news_article",
       "symbol": "BABA",
       "region": "East Asia",
-      "timestamp": "Tue, 11 Nov 2025 22:45:04 GMT"
+      "timestamp": "Thu, 20 Nov 2025 11:24:25 GMT"
     },
     {
       "source": "scraping_agent",
       "type": "news_article",
       "symbol": "BABA",
       "region": "East Asia",
-      "timestamp": "Tue, 11 Nov 2025 22:45:04 GMT"
+      "timestamp": "Thu, 20 Nov 2025 11:24:25 GMT"
     },
     {
       "source": "scraping_agent",
       "type": "news_article",
       "symbol": "BABA",
       "region": "East Asia",
-      "timestamp": "Fri, 14 Nov 2025 18:39:46 GMT"
+      "timestamp": "Tue, 11 Nov 2025 08:00:00 GMT"
     },
     {
       "source": "scraping_agent",
       "type": "news_article",
       "symbol": "BABA",
       "region": "East Asia",
-      "timestamp": "Fri, 14 Nov 2025 18:39:46 GMT"
+      "timestamp": "Tue, 11 Nov 2025 08:00:00 GMT"
     },
     {
       "source": "scraping_agent",
       "type": "news_article",
       "symbol": "BABA",
       "region": "East Asia",
-      "timestamp": "Fri, 14 Nov 2025 20:38:30 GMT"
+      "timestamp": "Fri, 21 Nov 2025 11:49:34 GMT"
     },
     {
       "source": "scraping_agent",
       "type": "news_article",
       "symbol": "BABA",
       "region": "East Asia",
-      "timestamp": "Fri, 14 Nov 2025 20:38:30 GMT"
+      "timestamp": "Fri, 21 Nov 2025 11:49:34 GMT"
     },
     {
       "source": "scraping_agent",
       "type": "stock_sentiment",
       "symbol": "9888.HK",
       "region": "East Asia",
-      "timestamp": "2025-11-19T16:56:44.040590"
-    },
-    {
-      "source": "scraping_agent",
-      "type": "news_article",
-      "symbol": "9888.HK",
-      "region": "East Asia",
-      "timestamp": "Mon, 08 Sep 2025 07:00:00 GMT"
-    },
-    {
-      "source": "scraping_agent",
-      "type": "news_article",
-      "symbol": "9888.HK",
-      "region": "East Asia",
-      "timestamp": "Mon, 08 Sep 2025 07:00:00 GMT"
+      "timestamp": "2025-11-23T12:32:36.559013"
     },
     {
       "source": "scraping_agent",
@@ -239,6 +225,20 @@
       "symbol": "9888.HK",
       "region": "East Asia",
       "timestamp": "Sun, 07 Sep 2025 07:00:00 GMT"
+    },
+    {
+      "source": "scraping_agent",
+      "type": "news_article",
+      "symbol": "9888.HK",
+      "region": "East Asia",
+      "timestamp": "Mon, 08 Sep 2025 07:00:00 GMT"
+    },
+    {
+      "source": "scraping_agent",
+      "type": "news_article",
+      "symbol": "9888.HK",
+      "region": "East Asia",
+      "timestamp": "Mon, 08 Sep 2025 07:00:00 GMT"
     },
     {
       "source": "scraping_agent",
@@ -259,7 +259,21 @@
       "type": "stock_sentiment",
       "symbol": "TCEHY",
       "region": "East Asia",
-      "timestamp": "2025-11-19T16:56:44.040590"
+      "timestamp": "2025-11-23T12:32:36.559013"
+    },
+    {
+      "source": "scraping_agent",
+      "type": "news_article",
+      "symbol": "TCEHY",
+      "region": "East Asia",
+      "timestamp": "Fri, 21 Nov 2025 09:51:05 GMT"
+    },
+    {
+      "source": "scraping_agent",
+      "type": "news_article",
+      "symbol": "TCEHY",
+      "region": "East Asia",
+      "timestamp": "Fri, 21 Nov 2025 09:51:05 GMT"
     },
     {
       "source": "scraping_agent",
@@ -284,24 +298,24 @@
     },
     {
       "source": "scraping_agent",
-      "type": "news_article",
-      "symbol": "TCEHY",
-      "region": "East Asia",
-      "timestamp": "Tue, 26 Aug 2025 07:00:00 GMT"
-    },
-    {
-      "source": "scraping_agent",
-      "type": "news_article",
-      "symbol": "TCEHY",
-      "region": "East Asia",
-      "timestamp": "Tue, 26 Aug 2025 07:00:00 GMT"
-    },
-    {
-      "source": "scraping_agent",
       "type": "stock_sentiment",
       "symbol": "0700.HK",
       "region": "East Asia",
-      "timestamp": "2025-11-19T16:56:44.040590"
+      "timestamp": "2025-11-23T12:32:36.559013"
+    },
+    {
+      "source": "scraping_agent",
+      "type": "news_article",
+      "symbol": "0700.HK",
+      "region": "East Asia",
+      "timestamp": "Sat, 22 Nov 2025 15:33:27 GMT"
+    },
+    {
+      "source": "scraping_agent",
+      "type": "news_article",
+      "symbol": "0700.HK",
+      "region": "East Asia",
+      "timestamp": "Sat, 22 Nov 2025 15:33:27 GMT"
     },
     {
       "source": "scraping_agent",
@@ -322,13 +336,6 @@
       "type": "news_article",
       "symbol": "0700.HK",
       "region": "East Asia",
-      "timestamp": "Wed, 12 Nov 2025 16:00:00 GMT"
-    },
-    {
-      "source": "scraping_agent",
-      "type": "news_article",
-      "symbol": "0700.HK",
-      "region": "East Asia",
       "timestamp": "Wed, 17 Sep 2025 07:00:00 GMT"
     },
     {
@@ -343,56 +350,56 @@
       "type": "stock_sentiment",
       "symbol": "BIDU",
       "region": "East Asia",
-      "timestamp": "2025-11-19T16:56:44.040590"
+      "timestamp": "2025-11-23T12:32:36.559013"
     },
     {
       "source": "scraping_agent",
       "type": "news_article",
       "symbol": "BIDU",
       "region": "East Asia",
-      "timestamp": "Fri, 14 Nov 2025 12:51:00 GMT"
+      "timestamp": "Thu, 20 Nov 2025 11:58:37 GMT"
     },
     {
       "source": "scraping_agent",
       "type": "news_article",
       "symbol": "BIDU",
       "region": "East Asia",
-      "timestamp": "Fri, 14 Nov 2025 12:51:00 GMT"
+      "timestamp": "Thu, 20 Nov 2025 11:58:37 GMT"
     },
     {
       "source": "scraping_agent",
       "type": "news_article",
       "symbol": "BIDU",
       "region": "East Asia",
-      "timestamp": "Tue, 18 Nov 2025 10:18:45 GMT"
+      "timestamp": "Thu, 20 Nov 2025 18:15:48 GMT"
     },
     {
       "source": "scraping_agent",
       "type": "news_article",
       "symbol": "BIDU",
       "region": "East Asia",
-      "timestamp": "Tue, 18 Nov 2025 10:18:45 GMT"
+      "timestamp": "Thu, 20 Nov 2025 18:15:48 GMT"
     },
     {
       "source": "scraping_agent",
       "type": "news_article",
       "symbol": "BIDU",
       "region": "East Asia",
-      "timestamp": "Tue, 18 Nov 2025 16:53:38 GMT"
+      "timestamp": "Wed, 19 Nov 2025 20:16:12 GMT"
     },
     {
       "source": "scraping_agent",
       "type": "news_article",
       "symbol": "BIDU",
       "region": "East Asia",
-      "timestamp": "Tue, 18 Nov 2025 16:53:38 GMT"
+      "timestamp": "Wed, 19 Nov 2025 20:16:12 GMT"
     },
     {
       "source": "scraping_agent",
       "type": "stock_sentiment",
       "symbol": "6758.T",
       "region": "East Asia",
-      "timestamp": "2025-11-19T16:56:44.040590"
+      "timestamp": "2025-11-23T12:32:36.559013"
     },
     {
       "source": "scraping_agent",
@@ -441,7 +448,7 @@
       "type": "stock_sentiment",
       "symbol": "6501.T",
       "region": "East Asia",
-      "timestamp": "2025-11-19T16:56:44.040590"
+      "timestamp": "2025-11-23T12:32:36.559013"
     },
     {
       "source": "scraping_agent",
@@ -462,20 +469,6 @@
       "type": "news_article",
       "symbol": "6501.T",
       "region": "East Asia",
-      "timestamp": "Fri, 14 Nov 2025 07:18:00 GMT"
-    },
-    {
-      "source": "scraping_agent",
-      "type": "news_article",
-      "symbol": "6501.T",
-      "region": "East Asia",
-      "timestamp": "Fri, 14 Nov 2025 07:18:00 GMT"
-    },
-    {
-      "source": "scraping_agent",
-      "type": "news_article",
-      "symbol": "6501.T",
-      "region": "East Asia",
       "timestamp": "Fri, 03 Oct 2025 07:00:00 GMT"
     },
     {
@@ -484,27 +477,55 @@
       "symbol": "6501.T",
       "region": "East Asia",
       "timestamp": "Fri, 03 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "source": "scraping_agent",
+      "type": "news_article",
+      "symbol": "6501.T",
+      "region": "East Asia",
+      "timestamp": "Thu, 13 Nov 2025 08:00:00 GMT"
+    },
+    {
+      "source": "scraping_agent",
+      "type": "news_article",
+      "symbol": "6501.T",
+      "region": "East Asia",
+      "timestamp": "Thu, 13 Nov 2025 08:00:00 GMT"
     },
     {
       "source": "scraping_agent",
       "type": "stock_sentiment",
       "symbol": "9984.T",
       "region": "East Asia",
-      "timestamp": "2025-11-19T16:56:44.040590"
+      "timestamp": "2025-11-23T12:32:36.559013"
     },
     {
       "source": "scraping_agent",
       "type": "news_article",
       "symbol": "9984.T",
       "region": "East Asia",
-      "timestamp": "Wed, 12 Nov 2025 00:54:00 GMT"
+      "timestamp": "Fri, 21 Nov 2025 07:30:01 GMT"
     },
     {
       "source": "scraping_agent",
       "type": "news_article",
       "symbol": "9984.T",
       "region": "East Asia",
-      "timestamp": "Wed, 12 Nov 2025 00:54:00 GMT"
+      "timestamp": "Fri, 21 Nov 2025 07:30:01 GMT"
+    },
+    {
+      "source": "scraping_agent",
+      "type": "news_article",
+      "symbol": "9984.T",
+      "region": "East Asia",
+      "timestamp": "Mon, 17 Nov 2025 13:03:00 GMT"
+    },
+    {
+      "source": "scraping_agent",
+      "type": "news_article",
+      "symbol": "9984.T",
+      "region": "East Asia",
+      "timestamp": "Mon, 17 Nov 2025 13:03:00 GMT"
     },
     {
       "source": "scraping_agent",
@@ -522,38 +543,24 @@
     },
     {
       "source": "scraping_agent",
-      "type": "news_article",
-      "symbol": "9984.T",
-      "region": "East Asia",
-      "timestamp": "Tue, 11 Nov 2025 07:55:00 GMT"
-    },
-    {
-      "source": "scraping_agent",
-      "type": "news_article",
-      "symbol": "9984.T",
-      "region": "East Asia",
-      "timestamp": "Tue, 11 Nov 2025 07:55:00 GMT"
-    },
-    {
-      "source": "scraping_agent",
       "type": "stock_sentiment",
       "symbol": "7974.T",
       "region": "East Asia",
-      "timestamp": "2025-11-19T16:56:44.040590"
+      "timestamp": "2025-11-23T12:32:36.559013"
     },
     {
       "source": "scraping_agent",
       "type": "news_article",
       "symbol": "7974.T",
       "region": "East Asia",
-      "timestamp": "Wed, 05 Nov 2025 08:00:00 GMT"
+      "timestamp": "Sat, 08 Nov 2025 08:00:00 GMT"
     },
     {
       "source": "scraping_agent",
       "type": "news_article",
       "symbol": "7974.T",
       "region": "East Asia",
-      "timestamp": "Wed, 05 Nov 2025 08:00:00 GMT"
+      "timestamp": "Sat, 08 Nov 2025 08:00:00 GMT"
     },
     {
       "source": "scraping_agent",
@@ -588,7 +595,7 @@
       "type": "stock_sentiment",
       "symbol": "005930.KS",
       "region": "East Asia",
-      "timestamp": "2025-11-19T16:56:44.040590"
+      "timestamp": "2025-11-23T12:32:36.559013"
     },
     {
       "source": "scraping_agent",
@@ -609,7 +616,14 @@
       "type": "news_article",
       "symbol": "005930.KS",
       "region": "East Asia",
-      "timestamp": "Tue, 14 Oct 2025 07:00:00 GMT"
+      "timestamp": "Sat, 18 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "source": "scraping_agent",
+      "type": "news_article",
+      "symbol": "005930.KS",
+      "region": "East Asia",
+      "timestamp": "Sat, 18 Oct 2025 07:00:00 GMT"
     },
     {
       "source": "scraping_agent",
@@ -623,35 +637,28 @@
       "type": "news_article",
       "symbol": "005930.KS",
       "region": "East Asia",
-      "timestamp": "Fri, 31 Oct 2025 07:00:00 GMT"
-    },
-    {
-      "source": "scraping_agent",
-      "type": "news_article",
-      "symbol": "005930.KS",
-      "region": "East Asia",
-      "timestamp": "Fri, 31 Oct 2025 07:00:00 GMT"
+      "timestamp": "Tue, 14 Oct 2025 07:00:00 GMT"
     },
     {
       "source": "scraping_agent",
       "type": "stock_sentiment",
       "symbol": "000660.KS",
       "region": "East Asia",
-      "timestamp": "2025-11-19T16:56:44.040590"
+      "timestamp": "2025-11-23T12:32:36.559013"
     },
     {
       "source": "scraping_agent",
       "type": "news_article",
       "symbol": "000660.KS",
       "region": "East Asia",
-      "timestamp": "Wed, 29 Oct 2025 07:00:00 GMT"
+      "timestamp": "Thu, 20 Nov 2025 12:48:26 GMT"
     },
     {
       "source": "scraping_agent",
       "type": "news_article",
       "symbol": "000660.KS",
       "region": "East Asia",
-      "timestamp": "Wed, 29 Oct 2025 07:00:00 GMT"
+      "timestamp": "Thu, 20 Nov 2025 12:48:26 GMT"
     },
     {
       "source": "scraping_agent",
@@ -672,35 +679,21 @@
       "type": "news_article",
       "symbol": "000660.KS",
       "region": "East Asia",
-      "timestamp": "Tue, 28 Oct 2025 07:00:00 GMT"
+      "timestamp": "Thu, 20 Nov 2025 22:34:37 GMT"
     },
     {
       "source": "scraping_agent",
       "type": "news_article",
       "symbol": "000660.KS",
       "region": "East Asia",
-      "timestamp": "Tue, 28 Oct 2025 07:00:00 GMT"
+      "timestamp": "Thu, 20 Nov 2025 22:34:37 GMT"
     },
     {
       "source": "scraping_agent",
       "type": "stock_sentiment",
       "symbol": "035720.KS",
       "region": "East Asia",
-      "timestamp": "2025-11-19T16:56:44.040590"
-    },
-    {
-      "source": "scraping_agent",
-      "type": "news_article",
-      "symbol": "035720.KS",
-      "region": "East Asia",
-      "timestamp": "Mon, 20 Oct 2025 07:00:00 GMT"
-    },
-    {
-      "source": "scraping_agent",
-      "type": "news_article",
-      "symbol": "035720.KS",
-      "region": "East Asia",
-      "timestamp": "Mon, 20 Oct 2025 07:00:00 GMT"
+      "timestamp": "2025-11-23T12:32:36.559013"
     },
     {
       "source": "scraping_agent",
@@ -732,73 +725,87 @@
     },
     {
       "source": "scraping_agent",
-      "type": "stock_sentiment",
-      "symbol": "TSM",
+      "type": "news_article",
+      "symbol": "035720.KS",
       "region": "East Asia",
-      "timestamp": "2025-11-19T16:56:44.040590"
+      "timestamp": "Wed, 07 Aug 2024 07:00:00 GMT"
     },
     {
       "source": "scraping_agent",
       "type": "news_article",
-      "symbol": "TSM",
+      "symbol": "035720.KS",
       "region": "East Asia",
-      "timestamp": "Wed, 19 Nov 2025 10:07:00 GMT"
-    },
-    {
-      "source": "scraping_agent",
-      "type": "news_article",
-      "symbol": "TSM",
-      "region": "East Asia",
-      "timestamp": "Wed, 19 Nov 2025 10:07:00 GMT"
-    },
-    {
-      "source": "scraping_agent",
-      "type": "news_article",
-      "symbol": "TSM",
-      "region": "East Asia",
-      "timestamp": "Sun, 16 Nov 2025 05:05:19 GMT"
-    },
-    {
-      "source": "scraping_agent",
-      "type": "news_article",
-      "symbol": "TSM",
-      "region": "East Asia",
-      "timestamp": "Sun, 16 Nov 2025 05:05:19 GMT"
-    },
-    {
-      "source": "scraping_agent",
-      "type": "news_article",
-      "symbol": "TSM",
-      "region": "East Asia",
-      "timestamp": "Mon, 10 Nov 2025 08:00:00 GMT"
-    },
-    {
-      "source": "scraping_agent",
-      "type": "news_article",
-      "symbol": "TSM",
-      "region": "East Asia",
-      "timestamp": "Mon, 10 Nov 2025 08:00:00 GMT"
+      "timestamp": "Wed, 07 Aug 2024 07:00:00 GMT"
     },
     {
       "source": "scraping_agent",
       "type": "stock_sentiment",
+      "symbol": "TSM",
+      "region": "East Asia",
+      "timestamp": "2025-11-23T12:32:36.559013"
+    },
+    {
+      "source": "scraping_agent",
+      "type": "news_article",
+      "symbol": "TSM",
+      "region": "East Asia",
+      "timestamp": "Sat, 22 Nov 2025 13:23:55 GMT"
+    },
+    {
+      "source": "scraping_agent",
+      "type": "news_article",
+      "symbol": "TSM",
+      "region": "East Asia",
+      "timestamp": "Sat, 22 Nov 2025 13:23:55 GMT"
+    },
+    {
+      "source": "scraping_agent",
+      "type": "news_article",
+      "symbol": "TSM",
+      "region": "East Asia",
+      "timestamp": "Fri, 21 Nov 2025 14:15:00 GMT"
+    },
+    {
+      "source": "scraping_agent",
+      "type": "news_article",
+      "symbol": "TSM",
+      "region": "East Asia",
+      "timestamp": "Fri, 21 Nov 2025 14:15:00 GMT"
+    },
+    {
+      "source": "scraping_agent",
+      "type": "news_article",
+      "symbol": "TSM",
+      "region": "East Asia",
+      "timestamp": "Thu, 20 Nov 2025 21:25:00 GMT"
+    },
+    {
+      "source": "scraping_agent",
+      "type": "news_article",
+      "symbol": "TSM",
+      "region": "East Asia",
+      "timestamp": "Thu, 20 Nov 2025 21:25:00 GMT"
+    },
+    {
+      "source": "scraping_agent",
+      "type": "stock_sentiment",
       "symbol": "2330.TW",
       "region": "East Asia",
-      "timestamp": "2025-11-19T16:56:44.040590"
+      "timestamp": "2025-11-23T12:32:36.559013"
     },
     {
       "source": "scraping_agent",
       "type": "news_article",
       "symbol": "2330.TW",
       "region": "East Asia",
-      "timestamp": "Wed, 22 Oct 2025 07:00:00 GMT"
+      "timestamp": "Mon, 06 Oct 2025 07:00:00 GMT"
     },
     {
       "source": "scraping_agent",
       "type": "news_article",
       "symbol": "2330.TW",
       "region": "East Asia",
-      "timestamp": "Wed, 22 Oct 2025 07:00:00 GMT"
+      "timestamp": "Mon, 06 Oct 2025 07:00:00 GMT"
     },
     {
       "source": "scraping_agent",
@@ -819,35 +826,21 @@
       "type": "news_article",
       "symbol": "2330.TW",
       "region": "East Asia",
-      "timestamp": "Mon, 06 Oct 2025 07:00:00 GMT"
+      "timestamp": "Wed, 22 Oct 2025 07:00:00 GMT"
     },
     {
       "source": "scraping_agent",
       "type": "news_article",
       "symbol": "2330.TW",
       "region": "East Asia",
-      "timestamp": "Mon, 06 Oct 2025 07:00:00 GMT"
+      "timestamp": "Wed, 22 Oct 2025 07:00:00 GMT"
     },
     {
       "source": "scraping_agent",
       "type": "stock_sentiment",
       "symbol": "2454.TW",
       "region": "East Asia",
-      "timestamp": "2025-11-19T16:56:44.040590"
-    },
-    {
-      "source": "scraping_agent",
-      "type": "news_article",
-      "symbol": "2454.TW",
-      "region": "East Asia",
-      "timestamp": "Thu, 18 Sep 2025 07:00:00 GMT"
-    },
-    {
-      "source": "scraping_agent",
-      "type": "news_article",
-      "symbol": "2454.TW",
-      "region": "East Asia",
-      "timestamp": "Thu, 18 Sep 2025 07:00:00 GMT"
+      "timestamp": "2025-11-23T12:32:36.559013"
     },
     {
       "source": "scraping_agent",
@@ -868,21 +861,35 @@
       "type": "news_article",
       "symbol": "2454.TW",
       "region": "East Asia",
-      "timestamp": "Thu, 10 Jul 2025 07:00:00 GMT"
+      "timestamp": "Thu, 06 Mar 2025 08:00:00 GMT"
     },
     {
       "source": "scraping_agent",
       "type": "news_article",
       "symbol": "2454.TW",
       "region": "East Asia",
-      "timestamp": "Thu, 10 Jul 2025 07:00:00 GMT"
+      "timestamp": "Thu, 06 Mar 2025 08:00:00 GMT"
+    },
+    {
+      "source": "scraping_agent",
+      "type": "news_article",
+      "symbol": "2454.TW",
+      "region": "East Asia",
+      "timestamp": "Sun, 05 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "source": "scraping_agent",
+      "type": "news_article",
+      "symbol": "2454.TW",
+      "region": "East Asia",
+      "timestamp": "Sun, 05 Oct 2025 07:00:00 GMT"
     },
     {
       "source": "scraping_agent",
       "type": "stock_sentiment",
       "symbol": "1211.HK",
       "region": "East Asia",
-      "timestamp": "2025-11-19T16:56:44.040590"
+      "timestamp": "2025-11-23T12:32:36.559013"
     },
     {
       "source": "scraping_agent",
@@ -917,27 +924,20 @@
       "type": "news_article",
       "symbol": "1211.HK",
       "region": "East Asia",
-      "timestamp": "Tue, 20 May 2025 07:00:00 GMT"
-    },
-    {
-      "source": "scraping_agent",
-      "type": "news_article",
-      "symbol": "1211.HK",
-      "region": "East Asia",
-      "timestamp": "Tue, 20 May 2025 07:00:00 GMT"
+      "timestamp": "Mon, 06 Oct 2025 07:00:00 GMT"
     },
     {
       "source": "scraping_agent",
       "type": "regional_sentiment",
       "region": "South Asia",
-      "timestamp": "2025-11-19T16:56:44.040590"
+      "timestamp": "2025-11-23T12:32:36.559013"
     },
     {
       "source": "scraping_agent",
       "type": "stock_sentiment",
       "symbol": "TCS.BO",
       "region": "South Asia",
-      "timestamp": "2025-11-19T16:56:44.040590"
+      "timestamp": "2025-11-23T12:32:36.559013"
     },
     {
       "source": "scraping_agent",
@@ -958,35 +958,49 @@
       "type": "news_article",
       "symbol": "TCS.BO",
       "region": "South Asia",
-      "timestamp": "Thu, 23 Oct 2025 07:00:00 GMT"
+      "timestamp": "Fri, 26 Sep 2025 07:00:00 GMT"
     },
     {
       "source": "scraping_agent",
       "type": "news_article",
       "symbol": "TCS.BO",
       "region": "South Asia",
-      "timestamp": "Thu, 23 Oct 2025 07:00:00 GMT"
+      "timestamp": "Fri, 26 Sep 2025 07:00:00 GMT"
     },
     {
       "source": "scraping_agent",
       "type": "news_article",
       "symbol": "TCS.BO",
       "region": "South Asia",
-      "timestamp": "Tue, 29 Jul 2025 07:00:00 GMT"
+      "timestamp": "Fri, 31 Oct 2025 07:00:00 GMT"
     },
     {
       "source": "scraping_agent",
       "type": "news_article",
       "symbol": "TCS.BO",
       "region": "South Asia",
-      "timestamp": "Tue, 29 Jul 2025 07:00:00 GMT"
+      "timestamp": "Fri, 31 Oct 2025 07:00:00 GMT"
     },
     {
       "source": "scraping_agent",
       "type": "stock_sentiment",
       "symbol": "INFY.BO",
       "region": "South Asia",
-      "timestamp": "2025-11-19T16:56:44.040590"
+      "timestamp": "2025-11-23T12:32:36.559013"
+    },
+    {
+      "source": "scraping_agent",
+      "type": "news_article",
+      "symbol": "INFY.BO",
+      "region": "South Asia",
+      "timestamp": "Wed, 29 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "source": "scraping_agent",
+      "type": "news_article",
+      "symbol": "INFY.BO",
+      "region": "South Asia",
+      "timestamp": "Wed, 29 Oct 2025 07:00:00 GMT"
     },
     {
       "source": "scraping_agent",
@@ -1007,35 +1021,21 @@
       "type": "news_article",
       "symbol": "INFY.BO",
       "region": "South Asia",
-      "timestamp": "Mon, 11 Aug 2025 07:00:00 GMT"
+      "timestamp": "Mon, 27 Oct 2025 07:00:00 GMT"
     },
     {
       "source": "scraping_agent",
       "type": "news_article",
       "symbol": "INFY.BO",
       "region": "South Asia",
-      "timestamp": "Mon, 11 Aug 2025 07:00:00 GMT"
-    },
-    {
-      "source": "scraping_agent",
-      "type": "news_article",
-      "symbol": "INFY.BO",
-      "region": "South Asia",
-      "timestamp": "Thu, 23 Oct 2025 07:00:00 GMT"
-    },
-    {
-      "source": "scraping_agent",
-      "type": "news_article",
-      "symbol": "INFY.BO",
-      "region": "South Asia",
-      "timestamp": "Thu, 23 Oct 2025 07:00:00 GMT"
+      "timestamp": "Mon, 27 Oct 2025 07:00:00 GMT"
     },
     {
       "source": "scraping_agent",
       "type": "stock_sentiment",
       "symbol": "WIPRO.BO",
       "region": "South Asia",
-      "timestamp": "2025-11-19T16:56:44.040590"
+      "timestamp": "2025-11-23T12:32:36.559013"
     },
     {
       "source": "scraping_agent",
@@ -1070,21 +1070,21 @@
       "type": "news_article",
       "symbol": "WIPRO.BO",
       "region": "South Asia",
-      "timestamp": "Thu, 18 Sep 2025 07:00:00 GMT"
+      "timestamp": "Mon, 13 Oct 2025 07:00:00 GMT"
     },
     {
       "source": "scraping_agent",
       "type": "news_article",
       "symbol": "WIPRO.BO",
       "region": "South Asia",
-      "timestamp": "Thu, 18 Sep 2025 07:00:00 GMT"
+      "timestamp": "Mon, 13 Oct 2025 07:00:00 GMT"
     },
     {
       "source": "scraping_agent",
       "type": "stock_sentiment",
       "symbol": "HCLTECH.BO",
       "region": "South Asia",
-      "timestamp": "2025-11-19T16:56:44.040590"
+      "timestamp": "2025-11-23T12:32:36.559013"
     },
     {
       "source": "scraping_agent",
@@ -1105,7 +1105,14 @@
       "type": "news_article",
       "symbol": "HCLTECH.BO",
       "region": "South Asia",
-      "timestamp": "Thu, 23 Oct 2025 07:00:00 GMT"
+      "timestamp": "Tue, 18 Nov 2025 01:51:04 GMT"
+    },
+    {
+      "source": "scraping_agent",
+      "type": "news_article",
+      "symbol": "HCLTECH.BO",
+      "region": "South Asia",
+      "timestamp": "Tue, 18 Nov 2025 01:51:04 GMT"
     },
     {
       "source": "scraping_agent",
@@ -1119,21 +1126,14 @@
       "type": "news_article",
       "symbol": "HCLTECH.BO",
       "region": "South Asia",
-      "timestamp": "Wed, 15 Oct 2025 07:00:00 GMT"
-    },
-    {
-      "source": "scraping_agent",
-      "type": "news_article",
-      "symbol": "HCLTECH.BO",
-      "region": "South Asia",
-      "timestamp": "Wed, 15 Oct 2025 07:00:00 GMT"
+      "timestamp": "Thu, 23 Oct 2025 07:00:00 GMT"
     },
     {
       "source": "scraping_agent",
       "type": "stock_sentiment",
       "symbol": "PTCL.KA",
       "region": "South Asia",
-      "timestamp": "2025-11-19T16:56:44.040590"
+      "timestamp": "2025-11-23T12:32:36.559013"
     },
     {
       "source": "scraping_agent",
@@ -1154,20 +1154,6 @@
       "type": "news_article",
       "symbol": "PTCL.KA",
       "region": "South Asia",
-      "timestamp": "Tue, 03 Sep 2024 07:00:00 GMT"
-    },
-    {
-      "source": "scraping_agent",
-      "type": "news_article",
-      "symbol": "PTCL.KA",
-      "region": "South Asia",
-      "timestamp": "Tue, 03 Sep 2024 07:00:00 GMT"
-    },
-    {
-      "source": "scraping_agent",
-      "type": "news_article",
-      "symbol": "PTCL.KA",
-      "region": "South Asia",
       "timestamp": "Wed, 01 Oct 2025 07:00:00 GMT"
     },
     {
@@ -1176,68 +1162,33 @@
       "symbol": "PTCL.KA",
       "region": "South Asia",
       "timestamp": "Wed, 01 Oct 2025 07:00:00 GMT"
+    },
+    {
+      "source": "scraping_agent",
+      "type": "news_article",
+      "symbol": "PTCL.KA",
+      "region": "South Asia",
+      "timestamp": "Tue, 03 Sep 2024 07:00:00 GMT"
+    },
+    {
+      "source": "scraping_agent",
+      "type": "news_article",
+      "symbol": "PTCL.KA",
+      "region": "South Asia",
+      "timestamp": "Tue, 03 Sep 2024 07:00:00 GMT"
     },
     {
       "source": "scraping_agent",
       "type": "regional_sentiment",
       "region": "Southeast Asia",
-      "timestamp": "2025-11-19T16:56:44.040590"
-    },
-    {
-      "source": "scraping_agent",
-      "type": "stock_sentiment",
-      "symbol": "U11.SI",
-      "region": "Southeast Asia",
-      "timestamp": "2025-11-19T16:56:44.040590"
-    },
-    {
-      "source": "scraping_agent",
-      "type": "news_article",
-      "symbol": "U11.SI",
-      "region": "Southeast Asia",
-      "timestamp": "Mon, 17 Nov 2025 15:00:00 GMT"
-    },
-    {
-      "source": "scraping_agent",
-      "type": "news_article",
-      "symbol": "U11.SI",
-      "region": "Southeast Asia",
-      "timestamp": "Mon, 17 Nov 2025 15:00:00 GMT"
-    },
-    {
-      "source": "scraping_agent",
-      "type": "news_article",
-      "symbol": "U11.SI",
-      "region": "Southeast Asia",
-      "timestamp": "Thu, 06 Nov 2025 16:12:40 GMT"
-    },
-    {
-      "source": "scraping_agent",
-      "type": "news_article",
-      "symbol": "U11.SI",
-      "region": "Southeast Asia",
-      "timestamp": "Thu, 06 Nov 2025 16:12:40 GMT"
-    },
-    {
-      "source": "scraping_agent",
-      "type": "news_article",
-      "symbol": "U11.SI",
-      "region": "Southeast Asia",
-      "timestamp": "Sun, 26 Oct 2025 07:00:00 GMT"
-    },
-    {
-      "source": "scraping_agent",
-      "type": "news_article",
-      "symbol": "U11.SI",
-      "region": "Southeast Asia",
-      "timestamp": "Sun, 26 Oct 2025 07:00:00 GMT"
+      "timestamp": "2025-11-23T12:32:36.559013"
     },
     {
       "source": "scraping_agent",
       "type": "stock_sentiment",
       "symbol": "D05.SI",
       "region": "Southeast Asia",
-      "timestamp": "2025-11-19T16:56:44.040590"
+      "timestamp": "2025-11-23T12:32:36.559013"
     },
     {
       "source": "scraping_agent",
@@ -1272,21 +1223,21 @@
       "type": "news_article",
       "symbol": "D05.SI",
       "region": "Southeast Asia",
-      "timestamp": "Tue, 28 Oct 2025 07:00:00 GMT"
+      "timestamp": "Wed, 08 Oct 2025 07:00:00 GMT"
     },
     {
       "source": "scraping_agent",
       "type": "news_article",
       "symbol": "D05.SI",
       "region": "Southeast Asia",
-      "timestamp": "Tue, 28 Oct 2025 07:00:00 GMT"
+      "timestamp": "Wed, 08 Oct 2025 07:00:00 GMT"
     },
     {
       "source": "scraping_agent",
       "type": "stock_sentiment",
       "symbol": "5185.KL",
       "region": "Southeast Asia",
-      "timestamp": "2025-11-19T16:56:44.040590"
+      "timestamp": "2025-11-23T12:32:36.559013"
     },
     {
       "source": "scraping_agent",
@@ -1335,21 +1286,21 @@
       "type": "stock_sentiment",
       "symbol": "ADVANC.BK",
       "region": "Southeast Asia",
-      "timestamp": "2025-11-19T16:56:44.040590"
+      "timestamp": "2025-11-23T12:32:36.559013"
     },
     {
       "source": "scraping_agent",
       "type": "news_article",
       "symbol": "ADVANC.BK",
       "region": "Southeast Asia",
-      "timestamp": "Wed, 19 Nov 2025 09:00:10 GMT"
+      "timestamp": "Sat, 22 Nov 2025 08:19:17 GMT"
     },
     {
       "source": "scraping_agent",
       "type": "news_article",
       "symbol": "ADVANC.BK",
       "region": "Southeast Asia",
-      "timestamp": "Wed, 19 Nov 2025 09:00:10 GMT"
+      "timestamp": "Sat, 22 Nov 2025 08:19:17 GMT"
     },
     {
       "source": "scraping_agent",
@@ -1384,7 +1335,7 @@
       "type": "stock_sentiment",
       "symbol": "TRUEIT.BK",
       "region": "Southeast Asia",
-      "timestamp": "2025-11-19T16:56:44.040590"
+      "timestamp": "2025-11-23T12:32:36.559013"
     },
     {
       "source": "scraping_agent",
@@ -1405,7 +1356,7 @@
       "type": "stock_sentiment",
       "symbol": "TLKM.JK",
       "region": "Southeast Asia",
-      "timestamp": "2025-11-19T16:56:44.040590"
+      "timestamp": "2025-11-23T12:32:36.559013"
     },
     {
       "source": "scraping_agent",
@@ -1440,7 +1391,35 @@
       "type": "stock_sentiment",
       "symbol": "VNM",
       "region": "Southeast Asia",
-      "timestamp": "2025-11-19T16:56:44.040590"
+      "timestamp": "2025-11-23T12:32:36.559013"
+    },
+    {
+      "source": "scraping_agent",
+      "type": "news_article",
+      "symbol": "VNM",
+      "region": "Southeast Asia",
+      "timestamp": "Thu, 20 Nov 2025 08:45:52 GMT"
+    },
+    {
+      "source": "scraping_agent",
+      "type": "news_article",
+      "symbol": "VNM",
+      "region": "Southeast Asia",
+      "timestamp": "Thu, 20 Nov 2025 08:45:52 GMT"
+    },
+    {
+      "source": "scraping_agent",
+      "type": "news_article",
+      "symbol": "VNM",
+      "region": "Southeast Asia",
+      "timestamp": "Fri, 21 Nov 2025 11:06:02 GMT"
+    },
+    {
+      "source": "scraping_agent",
+      "type": "news_article",
+      "symbol": "VNM",
+      "region": "Southeast Asia",
+      "timestamp": "Fri, 21 Nov 2025 11:06:02 GMT"
     },
     {
       "source": "scraping_agent",
@@ -1455,74 +1434,25 @@
       "symbol": "VNM",
       "region": "Southeast Asia",
       "timestamp": "Mon, 15 Sep 2025 07:00:00 GMT"
-    },
-    {
-      "source": "scraping_agent",
-      "type": "news_article",
-      "symbol": "VNM",
-      "region": "Southeast Asia",
-      "timestamp": "Sun, 16 Mar 2025 07:00:00 GMT"
-    },
-    {
-      "source": "scraping_agent",
-      "type": "news_article",
-      "symbol": "VNM",
-      "region": "Southeast Asia",
-      "timestamp": "Sun, 16 Mar 2025 07:00:00 GMT"
-    },
-    {
-      "source": "scraping_agent",
-      "type": "news_article",
-      "symbol": "VNM",
-      "region": "Southeast Asia",
-      "timestamp": "Thu, 17 Jul 2025 07:00:00 GMT"
-    },
-    {
-      "source": "scraping_agent",
-      "type": "news_article",
-      "symbol": "VNM",
-      "region": "Southeast Asia",
-      "timestamp": "Thu, 17 Jul 2025 07:00:00 GMT"
     },
     {
       "source": "scraping_agent",
       "type": "regional_sentiment",
       "region": "Central Asia",
-      "timestamp": "2025-11-19T16:56:44.040590"
+      "timestamp": "2025-11-23T12:32:36.559013"
     },
     {
       "source": "scraping_agent",
       "type": "regional_sentiment",
       "region": "Western Asia",
-      "timestamp": "2025-11-19T16:56:44.040590"
-    },
-    {
-      "source": "scraping_agent",
-      "type": "stock_sentiment",
-      "symbol": "TRNFP",
-      "region": "Western Asia",
-      "timestamp": "2025-11-19T16:56:44.040590"
-    },
-    {
-      "source": "scraping_agent",
-      "type": "news_article",
-      "symbol": "TRNFP",
-      "region": "Western Asia",
-      "timestamp": "Fri, 04 Jul 2025 07:00:00 GMT"
-    },
-    {
-      "source": "scraping_agent",
-      "type": "news_article",
-      "symbol": "TRNFP",
-      "region": "Western Asia",
-      "timestamp": "Fri, 04 Jul 2025 07:00:00 GMT"
+      "timestamp": "2025-11-23T12:32:36.559013"
     },
     {
       "source": "scraping_agent",
       "type": "stock_sentiment",
       "symbol": "2222.SR",
       "region": "Western Asia",
-      "timestamp": "2025-11-19T16:56:44.040590"
+      "timestamp": "2025-11-23T12:32:36.559013"
     },
     {
       "source": "scraping_agent",
@@ -1571,7 +1501,7 @@
       "type": "stock_sentiment",
       "symbol": "EMAAR.AE",
       "region": "Western Asia",
-      "timestamp": "2025-11-19T16:56:44.040590"
+      "timestamp": "2025-11-23T12:32:36.559013"
     },
     {
       "source": "scraping_agent",
@@ -1592,20 +1522,6 @@
       "type": "news_article",
       "symbol": "EMAAR.AE",
       "region": "Western Asia",
-      "timestamp": "Sat, 25 Oct 2025 22:07:36 GMT"
-    },
-    {
-      "source": "scraping_agent",
-      "type": "news_article",
-      "symbol": "EMAAR.AE",
-      "region": "Western Asia",
-      "timestamp": "Sat, 25 Oct 2025 22:07:36 GMT"
-    },
-    {
-      "source": "scraping_agent",
-      "type": "news_article",
-      "symbol": "EMAAR.AE",
-      "region": "Western Asia",
       "timestamp": "Mon, 16 Dec 2024 08:00:00 GMT"
     },
     {
@@ -1614,252 +1530,286 @@
       "symbol": "EMAAR.AE",
       "region": "Western Asia",
       "timestamp": "Mon, 16 Dec 2024 08:00:00 GMT"
+    },
+    {
+      "source": "scraping_agent",
+      "type": "news_article",
+      "symbol": "EMAAR.AE",
+      "region": "Western Asia",
+      "timestamp": "Mon, 17 Mar 2025 07:00:00 GMT"
+    },
+    {
+      "source": "scraping_agent",
+      "type": "news_article",
+      "symbol": "EMAAR.AE",
+      "region": "Western Asia",
+      "timestamp": "Mon, 17 Mar 2025 07:00:00 GMT"
     }
   ],
   "documents": [
     {
-      "content": "Regional Market Summary: East Asia\nTimestamp: N/A\nPortfolio Size: 8 stocks\nAverage Change: -0.62%\nTotal Market Cap: $1,093,653,996,601,344\nSuccessful Fetches: 8/8\n\nThis summary provides overview of East Asia tech stocks performance including price movements and market capitalization.",
+      "content": "Regional Market Summary: East Asia\nTimestamp: N/A\nPortfolio Size: 8 stocks\nAverage Change: -4.13%\nTotal Market Cap: $1,052,397,820,215,296\nSuccessful Fetches: 8/8\n\nThis summary provides overview of East Asia tech stocks performance including price movements and market capitalization.",
       "metadata": {
         "source": "api_agent",
         "type": "regional_summary",
         "region": "East Asia",
-        "timestamp": "2025-11-19T16:53:11.260678"
+        "timestamp": "2025-11-23T12:25:07.382025"
       }
     },
     {
-      "content": "Stock: TSM (East Asia)\nCompany: Taiwan Semiconductor Manufacturing Company Limited\nSector: Technology\n\nMarket Data:\n- Current Price: $277.91\n- Previous Close: $282.01\n- Change: -1.45%\n- Volume: 11,830,200\n- Market Cap: $1,441,386,725,376\n\nEarnings Data:\n- EPS: 9.89\n- Forward P/E: 34.39\n- Earnings Growth: 39.1%",
+      "content": "Stock: TSM (East Asia)\nCompany: Taiwan Semiconductor Manufacturing Company Limited\nSector: Technology\n\nMarket Data:\n- Current Price: $275.06\n- Previous Close: $277.50\n- Change: -0.88%\n- Volume: 20,852,400\n- Market Cap: $1,426,605,080,576\n\nEarnings Data:\n- EPS: 9.71\n- Forward P/E: 34.04\n- Earnings Growth: 39.1%",
       "metadata": {
         "source": "api_agent",
         "type": "stock_data",
         "symbol": "TSM",
         "region": "East Asia",
-        "timestamp": "2025-11-19T16:53:11.260678"
+        "timestamp": "2025-11-23T12:25:07.382025"
       }
     },
     {
-      "content": "Stock: 005930.KS (East Asia)\nCompany: Samsung Electronics Co., Ltd.\nSector: Technology\n\nMarket Data:\n- Current Price: $96500.00\n- Previous Close: $97800.00\n- Change: -1.33%\n- Volume: 20,076,887\n- Market Cap: $645,207,032,856,576\n\nEarnings Data:\n- EPS: N/A\n- Forward P/E: 9.71\n- Earnings Growth: 27.0%",
+      "content": "Stock: 005930.KS (East Asia)\nCompany: Samsung Electronics Co., Ltd.\nSector: Technology\n\nMarket Data:\n- Current Price: $94800.00\n- Previous Close: $100600.00\n- Change: -5.77%\n- Volume: 23,103,574\n- Market Cap: $633,840,670,343,168\n\nEarnings Data:\n- EPS: N/A\n- Forward P/E: 9.60\n- Earnings Growth: 25.1%",
       "metadata": {
         "source": "api_agent",
         "type": "stock_data",
         "symbol": "005930.KS",
         "region": "East Asia",
-        "timestamp": "2025-11-19T16:53:11.260678"
+        "timestamp": "2025-11-23T12:25:07.382025"
       }
     },
     {
-      "content": "Stock: 0700.HK (East Asia)\nCompany: TENCENT\nSector: Communication Services\n\nMarket Data:\n- Current Price: $622.50\n- Previous Close: $623.50\n- Change: -0.16%\n- Volume: 13,959,808\n- Market Cap: $5,638,435,897,344\n\nEarnings Data:\n- EPS: 24.32\n- Forward P/E: 22.95\n- Earnings Growth: 20.1%",
+      "content": "Stock: 0700.HK (East Asia)\nCompany: TENCENT\nSector: Communication Services\n\nMarket Data:\n- Current Price: $610.00\n- Previous Close: $621.00\n- Change: -1.77%\n- Volume: 23,732,050\n- Market Cap: $5,525,152,989,184\n\nEarnings Data:\n- EPS: 24.34\n- Forward P/E: 22.49\n- Earnings Growth: 20.1%",
       "metadata": {
         "source": "api_agent",
         "type": "stock_data",
         "symbol": "0700.HK",
         "region": "East Asia",
-        "timestamp": "2025-11-19T16:53:11.260678"
+        "timestamp": "2025-11-23T12:25:07.382025"
       }
     },
     {
-      "content": "Stock: 6758.T (East Asia)\nCompany: Sony Group Corporation\nSector: Technology\n\nMarket Data:\n- Current Price: $4332.00\n- Previous Close: $4409.00\n- Change: -1.75%\n- Volume: 13,170,800\n- Market Cap: $25,844,061,831,168\n\nEarnings Data:\n- EPS: 200.17\n- Forward P/E: 23.65\n- Earnings Growth: 7.8%",
+      "content": "Stock: 6758.T (East Asia)\nCompany: Sony Group Corporation\nSector: Technology\n\nMarket Data:\n- Current Price: $4507.00\n- Previous Close: $4461.00\n- Change: 1.03%\n- Volume: 24,795,200\n- Market Cap: $26,888,087,011,328\n\nEarnings Data:\n- EPS: 200.11\n- Forward P/E: 24.60\n- Earnings Growth: 7.8%",
       "metadata": {
         "source": "api_agent",
         "type": "stock_data",
         "symbol": "6758.T",
         "region": "East Asia",
-        "timestamp": "2025-11-19T16:53:11.260678"
+        "timestamp": "2025-11-23T12:25:07.382025"
       }
     },
     {
-      "content": "Stock: 9888.HK (East Asia)\nCompany: Baidu, Inc.\nSector: Communication Services\n\nMarket Data:\n- Current Price: $111.20\n- Previous Close: $111.40\n- Change: -0.18%\n- Volume: 18,990,394\n- Market Cap: $311,940,448,256\n\nEarnings Data:\n- EPS: 10.66\n- Forward P/E: 9.76\n- Earnings Growth: N/A",
+      "content": "Stock: 9888.HK (East Asia)\nCompany: Baidu, Inc.\nSector: Communication Services\n\nMarket Data:\n- Current Price: $107.30\n- Previous Close: $113.90\n- Change: -5.79%\n- Volume: 22,834,313\n- Market Cap: $301,000,097,792\n\nEarnings Data:\n- EPS: 10.67\n- Forward P/E: 9.42\n- Earnings Growth: N/A",
       "metadata": {
         "source": "api_agent",
         "type": "stock_data",
         "symbol": "9888.HK",
         "region": "East Asia",
-        "timestamp": "2025-11-19T16:53:11.260678"
+        "timestamp": "2025-11-23T12:25:07.382025"
       }
     },
     {
-      "content": "Stock: BABA (East Asia)\nCompany: Alibaba Group Holding Limited\nSector: Consumer Cyclical\n\nMarket Data:\n- Current Price: $159.72\n- Previous Close: $157.71\n- Change: 1.27%\n- Volume: 12,413,600\n- Market Cap: $381,091,315,712\n\nEarnings Data:\n- EPS: 8.69\n- Forward P/E: 16.18\n- Earnings Growth: 81.8%",
+      "content": "Stock: BABA (East Asia)\nCompany: Alibaba Group Holding Limited\nSector: Consumer Cyclical\n\nMarket Data:\n- Current Price: $152.93\n- Previous Close: $153.28\n- Change: -0.23%\n- Volume: 16,224,000\n- Market Cap: $364,890,390,528\n\nEarnings Data:\n- EPS: 8.67\n- Forward P/E: 15.49\n- Earnings Growth: 81.8%",
       "metadata": {
         "source": "api_agent",
         "type": "stock_data",
         "symbol": "BABA",
         "region": "East Asia",
-        "timestamp": "2025-11-19T16:53:11.260678"
+        "timestamp": "2025-11-23T12:25:07.382025"
       }
     },
     {
-      "content": "Stock: 9984.T (East Asia)\nCompany: SoftBank Group Corp.\nSector: Communication Services\n\nMarket Data:\n- Current Price: $18825.00\n- Previous Close: $18820.00\n- Change: 0.03%\n- Volume: 20,230,200\n- Market Cap: $26,818,440,593,408\n\nEarnings Data:\n- EPS: 2139.83\n- Forward P/E: 63.75\n- Earnings Growth: 117.7%",
+      "content": "Stock: 9984.T (East Asia)\nCompany: SoftBank Group Corp.\nSector: Communication Services\n\nMarket Data:\n- Current Price: $17090.00\n- Previous Close: $19180.00\n- Change: -10.90%\n- Volume: 22,055,000\n- Market Cap: $24,346,728,857,600\n\nEarnings Data:\n- EPS: 2139.67\n- Forward P/E: 57.88\n- Earnings Growth: 117.7%",
       "metadata": {
         "source": "api_agent",
         "type": "stock_data",
         "symbol": "9984.T",
         "region": "East Asia",
-        "timestamp": "2025-11-19T16:53:11.260678"
+        "timestamp": "2025-11-23T12:25:07.382025"
       }
     },
     {
-      "content": "Stock: 000660.KS (East Asia)\nCompany: SK hynix Inc.\nSector: Technology\n\nMarket Data:\n- Current Price: $562000.00\n- Previous Close: $570000.00\n- Change: -1.40%\n- Volume: 4,779,807\n- Market Cap: $388,011,606,933,504\n\nEarnings Data:\n- EPS: N/A\n- Forward P/E: 7.23\n- Earnings Growth: N/A",
+      "content": "Stock: 000660.KS (East Asia)\nCompany: SK hynix Inc.\nSector: Technology\n\nMarket Data:\n- Current Price: $521000.00\n- Previous Close: $571000.00\n- Change: -8.76%\n- Volume: 6,646,712\n- Market Cap: $359,704,685,445,120\n\nEarnings Data:\n- EPS: N/A\n- Forward P/E: 6.69\n- Earnings Growth: 125.3%",
       "metadata": {
         "source": "api_agent",
         "type": "stock_data",
         "symbol": "000660.KS",
         "region": "East Asia",
-        "timestamp": "2025-11-19T16:53:11.260678"
+        "timestamp": "2025-11-23T12:25:07.382025"
       }
     },
     {
-      "content": "Regional Market Summary: South Asia\nTimestamp: N/A\nPortfolio Size: 4 stocks\nAverage Change: 3.05%\nTotal Market Cap: $24,858,541,162,496\nSuccessful Fetches: 4/4\n\nThis summary provides overview of South Asia tech stocks performance including price movements and market capitalization.",
+      "content": "Regional Market Summary: South Asia\nTimestamp: N/A\nPortfolio Size: 4 stocks\nAverage Change: -0.57%\nTotal Market Cap: $24,718,847,508,480\nSuccessful Fetches: 4/4\n\nThis summary provides overview of South Asia tech stocks performance including price movements and market capitalization.",
       "metadata": {
         "source": "api_agent",
         "type": "regional_summary",
         "region": "South Asia",
-        "timestamp": "2025-11-19T16:53:11.260678"
+        "timestamp": "2025-11-23T12:25:07.382025"
       }
     },
     {
-      "content": "Stock: TCS.BO (South Asia)\nCompany: Tata Consultancy Services Limited\nSector: Technology\n\nMarket Data:\n- Current Price: $3147.20\n- Previous Close: $3085.65\n- Change: 1.99%\n- Volume: 122,096\n- Market Cap: $11,386,844,348,416\n\nEarnings Data:\n- EPS: 136.69\n- Forward P/E: 20.67\n- Earnings Growth: 1.4%",
+      "content": "Stock: TCS.BO (South Asia)\nCompany: Tata Consultancy Services Limited\nSector: Technology\n\nMarket Data:\n- Current Price: $3150.05\n- Previous Close: $3145.75\n- Change: 0.14%\n- Volume: 242,380\n- Market Cap: $11,397,156,044,800\n\nEarnings Data:\n- EPS: 136.71\n- Forward P/E: 20.68\n- Earnings Growth: 1.4%",
       "metadata": {
         "source": "api_agent",
         "type": "stock_data",
         "symbol": "TCS.BO",
         "region": "South Asia",
-        "timestamp": "2025-11-19T16:53:11.260678"
+        "timestamp": "2025-11-23T12:25:07.382025"
       }
     },
     {
-      "content": "Stock: INFY.BO (South Asia)\nCompany: Infosys Limited\nSector: Technology\n\nMarket Data:\n- Current Price: $1541.25\n- Previous Close: $1485.65\n- Change: 3.74%\n- Volume: 415,125\n- Market Cap: $6,388,958,887,936\n\nEarnings Data:\n- EPS: 70.12\n- Forward P/E: 20.57\n- Earnings Growth: 6.6%",
+      "content": "Stock: INFY.BO (South Asia)\nCompany: Infosys Limited\nSector: Technology\n\nMarket Data:\n- Current Price: $1544.60\n- Previous Close: $1536.75\n- Change: 0.51%\n- Volume: 699,948\n- Market Cap: $6,402,845,704,192\n\nEarnings Data:\n- EPS: 69.97\n- Forward P/E: 20.61\n- Earnings Growth: 6.6%",
       "metadata": {
         "source": "api_agent",
         "type": "stock_data",
         "symbol": "INFY.BO",
         "region": "South Asia",
-        "timestamp": "2025-11-19T16:53:11.260678"
+        "timestamp": "2025-11-23T12:25:07.382025"
       }
     },
     {
-      "content": "Stock: WIPRO.BO (South Asia)\nCompany: Wipro Limited\nSector: Technology\n\nMarket Data:\n- Current Price: $246.05\n- Previous Close: $240.80\n- Change: 2.18%\n- Volume: 332,032\n- Market Cap: $2,576,837,509,120\n\nEarnings Data:\n- EPS: 12.86\n- Forward P/E: 11.32\n- Earnings Growth: 1.0%",
+      "content": "Stock: WIPRO.BO (South Asia)\nCompany: Wipro Limited\nSector: Technology\n\nMarket Data:\n- Current Price: $244.55\n- Previous Close: $246.20\n- Change: -0.67%\n- Volume: 102,257\n- Market Cap: $2,561,154,744,320\n\nEarnings Data:\n- EPS: 12.84\n- Forward P/E: 11.25\n- Earnings Growth: 1.0%",
       "metadata": {
         "source": "api_agent",
         "type": "stock_data",
         "symbol": "WIPRO.BO",
         "region": "South Asia",
-        "timestamp": "2025-11-19T16:53:11.260678"
+        "timestamp": "2025-11-23T12:25:07.382025"
       }
     },
     {
-      "content": "Stock: HCLTECH.BO (South Asia)\nCompany: HCL Technologies Limited\nSector: Technology\n\nMarket Data:\n- Current Price: $1663.00\n- Previous Close: $1594.75\n- Change: 4.28%\n- Volume: 165,189\n- Market Cap: $4,505,900,417,024\n\nEarnings Data:\n- EPS: 62.51\n- Forward P/E: 22.98\n- Earnings Growth: -3.9%",
+      "content": "Stock: HCLTECH.BO (South Asia)\nCompany: HCL Technologies Limited\nSector: Technology\n\nMarket Data:\n- Current Price: $1608.30\n- Previous Close: $1645.35\n- Change: -2.25%\n- Volume: 933,778\n- Market Cap: $4,357,691,015,168\n\nEarnings Data:\n- EPS: 62.56\n- Forward P/E: 22.23\n- Earnings Growth: -3.9%",
       "metadata": {
         "source": "api_agent",
         "type": "stock_data",
         "symbol": "HCLTECH.BO",
         "region": "South Asia",
-        "timestamp": "2025-11-19T16:53:11.260678"
+        "timestamp": "2025-11-23T12:25:07.382025"
       }
     },
     {
-      "content": "Regional Market Summary: Southeast Asia\nTimestamp: N/A\nPortfolio Size: 4 stocks\nAverage Change: -0.17%\nTotal Market Cap: $362,570,000,473,088\nSuccessful Fetches: 4/4\n\nThis summary provides overview of Southeast Asia tech stocks performance including price movements and market capitalization.",
+      "content": "Regional Market Summary: Southeast Asia\nTimestamp: N/A\nPortfolio Size: 4 stocks\nAverage Change: -1.56%\nTotal Market Cap: $347,707,680,397,312\nSuccessful Fetches: 4/4\n\nThis summary provides overview of Southeast Asia tech stocks performance including price movements and market capitalization.",
       "metadata": {
         "source": "api_agent",
         "type": "regional_summary",
         "region": "Southeast Asia",
-        "timestamp": "2025-11-19T16:53:11.260678"
+        "timestamp": "2025-11-23T12:25:07.382025"
       }
     },
     {
-      "content": "Stock: ADVANC.BK (Southeast Asia)\nCompany: Advanced Info Service Public Company Limited\nSector: Communication Services\n\nMarket Data:\n- Current Price: $313.00\n- Previous Close: $316.00\n- Change: -0.95%\n- Volume: 5,092,965\n- Market Cap: $930,927,673,344\n\nEarnings Data:\n- EPS: 14.41\n- Forward P/E: 24.86\n- Earnings Growth: 37.3%",
+      "content": "Stock: ADVANC.BK (Southeast Asia)\nCompany: Advanced Info Service Public Company Limited\nSector: Communication Services\n\nMarket Data:\n- Current Price: $312.00\n- Previous Close: $315.00\n- Change: -0.95%\n- Volume: 4,347,800\n- Market Cap: $927,953,453,056\n\nEarnings Data:\n- EPS: 14.41\n- Forward P/E: 24.78\n- Earnings Growth: 37.3%",
       "metadata": {
         "source": "api_agent",
         "type": "stock_data",
         "symbol": "ADVANC.BK",
         "region": "Southeast Asia",
-        "timestamp": "2025-11-19T16:53:11.260678"
+        "timestamp": "2025-11-23T12:25:07.382025"
       }
     },
     {
-      "content": "Stock: U11.SI (Southeast Asia)\nCompany: United Overseas Bank Limited\nSector: Financial Services\n\nMarket Data:\n- Current Price: $33.84\n- Previous Close: $34.03\n- Change: -0.56%\n- Volume: 3,210,190\n- Market Cap: $56,180,457,472\n\nEarnings Data:\n- EPS: 3.50\n- Forward P/E: 9.12\n- Earnings Growth: N/A",
+      "content": "Stock: U11.SI (Southeast Asia)\nCompany: United Overseas Bank Limited\nSector: Financial Services\n\nMarket Data:\n- Current Price: $33.85\n- Previous Close: $33.90\n- Change: -0.15%\n- Volume: 2,444,100\n- Market Cap: $56,197,054,464\n\nEarnings Data:\n- EPS: 3.50\n- Forward P/E: 9.12\n- Earnings Growth: N/A",
       "metadata": {
         "source": "api_agent",
         "type": "stock_data",
         "symbol": "U11.SI",
         "region": "Southeast Asia",
-        "timestamp": "2025-11-19T16:53:11.260678"
+        "timestamp": "2025-11-23T12:25:07.382025"
       }
     },
     {
-      "content": "Stock: TLKM.JK (Southeast Asia)\nCompany: Perusahaan Perseroan (Persero) PT Telekomunikasi Indonesia Tbk\nSector: Communication Services\n\nMarket Data:\n- Current Price: $3650.00\n- Previous Close: $3620.00\n- Change: 0.83%\n- Volume: 109,911,100\n- Market Cap: $361,577,089,859,584\n\nEarnings Data:\n- EPS: 219.37\n- Forward P/E: 13.98\n- Earnings Growth: -18.7%",
+      "content": "Stock: TLKM.JK (Southeast Asia)\nCompany: Perusahaan Perseroan (Persero) PT Telekomunikasi Indonesia Tbk\nSector: Communication Services\n\nMarket Data:\n- Current Price: $3500.00\n- Previous Close: $3640.00\n- Change: -3.85%\n- Volume: 93,181,600\n- Market Cap: $346,717,778,083,840\n\nEarnings Data:\n- EPS: 219.10\n- Forward P/E: 13.40\n- Earnings Growth: -18.7%",
       "metadata": {
         "source": "api_agent",
         "type": "stock_data",
         "symbol": "TLKM.JK",
         "region": "Southeast Asia",
-        "timestamp": "2025-11-19T16:53:11.260678"
+        "timestamp": "2025-11-23T12:25:07.382025"
       }
     },
     {
-      "content": "Stock: 5185.KL (Southeast Asia)\nCompany: AFFIN Bank Berhad\nSector: Financial Services\n\nMarket Data:\n- Current Price: $2.29\n- Previous Close: $2.29\n- Change: 0.00%\n- Volume: 1,093,500\n- Market Cap: $5,802,482,688\n\nEarnings Data:\n- EPS: 0.21\n- Forward P/E: 8.81\n- Earnings Growth: 18.4%",
+      "content": "Stock: 5185.KL (Southeast Asia)\nCompany: AFFIN Bank Berhad\nSector: Financial Services\n\nMarket Data:\n- Current Price: $2.27\n- Previous Close: $2.30\n- Change: -1.30%\n- Volume: 1,804,300\n- Market Cap: $5,751,805,952\n\nEarnings Data:\n- EPS: 0.21\n- Forward P/E: 8.73\n- Earnings Growth: -5.7%",
       "metadata": {
         "source": "api_agent",
         "type": "stock_data",
         "symbol": "5185.KL",
         "region": "Southeast Asia",
-        "timestamp": "2025-11-19T16:53:11.260678"
+        "timestamp": "2025-11-23T12:25:07.382025"
       }
     },
     {
-      "content": "Regional Market Summary: Western Asia\nTimestamp: N/A\nPortfolio Size: 3 stocks\nAverage Change: -0.52%\nTotal Market Cap: $6,371,034,652,672\nSuccessful Fetches: 2/3\n\nThis summary provides overview of Western Asia tech stocks performance including price movements and market capitalization.",
+      "content": "Regional Market Summary: Western Asia\nTimestamp: N/A\nPortfolio Size: 3 stocks\nAverage Change: -0.78%\nTotal Market Cap: $6,353,454,088,192\nSuccessful Fetches: 2/3\n\nThis summary provides overview of Western Asia tech stocks performance including price movements and market capitalization.",
       "metadata": {
         "source": "api_agent",
         "type": "regional_summary",
         "region": "Western Asia",
-        "timestamp": "2025-11-19T16:53:11.260678"
+        "timestamp": "2025-11-23T12:25:07.382025"
       }
     },
     {
-      "content": "Stock: EMAAR.AE (Western Asia)\nCompany: Emaar Properties PJSC\nSector: Real Estate\n\nMarket Data:\n- Current Price: $13.20\n- Previous Close: $13.35\n- Change: -1.12%\n- Volume: 17,141,057\n- Market Cap: $116,672,028,672\n\nEarnings Data:\n- EPS: 1.87\n- Forward P/E: 9.36\n- Earnings Growth: 36.1%",
+      "content": "Stock: EMAAR.AE (Western Asia)\nCompany: Emaar Properties PJSC\nSector: Real Estate\n\nMarket Data:\n- Current Price: $13.40\n- Previous Close: $13.55\n- Change: -1.11%\n- Volume: 9,850,610\n- Market Cap: $118,439,788,544\n\nEarnings Data:\n- EPS: 1.87\n- Forward P/E: 9.50\n- Earnings Growth: 36.1%",
       "metadata": {
         "source": "api_agent",
         "type": "stock_data",
         "symbol": "EMAAR.AE",
         "region": "Western Asia",
-        "timestamp": "2025-11-19T16:53:11.260678"
+        "timestamp": "2025-11-23T12:25:07.382025"
       }
     },
     {
-      "content": "Stock: 2222.SR (Western Asia)\nCompany: Saudi Arabian Oil Company\nSector: Energy\n\nMarket Data:\n- Current Price: $25.86\n- Previous Close: $25.84\n- Change: 0.08%\n- Volume: 9,953,064\n- Market Cap: $6,254,362,624,000\n\nEarnings Data:\n- EPS: 1.51\n- Forward P/E: 15.49\n- Earnings Growth: 0.0%",
+      "content": "Stock: 2222.SR (Western Asia)\nCompany: Saudi Arabian Oil Company\nSector: Energy\n\nMarket Data:\n- Current Price: $25.78\n- Previous Close: $25.90\n- Change: -0.46%\n- Volume: 6,688,965\n- Market Cap: $6,235,014,299,648\n\nEarnings Data:\n- EPS: 1.51\n- Forward P/E: 15.44\n- Earnings Growth: 0.0%",
       "metadata": {
         "source": "api_agent",
         "type": "stock_data",
         "symbol": "2222.SR",
         "region": "Western Asia",
-        "timestamp": "2025-11-19T16:53:11.260678"
+        "timestamp": "2025-11-23T12:25:07.382025"
       }
     },
     {
-      "content": "Regional Sentiment Analysis: East Asia\nTimestamp: 2025-11-19T16:56:44.040590\nTotal Stocks Analyzed: 18\n\nSentiment Breakdown:\n- Positive Stocks: 4\n- Negative Stocks: 1\n- Neutral Stocks: 13\n- Overall Trend: POSITIVE\n\nThis analysis provides market sentiment overview for East Asia based on recent news and articles.",
+      "content": "Regional Sentiment Analysis: East Asia\nTimestamp: 2025-11-23T12:32:36.559013\nTotal Stocks Analyzed: 18\n\nSentiment Breakdown:\n- Positive Stocks: 10\n- Negative Stocks: 0\n- Neutral Stocks: 8\n- Overall Trend: POSITIVE\n\nThis analysis provides market sentiment overview for East Asia based on recent news and articles.",
       "metadata": {
         "source": "scraping_agent",
         "type": "regional_sentiment",
         "region": "East Asia",
-        "timestamp": "2025-11-19T16:56:44.040590"
+        "timestamp": "2025-11-23T12:32:36.559013"
       }
     },
     {
-      "content": "Stock Sentiment: BABA (East Asia)\nTimestamp: 2025-11-19T16:57:20.788563\n\nOverall Sentiment: NEUTRAL\nConfidence: 0.67\nArticles Analyzed: 3\n\nSentiment Distribution:\n- Positive: 33.3%\n- Negative: 0.0%\n- Neutral: 66.7%\n\nRecommendation: \ud83d\udfe1 HOLD",
+      "content": "Stock Sentiment: BABA (East Asia)\nTimestamp: 2025-11-23T12:32:47.047586\n\nOverall Sentiment: POSITIVE\nConfidence: 1.00\nArticles Analyzed: 3\n\nSentiment Distribution:\n- Positive: 100.0%\n- Negative: 0.0%\n- Neutral: 0.0%\n\nRecommendation: \ud83d\udfe2 STRONG BUY",
       "metadata": {
         "source": "scraping_agent",
         "type": "stock_sentiment",
         "symbol": "BABA",
         "region": "East Asia",
-        "timestamp": "2025-11-19T16:56:44.040590"
+        "timestamp": "2025-11-23T12:32:36.559013"
       }
     },
     {
-      "content": "News Article: BABA (East Asia)\nTitle: Alibaba (BABA) Stock Slides as Market Rises: Facts to Know Before You Trade - Yahoo Finance\nPublished: Tue, 11 Nov 2025 22:45:04 GMT\nSource: Yahoo Finance\n\nHeadline Sentiment: POSITIVE\nConfidence: 1.00",
+      "content": "News Article: BABA (East Asia)\nTitle: Alibaba Stock (BABA) Got a Price Target Boost from Top Mizuho Analyst Ahead of Q2 - TipRanks\nPublished: Thu, 20 Nov 2025 11:24:25 GMT\nSource: TipRanks\n\nHeadline Sentiment: POSITIVE\nConfidence: 1.00",
       "metadata": {
         "source": "scraping_agent",
         "type": "news_article",
         "symbol": "BABA",
         "region": "East Asia",
-        "timestamp": "Tue, 11 Nov 2025 22:45:04 GMT"
+        "timestamp": "Thu, 20 Nov 2025 11:24:25 GMT"
+      }
+    },
+    {
+      "content": "Headline Sentiment: POSITIVE\nConfidence: 1.00\n\nSummary: <a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNZFlINS1jZFdGOFZIdVNuVGNpU0VDbVBTMTQ0d19hckVOcmxTSnRzSEJPeHRnRk9uc1FOQUlNLWNQQlhHeUtsMGVZOW1yaTBqc3E2UHBpbXdBeUNZcFl3QnZlNzdKMWJ5bEtISUFEcUxwc0h3OE9Bd0dVUmtvY2lEWG5MREJYcmFUMmdyZFhESzRCYVpxdHdCZ2FkYTRKQklndkpxd3hnRld2aEZVM1E?oc=5\" target=\"",
+      "metadata": {
+        "source": "scraping_agent",
+        "type": "news_article",
+        "symbol": "BABA",
+        "region": "East Asia",
+        "timestamp": "Thu, 20 Nov 2025 11:24:25 GMT"
+      }
+    },
+    {
+      "content": "News Article: BABA (East Asia)\nTitle: Alibaba (BABA) Stock Slides as Market Rises: Facts to Know Before You Trade - Yahoo Finance\nPublished: Tue, 11 Nov 2025 08:00:00 GMT\nSource: Yahoo Finance\n\nHeadline Sentiment: POSITIVE\nConfidence: 1.00",
+      "metadata": {
+        "source": "scraping_agent",
+        "type": "news_article",
+        "symbol": "BABA",
+        "region": "East Asia",
+        "timestamp": "Tue, 11 Nov 2025 08:00:00 GMT"
       }
     },
     {
@@ -1869,77 +1819,37 @@
         "type": "news_article",
         "symbol": "BABA",
         "region": "East Asia",
-        "timestamp": "Tue, 11 Nov 2025 22:45:04 GMT"
+        "timestamp": "Tue, 11 Nov 2025 08:00:00 GMT"
       }
     },
     {
-      "content": "News Article: BABA (East Asia)\nTitle: Alibaba Stock Price Forecast - BABA Slides To $153 As AI Bets Collide With Earnings Pressure And Market Selloff - TradingNEWS\nPublished: Fri, 14 Nov 2025 18:39:46 GMT\nSource: TradingNEWS\n\nHeadline Sentiment: NEUTRAL\nConfidence: 0.50",
+      "content": "News Article: BABA (East Asia)\nTitle: Alibaba Group Holding Limited $BABA Shares Purchased by Handelsbanken Fonder AB - MarketBeat\nPublished: Fri, 21 Nov 2025 11:49:34 GMT\nSource: MarketBeat\n\nHeadline Sentiment: POSITIVE\nConfidence: 1.00",
       "metadata": {
         "source": "scraping_agent",
         "type": "news_article",
         "symbol": "BABA",
         "region": "East Asia",
-        "timestamp": "Fri, 14 Nov 2025 18:39:46 GMT"
+        "timestamp": "Fri, 21 Nov 2025 11:49:34 GMT"
       }
     },
     {
-      "content": "Headline Sentiment: NEUTRAL\nConfidence: 0.50\n\nSummary: <a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQRldYaWM2MC1iR0dBYllzZGk5aHRJVXdmSXlqWkpCNVdFQVkxSWduZ2dZdFZHSHRhN2Z3VmNteXlzcDlicGVWbFVWMHNUT2ZKeEo3X2xxYlo2RFlaWUFPR1JIQnhxVjMydzFSY084UEtUaTF5Q21lN05wa0VTTkxjZWpfNENOVUhsN1dzbi16RFAyR1o3MG83c2g3b3M1Mk94YnMzTXBuNzNpX1dNaGkw?oc=5\" target=",
+      "content": "Headline Sentiment: POSITIVE\nConfidence: 1.00\n\nSummary: <a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxQcFNZSHMzNmdjSWI4akhoUnItZVN0TnVhLVhpMlFBcWlSWFBtcnJXZF9lcXVPZ0RnUzE3ZVNmN3pVSHBiVm43andJdTVHTTBrZ2wwSVQtbEtlRVhRWmljR3B1VjFFZVcxbWMzdV9ra3lmOWRzZHBCcUtPeXlkOEwyS1l0YXBlcUdpU2xycE9QbmZtbVVKTkFKZ0RnSHo0bXhkbUs2LUpmak04Rm5pc2o5NUFERjR0Y3JjdC",
       "metadata": {
         "source": "scraping_agent",
         "type": "news_article",
         "symbol": "BABA",
         "region": "East Asia",
-        "timestamp": "Fri, 14 Nov 2025 18:39:46 GMT"
+        "timestamp": "Fri, 21 Nov 2025 11:49:34 GMT"
       }
     },
     {
-      "content": "News Article: BABA (East Asia)\nTitle: What's Going On With Alibaba Stock Today? - Alibaba Gr Hldgs (NYSE:BABA) - Benzinga\nPublished: Fri, 14 Nov 2025 20:38:30 GMT\nSource: Benzinga\n\nHeadline Sentiment: NEUTRAL\nConfidence: 0.50",
-      "metadata": {
-        "source": "scraping_agent",
-        "type": "news_article",
-        "symbol": "BABA",
-        "region": "East Asia",
-        "timestamp": "Fri, 14 Nov 2025 20:38:30 GMT"
-      }
-    },
-    {
-      "content": "Headline Sentiment: NEUTRAL\nConfidence: 0.50\n\nSummary: <a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPbE5JTkEtR2lFTkJvblZPR1NBVzJxZk5YakwyT3hDYkRIZWstYTlvbWZDOEtYU0x4eVE5aTV0ckpxVE0xUzFrRUpRell0d0x5cnZ0MmVReC1LUEc2TGx4YThrR3VfRkpiSjM3dlZVVTJuZXRyMlNPbUFxTHBROFBKVkZYb2QybFh1RnVVN1lXcGVLZUczSWFEOG9zSEMtMnRmeDJmaA?oc=5\" target=\"_blank\">What'",
-      "metadata": {
-        "source": "scraping_agent",
-        "type": "news_article",
-        "symbol": "BABA",
-        "region": "East Asia",
-        "timestamp": "Fri, 14 Nov 2025 20:38:30 GMT"
-      }
-    },
-    {
-      "content": "Stock Sentiment: 9888.HK (East Asia)\nTimestamp: 2025-11-19T17:05:09.057351\n\nOverall Sentiment: NEUTRAL\nConfidence: 0.67\nArticles Analyzed: 3\n\nSentiment Distribution:\n- Positive: 33.3%\n- Negative: 0.0%\n- Neutral: 66.7%\n\nRecommendation: \ud83d\udfe1 HOLD",
+      "content": "Stock Sentiment: 9888.HK (East Asia)\nTimestamp: 2025-11-23T12:36:36.963103\n\nOverall Sentiment: NEUTRAL\nConfidence: 0.67\nArticles Analyzed: 3\n\nSentiment Distribution:\n- Positive: 33.3%\n- Negative: 0.0%\n- Neutral: 66.7%\n\nRecommendation: \ud83d\udfe1 HOLD",
       "metadata": {
         "source": "scraping_agent",
         "type": "stock_sentiment",
         "symbol": "9888.HK",
         "region": "East Asia",
-        "timestamp": "2025-11-19T16:56:44.040590"
-      }
-    },
-    {
-      "content": "News Article: 9888.HK (East Asia)\nTitle: Baidu Announces Pricing of CNY4.4 Billion CNY-denominated Senior Notes - Yahoo Finance\nPublished: Mon, 08 Sep 2025 07:00:00 GMT\nSource: Yahoo Finance\n\nHeadline Sentiment: NEUTRAL\nConfidence: 0.50",
-      "metadata": {
-        "source": "scraping_agent",
-        "type": "news_article",
-        "symbol": "9888.HK",
-        "region": "East Asia",
-        "timestamp": "Mon, 08 Sep 2025 07:00:00 GMT"
-      }
-    },
-    {
-      "content": "Headline Sentiment: NEUTRAL\nConfidence: 0.50\n\nSummary: <a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOd2dFU1lyQjJ0dEtObnFLRUZkQXRmLUEyZ2M5aGtBUU5Wb1hfS3dJUW45eDVFUVZiYk10dVpub09COFR3dHktdUJCYXc3bDNOOVpuY19Oc0tOZ3dUN3B0em5lOWlxeS1naGE4aTVYSHRTZWFESnBJR2dqRXA0NkJxN05n?oc=5\" target=\"_blank\">Baidu Announces Pricing of CNY4.4 Billion CNY-denom",
-      "metadata": {
-        "source": "scraping_agent",
-        "type": "news_article",
-        "symbol": "9888.HK",
-        "region": "East Asia",
-        "timestamp": "Mon, 08 Sep 2025 07:00:00 GMT"
+        "timestamp": "2025-11-23T12:32:36.559013"
       }
     },
     {
@@ -1963,6 +1873,26 @@
       }
     },
     {
+      "content": "News Article: 9888.HK (East Asia)\nTitle: Baidu Announces Pricing of CNY4.4 Billion CNY-denominated Senior Notes - Yahoo Finance\nPublished: Mon, 08 Sep 2025 07:00:00 GMT\nSource: Yahoo Finance\n\nHeadline Sentiment: NEUTRAL\nConfidence: 0.50",
+      "metadata": {
+        "source": "scraping_agent",
+        "type": "news_article",
+        "symbol": "9888.HK",
+        "region": "East Asia",
+        "timestamp": "Mon, 08 Sep 2025 07:00:00 GMT"
+      }
+    },
+    {
+      "content": "Headline Sentiment: NEUTRAL\nConfidence: 0.50\n\nSummary: <a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOd2dFU1lyQjJ0dEtObnFLRUZkQXRmLUEyZ2M5aGtBUU5Wb1hfS3dJUW45eDVFUVZiYk10dVpub09COFR3dHktdUJCYXc3bDNOOVpuY19Oc0tOZ3dUN3B0em5lOWlxeS1naGE4aTVYSHRTZWFESnBJR2dqRXA0NkJxN05n?oc=5\" target=\"_blank\">Baidu Announces Pricing of CNY4.4 Billion CNY-denom",
+      "metadata": {
+        "source": "scraping_agent",
+        "type": "news_article",
+        "symbol": "9888.HK",
+        "region": "East Asia",
+        "timestamp": "Mon, 08 Sep 2025 07:00:00 GMT"
+      }
+    },
+    {
       "content": "News Article: 9888.HK (East Asia)\nTitle: Baidu share slide wipes $2.4 billion off market value amid speculation over Xi meeting - Reuters\nPublished: Mon, 17 Feb 2025 08:00:00 GMT\nSource: Reuters\n\nHeadline Sentiment: NEUTRAL\nConfidence: 0.50",
       "metadata": {
         "source": "scraping_agent",
@@ -1983,13 +1913,33 @@
       }
     },
     {
-      "content": "Stock Sentiment: TCEHY (East Asia)\nTimestamp: 2025-11-19T16:58:19.459096\n\nOverall Sentiment: NEUTRAL\nConfidence: 0.67\nArticles Analyzed: 3\n\nSentiment Distribution:\n- Positive: 33.3%\n- Negative: 0.0%\n- Neutral: 66.7%\n\nRecommendation: \ud83d\udfe1 HOLD",
+      "content": "Stock Sentiment: TCEHY (East Asia)\nTimestamp: 2025-11-23T12:33:06.230631\n\nOverall Sentiment: POSITIVE\nConfidence: 0.67\nArticles Analyzed: 3\n\nSentiment Distribution:\n- Positive: 66.7%\n- Negative: 0.0%\n- Neutral: 33.3%\n\nRecommendation: \ud83d\udfe2 BUY",
       "metadata": {
         "source": "scraping_agent",
         "type": "stock_sentiment",
         "symbol": "TCEHY",
         "region": "East Asia",
-        "timestamp": "2025-11-19T16:56:44.040590"
+        "timestamp": "2025-11-23T12:32:36.559013"
+      }
+    },
+    {
+      "content": "News Article: TCEHY (East Asia)\nTitle: Tencent (OTCMKTS:TCEHY) Stock Passes Above 200 Day Moving Average - Here's Why - MarketBeat\nPublished: Fri, 21 Nov 2025 09:51:05 GMT\nSource: MarketBeat\n\nHeadline Sentiment: POSITIVE\nConfidence: 1.00",
+      "metadata": {
+        "source": "scraping_agent",
+        "type": "news_article",
+        "symbol": "TCEHY",
+        "region": "East Asia",
+        "timestamp": "Fri, 21 Nov 2025 09:51:05 GMT"
+      }
+    },
+    {
+      "content": "Headline Sentiment: POSITIVE\nConfidence: 1.00\n\nSummary: <a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQa2h1TjRDY19DWnFpWjFIUFZqNXZkNU81eF9HYk1XRUN6UEY5TmY4czNyT21Oa0lhOElRc0hsWUNhdHhqNE45dVd5dXRwWjZ3ZVhfRU9mLUNBckFNUmxOZW9LdEgxYVdWcWplbHJxX3R6WWRXajRYMV9UY0IzRmQxOXBhNC1reHl5NXM5ckNORzR2NG1FR2VpM1o5VThhRUhvUk51NEhHWlRlSHlKSHZQRlladnFkWlhiSn",
+      "metadata": {
+        "source": "scraping_agent",
+        "type": "news_article",
+        "symbol": "TCEHY",
+        "region": "East Asia",
+        "timestamp": "Fri, 21 Nov 2025 09:51:05 GMT"
       }
     },
     {
@@ -2023,33 +1973,33 @@
       }
     },
     {
-      "content": "News Article: TCEHY (East Asia)\nTitle: Tencent: Good Prospects, Priced In For Now (OTCMKTS:TCEHY) - Seeking Alpha\nPublished: Tue, 26 Aug 2025 07:00:00 GMT\nSource: Seeking Alpha\n\nHeadline Sentiment: NEUTRAL\nConfidence: 0.50",
-      "metadata": {
-        "source": "scraping_agent",
-        "type": "news_article",
-        "symbol": "TCEHY",
-        "region": "East Asia",
-        "timestamp": "Tue, 26 Aug 2025 07:00:00 GMT"
-      }
-    },
-    {
-      "content": "Headline Sentiment: NEUTRAL\nConfidence: 0.50\n\nSummary: <a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUGx0ckh6TFRjNG9JUkRKeUN6c0xNV3AzZUtFTFdlTFZBc1VUNzlrZ2E0Xzd4eXRPWW0xQjA0dXB3STFuVEhWVndtMTV0Qll3alpXcllEZHdwZkdqR2wzWDNySnFIRHNrTmx3ZUE2OFJrbHVraDU0elV2cHRJc2JUMHJUZFpVbjBq?oc=5\" target=\"_blank\">Tencent: Good Prospects, Priced In For Now",
-      "metadata": {
-        "source": "scraping_agent",
-        "type": "news_article",
-        "symbol": "TCEHY",
-        "region": "East Asia",
-        "timestamp": "Tue, 26 Aug 2025 07:00:00 GMT"
-      }
-    },
-    {
-      "content": "Stock Sentiment: 0700.HK (East Asia)\nTimestamp: 2025-11-19T17:03:51.397084\n\nOverall Sentiment: NEUTRAL\nConfidence: 0.67\nArticles Analyzed: 3\n\nSentiment Distribution:\n- Positive: 33.3%\n- Negative: 0.0%\n- Neutral: 66.7%\n\nRecommendation: \ud83d\udfe1 HOLD",
+      "content": "Stock Sentiment: 0700.HK (East Asia)\nTimestamp: 2025-11-23T12:36:11.926442\n\nOverall Sentiment: POSITIVE\nConfidence: 0.67\nArticles Analyzed: 3\n\nSentiment Distribution:\n- Positive: 66.7%\n- Negative: 0.0%\n- Neutral: 33.3%\n\nRecommendation: \ud83d\udfe2 BUY",
       "metadata": {
         "source": "scraping_agent",
         "type": "stock_sentiment",
         "symbol": "0700.HK",
         "region": "East Asia",
-        "timestamp": "2025-11-19T16:56:44.040590"
+        "timestamp": "2025-11-23T12:32:36.559013"
+      }
+    },
+    {
+      "content": "News Article: 0700.HK (East Asia)\nTitle: Tencent (0700.HK) Stock: Gains Over 2% on Strategic Vantage Studios Investment - parameter.io\nPublished: Sat, 22 Nov 2025 15:33:27 GMT\nSource: parameter.io\n\nHeadline Sentiment: POSITIVE\nConfidence: 1.00",
+      "metadata": {
+        "source": "scraping_agent",
+        "type": "news_article",
+        "symbol": "0700.HK",
+        "region": "East Asia",
+        "timestamp": "Sat, 22 Nov 2025 15:33:27 GMT"
+      }
+    },
+    {
+      "content": "Headline Sentiment: POSITIVE\nConfidence: 1.00\n\nSummary: <a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOcTZDN3IwcDlURnZkQlBkeFZrcFl4NGVQQXJsUnZfX0g4NjRlNWdIMXZUa1g4QXZ2U1FUa3lUUHFBSkg1QTFMWFVlWExFMVpoYXV6MjAtYWdMV3hfb0IyY1l5eWl5YW9sMHBXbFJoSU1McGU0WGY1VmpQZElzN3ZMdUVVMVp3bWlKZ2Z3aDE2cGE1NzMtZzYtLXl2bGQ?oc=5\" target=\"_blank\">Tencent (0700.HK",
+      "metadata": {
+        "source": "scraping_agent",
+        "type": "news_article",
+        "symbol": "0700.HK",
+        "region": "East Asia",
+        "timestamp": "Sat, 22 Nov 2025 15:33:27 GMT"
       }
     },
     {
@@ -2073,16 +2023,6 @@
       }
     },
     {
-      "content": "News Article: 0700.HK (East Asia)\nTitle: \u817e\u8baf\u63a7\u80a1(0700.HK)\u57fa\u672c\u70b9\u8bc4\uff1a\u5b63\u5ea6\u4e1a\u7ee9\u7a33\u5065\u589e\u957f \u521b\u65b0\u6210\u4e3a\u6218\u7565\u6838\u5fc3\u9a71\u52a8\u529b - Futubull - \u5bcc\u9014\u725b\u725b\nPublished: Wed, 12 Nov 2025 16:00:00 GMT\nSource: \u5bcc\u9014\u725b\u725b\n\nHeadline Sentiment: NEUTRAL\nConfidence: 0.50\n\nSummary: <a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOcHRDejk1UUpxZ1d0aDRSQXhMU0t0dndjU3Z3LWZqOTIyOXZ5THh2aXRSNTMzWllzMUw0LUZwWVUyYmptNEV6MzZCdEF6MWtPMnFJQ0xReTIyYU5vX2x0NS1jTFhXN016VVJPWnZORzlIdHZaTzlqTDVrNFVUQXBzcEhHdVJ6QlF6Y0FjY0QtZlpBYkdfTEdNclFjZVRLQklGUmZpUzRNTDdDdEdwNzZV?oc=5\" target=",
-      "metadata": {
-        "source": "scraping_agent",
-        "type": "news_article",
-        "symbol": "0700.HK",
-        "region": "East Asia",
-        "timestamp": "Wed, 12 Nov 2025 16:00:00 GMT"
-      }
-    },
-    {
       "content": "News Article: 0700.HK (East Asia)\nTitle: Tencent (0700.HK) Stock: Gains 2.56% After $1.3B Multi-Tranche Bond Issuance Exceeds Target - CoinCentral\nPublished: Wed, 17 Sep 2025 07:00:00 GMT\nSource: CoinCentral\n\nHeadline Sentiment: POSITIVE\nConfidence: 1.00",
       "metadata": {
         "source": "scraping_agent",
@@ -2103,83 +2043,83 @@
       }
     },
     {
-      "content": "Stock Sentiment: BIDU (East Asia)\nTimestamp: 2025-11-19T16:59:12.693714\n\nOverall Sentiment: NEUTRAL\nConfidence: 0.67\nArticles Analyzed: 3\n\nSentiment Distribution:\n- Positive: 33.3%\n- Negative: 0.0%\n- Neutral: 66.7%\n\nRecommendation: \ud83d\udfe1 HOLD",
+      "content": "Stock Sentiment: BIDU (East Asia)\nTimestamp: 2025-11-23T12:33:45.676326\n\nOverall Sentiment: POSITIVE\nConfidence: 1.00\nArticles Analyzed: 3\n\nSentiment Distribution:\n- Positive: 100.0%\n- Negative: 0.0%\n- Neutral: 0.0%\n\nRecommendation: \ud83d\udfe2 STRONG BUY",
       "metadata": {
         "source": "scraping_agent",
         "type": "stock_sentiment",
         "symbol": "BIDU",
         "region": "East Asia",
-        "timestamp": "2025-11-19T16:56:44.040590"
+        "timestamp": "2025-11-23T12:32:36.559013"
       }
     },
     {
-      "content": "News Article: BIDU (East Asia)\nTitle: Buy, Sell or Hold Baidu Stock? Key Tips Ahead of Q3 Earnings - Yahoo Finance\nPublished: Fri, 14 Nov 2025 12:51:00 GMT\nSource: Yahoo Finance\n\nHeadline Sentiment: NEUTRAL\nConfidence: 0.50",
+      "content": "News Article: BIDU (East Asia)\nTitle: Baidu (BIDU) Stock; Company Reports 50% AI Revenue Surge Amid \u2018AI Plus\u2019 Push - CoinCentral\nPublished: Thu, 20 Nov 2025 11:58:37 GMT\nSource: CoinCentral\n\nHeadline Sentiment: POSITIVE\nConfidence: 1.00",
       "metadata": {
         "source": "scraping_agent",
         "type": "news_article",
         "symbol": "BIDU",
         "region": "East Asia",
-        "timestamp": "Fri, 14 Nov 2025 12:51:00 GMT"
+        "timestamp": "Thu, 20 Nov 2025 11:58:37 GMT"
       }
     },
     {
-      "content": "Headline Sentiment: NEUTRAL\nConfidence: 0.50\n\nSummary: <a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE5NbWFLX19meVdSX20tUFQ3YXBpQ2M2OE4wMWlkNFZBUjZfalBkVU0wQjFmUVZVcnFpYkR0UE1sQnlJLUNHWVpXS1ZCSVdCTDlJZ1VEUWo4bC1lRWNuVnp5S2FERWIwMkxnaG9RTDhiRzNYU1JEdjhNeEZ5QQ?oc=5\" target=\"_blank\">Buy, Sell or Hold Baidu Stock? Key Tips Ahead of Q3 Earnings<",
+      "content": "Headline Sentiment: POSITIVE\nConfidence: 1.00\n\nSummary: <a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPbldwaUdaMlJST3FYT1JVZDdQUDNUMno1VTBFOHR2UDc5X1dPQ3ctejhkMzZGYjhOd013aGt3WW9YOF9fS0dFa3UzeFMyLUZna25CelFjWUw5X0Y4VGtfTnJXZUJRQkxfaE5fdjdIcVhvMHlhdDRyRVo2UUZveHpybGI0Y1VYZFZoN2ktczY0MVRzSzVESGhYcnJYSQ?oc=5\" target=\"_blank\">Baidu (BIDU) Stoc",
       "metadata": {
         "source": "scraping_agent",
         "type": "news_article",
         "symbol": "BIDU",
         "region": "East Asia",
-        "timestamp": "Fri, 14 Nov 2025 12:51:00 GMT"
+        "timestamp": "Thu, 20 Nov 2025 11:58:37 GMT"
       }
     },
     {
-      "content": "News Article: BIDU (East Asia)\nTitle: BIDU Q3 Earnings: Baidu Stock Jumps on Strong Sales and Earnings Beat - TipRanks\nPublished: Tue, 18 Nov 2025 10:18:45 GMT\nSource: TipRanks\n\nHeadline Sentiment: POSITIVE\nConfidence: 1.00",
+      "content": "News Article: BIDU (East Asia)\nTitle: Bank of America Forecasts Strong Price Appreciation for Baidu (NASDAQ:BIDU) Stock - MarketBeat\nPublished: Thu, 20 Nov 2025 18:15:48 GMT\nSource: MarketBeat\n\nHeadline Sentiment: POSITIVE\nConfidence: 1.00",
       "metadata": {
         "source": "scraping_agent",
         "type": "news_article",
         "symbol": "BIDU",
         "region": "East Asia",
-        "timestamp": "Tue, 18 Nov 2025 10:18:45 GMT"
+        "timestamp": "Thu, 20 Nov 2025 18:15:48 GMT"
       }
     },
     {
-      "content": "Headline Sentiment: POSITIVE\nConfidence: 1.00\n\nSummary: <a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOUjl5d1pTaV80eDlMUXdkQmlaSWZfSE5xeFQ0V0duREZfUjlBSFVVVElRRU03S3U1UUdYRTNyVkxsZXlMVFdrRFljUTVzOVFDSkhQeGVscHcwejdTU2RVRkIzdG9kc1BhQzctMFpvcnQtZ1RwSExwYTVXcDBQZmdCT1dmeUtoSkI2MkVKdXNvVTJfRVZ4Z0VOemUxcjdVSGc?oc=5\" target=\"_blank\">BIDU Q3 Earn",
+      "content": "Headline Sentiment: POSITIVE\nConfidence: 1.00\n\nSummary: <a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPLUUtZGgtVDRfR3hYU3QzM3dTQTMzRmd6SXlwcU4tTUxueUVrMGJxcmRNejRQZnlvcS1jcGE3OXFuOHpTWEUtWFM5TmpaTXcxOGdCY0x0RnZRMG4yMHNUOFk0YTcydFJvT0tfNmI0ZzJMS1lpaDExaXRab2hkam9fUmF4aVBudGptZUI1dVpmV25rREJPX25wMWNaRUNHQWhhSnZ3a2ZBZXlaUFNJVEo0bXRHREI3ejZ1Uk",
       "metadata": {
         "source": "scraping_agent",
         "type": "news_article",
         "symbol": "BIDU",
         "region": "East Asia",
-        "timestamp": "Tue, 18 Nov 2025 10:18:45 GMT"
+        "timestamp": "Thu, 20 Nov 2025 18:15:48 GMT"
       }
     },
     {
-      "content": "News Article: BIDU (East Asia)\nTitle: Baidu stock price is in a bear market: will it rebound after earnings? - CryptoRank\nPublished: Tue, 18 Nov 2025 16:53:38 GMT\nSource: CryptoRank\n\nHeadline Sentiment: NEUTRAL\nConfidence: 0.50",
+      "content": "News Article: BIDU (East Asia)\nTitle: How BIDU stock compares to market leaders - Layoff News & Verified Momentum Stock Alerts - newser.com\nPublished: Wed, 19 Nov 2025 20:16:12 GMT\nSource: newser.com\n\nHeadline Sentiment: POSITIVE\nConfidence: 1.00",
       "metadata": {
         "source": "scraping_agent",
         "type": "news_article",
         "symbol": "BIDU",
         "region": "East Asia",
-        "timestamp": "Tue, 18 Nov 2025 16:53:38 GMT"
+        "timestamp": "Wed, 19 Nov 2025 20:16:12 GMT"
       }
     },
     {
-      "content": "Headline Sentiment: NEUTRAL\nConfidence: 0.50\n\nSummary: <a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNd0lRQ0prcUlCX2l6TnRoYzN4TzBQdW5OMG5CTVJkdTcxeXZNcG9DU3RfUFZvY3hxX1BHRVFfb1Rfc2RkVWxBdG45Y0c2bTJqV2pVeVhESnY0V0Mtd0FwN09rV0dJYXR4dkstY1lYTFRYUUp5bF81Y2gtcEpLaGFyUHpNZ0Q3a1J2RTA0a3pEWTJDVklKY3N1THVMUXFONHR5Z1lSOWE1U2hidw?oc=5\" target=\"_blan",
+      "content": "Headline Sentiment: POSITIVE\nConfidence: 1.00\n\nSummary: <a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNMkF4SzhwTVVjNnFNT0o3cUJNQVo2R0c2Tml3bVZHaVZMMEhjajNnR05udENoaTM1eVVjLVozNEh6MnlsVzRwLThNNkJrNXYybU82VWVEUUZGWlZxRXN3eVdKNndZcTNnZ2lXTjZuMDVFTTRTcmF0cERvOVZ4NzMzWWNR?oc=5\" target=\"_blank\">How BIDU stock compares to market leaders - Layoff",
       "metadata": {
         "source": "scraping_agent",
         "type": "news_article",
         "symbol": "BIDU",
         "region": "East Asia",
-        "timestamp": "Tue, 18 Nov 2025 16:53:38 GMT"
+        "timestamp": "Wed, 19 Nov 2025 20:16:12 GMT"
       }
     },
     {
-      "content": "Stock Sentiment: 6758.T (East Asia)\nTimestamp: 2025-11-19T16:59:38.679594\n\nOverall Sentiment: POSITIVE\nConfidence: 1.00\nArticles Analyzed: 3\n\nSentiment Distribution:\n- Positive: 100.0%\n- Negative: 0.0%\n- Neutral: 0.0%\n\nRecommendation: \ud83d\udfe2 STRONG BUY",
+      "content": "Stock Sentiment: 6758.T (East Asia)\nTimestamp: 2025-11-23T12:33:53.891529\n\nOverall Sentiment: POSITIVE\nConfidence: 1.00\nArticles Analyzed: 3\n\nSentiment Distribution:\n- Positive: 100.0%\n- Negative: 0.0%\n- Neutral: 0.0%\n\nRecommendation: \ud83d\udfe2 STRONG BUY",
       "metadata": {
         "source": "scraping_agent",
         "type": "stock_sentiment",
         "symbol": "6758.T",
         "region": "East Asia",
-        "timestamp": "2025-11-19T16:56:44.040590"
+        "timestamp": "2025-11-23T12:32:36.559013"
       }
     },
     {
@@ -2243,13 +2183,13 @@
       }
     },
     {
-      "content": "Stock Sentiment: 6501.T (East Asia)\nTimestamp: 2025-11-19T17:00:01.853784\n\nOverall Sentiment: POSITIVE\nConfidence: 1.00\nArticles Analyzed: 3\n\nSentiment Distribution:\n- Positive: 100.0%\n- Negative: 0.0%\n- Neutral: 0.0%\n\nRecommendation: \ud83d\udfe2 STRONG BUY",
+      "content": "Stock Sentiment: 6501.T (East Asia)\nTimestamp: 2025-11-23T12:34:02.167310\n\nOverall Sentiment: POSITIVE\nConfidence: 0.67\nArticles Analyzed: 3\n\nSentiment Distribution:\n- Positive: 66.7%\n- Negative: 0.0%\n- Neutral: 33.3%\n\nRecommendation: \ud83d\udfe2 BUY",
       "metadata": {
         "source": "scraping_agent",
         "type": "stock_sentiment",
         "symbol": "6501.T",
         "region": "East Asia",
-        "timestamp": "2025-11-19T16:56:44.040590"
+        "timestamp": "2025-11-23T12:32:36.559013"
       }
     },
     {
@@ -2273,26 +2213,6 @@
       }
     },
     {
-      "content": "News Article: 6501.T (East Asia)\nTitle: Japan\u2019s Nikkei Stock Average Slides as Investors Book Profit on Tech Stocks (UPDATE 1) - The Japan News\nPublished: Fri, 14 Nov 2025 07:18:00 GMT\nSource: The Japan News\n\nHeadline Sentiment: POSITIVE\nConfidence: 1.00",
-      "metadata": {
-        "source": "scraping_agent",
-        "type": "news_article",
-        "symbol": "6501.T",
-        "region": "East Asia",
-        "timestamp": "Fri, 14 Nov 2025 07:18:00 GMT"
-      }
-    },
-    {
-      "content": "Headline Sentiment: POSITIVE\nConfidence: 1.00\n\nSummary: <a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE5IbWl5d1o5VEJZSW5LMXdJbkRZaHh3ajJpdWtYSjJQcE92c0R0VHBHT0RiZnBnRURlRVk1Q2diM3VUWjg3Y3ViNUtXemxSUWpRZ1FDQ1dCbFRMWFYydTNIMkV6djMta0hrTnRycVkzMmdrZw?oc=5\" target=\"_blank\">Japan\u2019s Nikkei Stock Average Slides as Investors Book Profit on Tech Stoc",
-      "metadata": {
-        "source": "scraping_agent",
-        "type": "news_article",
-        "symbol": "6501.T",
-        "region": "East Asia",
-        "timestamp": "Fri, 14 Nov 2025 07:18:00 GMT"
-      }
-    },
-    {
       "content": "News Article: 6501.T (East Asia)\nTitle: 6501 News Today: Hitachi Shares Surge on Major AI Technology Expansion - Meyka\nPublished: Fri, 03 Oct 2025 07:00:00 GMT\nSource: Meyka\n\nHeadline Sentiment: POSITIVE\nConfidence: 1.00",
       "metadata": {
         "source": "scraping_agent",
@@ -2313,33 +2233,73 @@
       }
     },
     {
-      "content": "Stock Sentiment: 9984.T (East Asia)\nTimestamp: 2025-11-19T17:00:24.052383\n\nOverall Sentiment: NEGATIVE\nConfidence: 0.67\nArticles Analyzed: 3\n\nSentiment Distribution:\n- Positive: 0.0%\n- Negative: 66.7%\n- Neutral: 33.3%\n\nRecommendation: \ud83d\udd34 SELL",
+      "content": "News Article: 6501.T (East Asia)\nTitle: A Look at Hitachi\u2019s (TSE:6501) Valuation - Yahoo Finance\nPublished: Thu, 13 Nov 2025 08:00:00 GMT\nSource: Yahoo Finance\n\nHeadline Sentiment: NEUTRAL\nConfidence: 0.50",
+      "metadata": {
+        "source": "scraping_agent",
+        "type": "news_article",
+        "symbol": "6501.T",
+        "region": "East Asia",
+        "timestamp": "Thu, 13 Nov 2025 08:00:00 GMT"
+      }
+    },
+    {
+      "content": "Headline Sentiment: NEUTRAL\nConfidence: 0.50\n\nSummary: <a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNWEZMSmMtMGZZbXNlbVFiNzNtSndlSUE2WXpTbkNrS3Utb25MODZ0c1QyeWdfdzktRFpGbWlPa3UyeWEyZnNCOVNqZHFBc3NhZEVCeDFhTU00YmlhLXNpS3htUTQ5Z3JfVG9TV0RPMFB0RVpUaWJmM0Z6ZExZSFdLQVgtaw?oc=5\" target=\"_blank\">A Look at Hitachi\u2019s (TSE:6501) Valuation</a>&nbsp",
+      "metadata": {
+        "source": "scraping_agent",
+        "type": "news_article",
+        "symbol": "6501.T",
+        "region": "East Asia",
+        "timestamp": "Thu, 13 Nov 2025 08:00:00 GMT"
+      }
+    },
+    {
+      "content": "Stock Sentiment: 9984.T (East Asia)\nTimestamp: 2025-11-23T12:34:10.716206\n\nOverall Sentiment: NEUTRAL\nConfidence: 0.67\nArticles Analyzed: 3\n\nSentiment Distribution:\n- Positive: 0.0%\n- Negative: 33.3%\n- Neutral: 66.7%\n\nRecommendation: \ud83d\udfe1 HOLD",
       "metadata": {
         "source": "scraping_agent",
         "type": "stock_sentiment",
         "symbol": "9984.T",
         "region": "East Asia",
-        "timestamp": "2025-11-19T16:56:44.040590"
+        "timestamp": "2025-11-23T12:32:36.559013"
       }
     },
     {
-      "content": "News Article: 9984.T (East Asia)\nTitle: SoftBank shares plunge as much as 10% after selling Nvidia stake - CNBC\nPublished: Wed, 12 Nov 2025 00:54:00 GMT\nSource: CNBC\n\nHeadline Sentiment: NEGATIVE\nConfidence: 1.00",
+      "content": "News Article: 9984.T (East Asia)\nTitle: CNBC Daily Open: Investors suffer from whiplash as AI stocks gyrate - CNBC\nPublished: Fri, 21 Nov 2025 07:30:01 GMT\nSource: CNBC\n\nHeadline Sentiment: NEUTRAL\nConfidence: 0.50",
       "metadata": {
         "source": "scraping_agent",
         "type": "news_article",
         "symbol": "9984.T",
         "region": "East Asia",
-        "timestamp": "Wed, 12 Nov 2025 00:54:00 GMT"
+        "timestamp": "Fri, 21 Nov 2025 07:30:01 GMT"
       }
     },
     {
-      "content": "Headline Sentiment: NEGATIVE\nConfidence: 1.00\n\nSummary: <a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSUZrYmtseEItbmRCejN1cEE3aXlZNWl0N1c1VUZ1Yi1sLV9xMjVfRHFPVURyU0plUE1EWThtUzRyT1dkd19URk9vUkh4cTB5cW1MNS10YXhJaWFaa2NmU2o0QUhrdXVpTnlFYUd2Z2M3TGNSZnVhTXZmQ3IyZ3B2dVBRY0xVR1lqTlFWQ2FUelZfR1dFNV9nNGVJazNrSkpnTl9uQUZNS3BkYlXSAbABQVVfeXFMUFptRU",
+      "content": "Headline Sentiment: NEUTRAL\nConfidence: 0.50\n\nSummary: <a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNeXg1U0lNYmZFUFRtTmRMSnRjTW9yZVU0WDB5TFloX0xENHFsQlhXbEhuWUtBT09YSmp1LUsxY2Z4cTlvSkJaRjhTM2VfbkFKdjI2ejc5OTVvSGROYS1XSm1sbGVzNVItdkpobEozUlFTb0F3NkZ5WDR4SUR6aWlkVjZlSFhlUkd4Q3o5QmlEa3FWcExFbjFKenFtYWRnVTJqZDFiNC1R0gGrAUFVX3lxTFBEZDdkWndMcm",
       "metadata": {
         "source": "scraping_agent",
         "type": "news_article",
         "symbol": "9984.T",
         "region": "East Asia",
-        "timestamp": "Wed, 12 Nov 2025 00:54:00 GMT"
+        "timestamp": "Fri, 21 Nov 2025 07:30:01 GMT"
+      }
+    },
+    {
+      "content": "News Article: 9984.T (East Asia)\nTitle: SoftBank Just Unloaded Its Stake in Nvidia for $5.8 Billion Right Before the Chip King Is Scheduled to Report Earnings. Does Its Billionaire CEO Masayoshi Son Know Something the Rest of Wall Street Doesn't? - Yahoo Finance\nPublished: Mon, 17 Nov 2025 13:03:00 GMT\nSource: Yahoo Finance\n\nHeadline Sentiment: NEUTRAL\nConfidence: 0.50",
+      "metadata": {
+        "source": "scraping_agent",
+        "type": "news_article",
+        "symbol": "9984.T",
+        "region": "East Asia",
+        "timestamp": "Mon, 17 Nov 2025 13:03:00 GMT"
+      }
+    },
+    {
+      "content": "Headline Sentiment: NEUTRAL\nConfidence: 0.50\n\nSummary: <a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNS3lDNVVucjRDQ1p1eEdaVndWVUhSaFRmWndiR0hQSFZCdUJvTmVpOENxUTlKbjhaaFprbGE3Y21kamk5aE14ZG0wTkFMSGt5Qm9DTkdBVTBqbEI5UGpwVmJqUU82eHNkU0tQR2J5S3RqRUVKbmJMOFlXb096VzlpTmd1U1ZOd2NT?oc=5\" target=\"_blank\">SoftBank Just Unloaded Its Stake in Nvidia",
+      "metadata": {
+        "source": "scraping_agent",
+        "type": "news_article",
+        "symbol": "9984.T",
+        "region": "East Asia",
+        "timestamp": "Mon, 17 Nov 2025 13:03:00 GMT"
       }
     },
     {
@@ -2363,53 +2323,33 @@
       }
     },
     {
-      "content": "News Article: 9984.T (East Asia)\nTitle: AI stock boom delivers bumper quarter for Japan's SoftBank - Yahoo Finance Singapore\nPublished: Tue, 11 Nov 2025 07:55:00 GMT\nSource: Yahoo Finance Singapore\n\nHeadline Sentiment: NEUTRAL\nConfidence: 0.50",
-      "metadata": {
-        "source": "scraping_agent",
-        "type": "news_article",
-        "symbol": "9984.T",
-        "region": "East Asia",
-        "timestamp": "Tue, 11 Nov 2025 07:55:00 GMT"
-      }
-    },
-    {
-      "content": "Headline Sentiment: NEUTRAL\nConfidence: 0.50\n\nSummary: <a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOekd4cXphbjd5aXgyUUxNaHE1LXNGR0JjODh2YUJWT1JPcU13b3p4OXBFbVV1VXVsOUUzVFNOcW9FdHB2VXVOZm5kOGgzYlVCdGR1NjFEc0dkNkwzUTFVdlVLanJnNmU0MEY5a3VuejNCOXh5ckVuY3VYUTZBZkp3OWZyc1g?oc=5\" target=\"_blank\">AI stock boom delivers bumper quarter for Japan'",
-      "metadata": {
-        "source": "scraping_agent",
-        "type": "news_article",
-        "symbol": "9984.T",
-        "region": "East Asia",
-        "timestamp": "Tue, 11 Nov 2025 07:55:00 GMT"
-      }
-    },
-    {
-      "content": "Stock Sentiment: 7974.T (East Asia)\nTimestamp: 2025-11-19T17:01:22.542048\n\nOverall Sentiment: POSITIVE\nConfidence: 1.00\nArticles Analyzed: 3\n\nSentiment Distribution:\n- Positive: 100.0%\n- Negative: 0.0%\n- Neutral: 0.0%\n\nRecommendation: \ud83d\udfe2 STRONG BUY",
+      "content": "Stock Sentiment: 7974.T (East Asia)\nTimestamp: 2025-11-23T12:34:34.157187\n\nOverall Sentiment: POSITIVE\nConfidence: 0.67\nArticles Analyzed: 3\n\nSentiment Distribution:\n- Positive: 66.7%\n- Negative: 0.0%\n- Neutral: 33.3%\n\nRecommendation: \ud83d\udfe2 BUY",
       "metadata": {
         "source": "scraping_agent",
         "type": "stock_sentiment",
         "symbol": "7974.T",
         "region": "East Asia",
-        "timestamp": "2025-11-19T16:56:44.040590"
+        "timestamp": "2025-11-23T12:32:36.559013"
       }
     },
     {
-      "content": "News Article: 7974.T (East Asia)\nTitle: Why Nintendo (TSE:7974) Is Up 7.0% After Raising Switch 2 Sales and Earnings Outlook - Yahoo Finance\nPublished: Wed, 05 Nov 2025 08:00:00 GMT\nSource: Yahoo Finance\n\nHeadline Sentiment: POSITIVE\nConfidence: 1.00",
+      "content": "News Article: 7974.T (East Asia)\nTitle: A Fresh Look at Nintendo (TSE:7974) Valuation Following Recent Share Price Pause - Yahoo Finance\nPublished: Sat, 08 Nov 2025 08:00:00 GMT\nSource: Yahoo Finance\n\nHeadline Sentiment: NEUTRAL\nConfidence: 0.50",
       "metadata": {
         "source": "scraping_agent",
         "type": "news_article",
         "symbol": "7974.T",
         "region": "East Asia",
-        "timestamp": "Wed, 05 Nov 2025 08:00:00 GMT"
+        "timestamp": "Sat, 08 Nov 2025 08:00:00 GMT"
       }
     },
     {
-      "content": "Headline Sentiment: POSITIVE\nConfidence: 1.00\n\nSummary: <a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1qNFNFMFVacXFEMGJmd0d4S1VIbXViSGdOamZBdkluLWFmU2gwNUlPMFpKWlVBNXpvczlPUmVmSUltZEZCemNfWDBnNXpwX0QtbmxZalBIRXpJdkhfb1dhcjRoR0NCZGJuNXpac2FPR2VqTDRtWTdnMQ?oc=5\" target=\"_blank\">Why Nintendo (TSE:7974) Is Up 7.0% After Raising Switch 2 Sales a",
+      "content": "Headline Sentiment: NEUTRAL\nConfidence: 0.50\n\nSummary: <a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9CakIyZ0NaWEFVVERrWTg4aU16YmJXdXRrdnpWUkg3YjJOaWszZWQ4dTc2VlN0bVpZYlpLeW9GeDFwcTBuRmVTX3ZhMVpoajQ4S3RzYTYzeU43a2xyUFUwXzRhXzM0WHdMNHctOENwZ0FUSHdjMHFlOGlIcV9OMVE?oc=5\" target=\"_blank\">A Fresh Look at Nintendo (TSE:7974) Valuation Following",
       "metadata": {
         "source": "scraping_agent",
         "type": "news_article",
         "symbol": "7974.T",
         "region": "East Asia",
-        "timestamp": "Wed, 05 Nov 2025 08:00:00 GMT"
+        "timestamp": "Sat, 08 Nov 2025 08:00:00 GMT"
       }
     },
     {
@@ -2453,13 +2393,13 @@
       }
     },
     {
-      "content": "Stock Sentiment: 005930.KS (East Asia)\nTimestamp: 2025-11-19T17:01:46.006648\n\nOverall Sentiment: POSITIVE\nConfidence: 0.67\nArticles Analyzed: 3\n\nSentiment Distribution:\n- Positive: 66.7%\n- Negative: 0.0%\n- Neutral: 33.3%\n\nRecommendation: \ud83d\udfe2 BUY",
+      "content": "Stock Sentiment: 005930.KS (East Asia)\nTimestamp: 2025-11-23T12:34:52.582032\n\nOverall Sentiment: POSITIVE\nConfidence: 1.00\nArticles Analyzed: 3\n\nSentiment Distribution:\n- Positive: 100.0%\n- Negative: 0.0%\n- Neutral: 0.0%\n\nRecommendation: \ud83d\udfe2 STRONG BUY",
       "metadata": {
         "source": "scraping_agent",
         "type": "stock_sentiment",
         "symbol": "005930.KS",
         "region": "East Asia",
-        "timestamp": "2025-11-19T16:56:44.040590"
+        "timestamp": "2025-11-23T12:32:36.559013"
       }
     },
     {
@@ -2483,6 +2423,26 @@
       }
     },
     {
+      "content": "News Article: 005930.KS (East Asia)\nTitle: Samsung Electronics (005930.KS) Stock: Surges as Lee Family Moves to Sell $1.2B in Shares for Tax Payments - parameter.io\nPublished: Sat, 18 Oct 2025 07:00:00 GMT\nSource: parameter.io\n\nHeadline Sentiment: POSITIVE\nConfidence: 1.00",
+      "metadata": {
+        "source": "scraping_agent",
+        "type": "news_article",
+        "symbol": "005930.KS",
+        "region": "East Asia",
+        "timestamp": "Sat, 18 Oct 2025 07:00:00 GMT"
+      }
+    },
+    {
+      "content": "Headline Sentiment: POSITIVE\nConfidence: 1.00\n\nSummary: <a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUVBlN2xHWjBzNXpiQkQ1RlZnU0Q0RUsxZmFtZGVYb3duSkphNk9ZZU1zX1VTTlNXdk1BcnNncGFiWlJxaHcwV21JN190UUJ2Z2ZNSW4wM2hyUVY4OUpCcmhMb2dJXzl1MlptRkxpYm1JZjNCY0YwdE5pU0RPZ3pZYU1kcmFkdVowLUNLZjN4WjhvRUtRYTFwMVhBV1A0YmE2QWY5bmg5RkYzZVc0bWVsc0Rtb0Ixb0M3ZV",
+      "metadata": {
+        "source": "scraping_agent",
+        "type": "news_article",
+        "symbol": "005930.KS",
+        "region": "East Asia",
+        "timestamp": "Sat, 18 Oct 2025 07:00:00 GMT"
+      }
+    },
+    {
       "content": "News Article: 005930.KS (East Asia)\nTitle: Samsung (005930.KS) Stock: Drops Despite $8.48B Q3 Profit on Strong Memory Chip Demand - CoinCentral\nPublished: Tue, 14 Oct 2025 07:00:00 GMT\nSource: CoinCentral\n\nHeadline Sentiment: POSITIVE\nConfidence: 0.67",
       "metadata": {
         "source": "scraping_agent",
@@ -2503,53 +2463,33 @@
       }
     },
     {
-      "content": "News Article: 005930.KS (East Asia)\nTitle: Samsung, Netflix, Disney: Trending stocks - Yahoo Finance\nPublished: Fri, 31 Oct 2025 07:00:00 GMT\nSource: Yahoo Finance\n\nHeadline Sentiment: NEUTRAL\nConfidence: 0.50",
-      "metadata": {
-        "source": "scraping_agent",
-        "type": "news_article",
-        "symbol": "005930.KS",
-        "region": "East Asia",
-        "timestamp": "Fri, 31 Oct 2025 07:00:00 GMT"
-      }
-    },
-    {
-      "content": "Headline Sentiment: NEUTRAL\nConfidence: 0.50\n\nSummary: <a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPYmZLb1cwMWFlLXFPZTNHaTRIcE92Y0V4dVNWZkptVEQ1MTJ4RDZza3JXNzg1UXJsTlVYMFM4NkJVajY5N3Z4Wk1sSHJfWlVLcWE1cjhLeG9VVkdfVVlwWFAyNURkd3RRbC1fLWxyd2JMd29WcC1GcklLaHVERzVXYTN1ZFphYTdib0VON3Rn?oc=5\" target=\"_blank\">Samsung, Netflix, Disney: Trending",
-      "metadata": {
-        "source": "scraping_agent",
-        "type": "news_article",
-        "symbol": "005930.KS",
-        "region": "East Asia",
-        "timestamp": "Fri, 31 Oct 2025 07:00:00 GMT"
-      }
-    },
-    {
-      "content": "Stock Sentiment: 000660.KS (East Asia)\nTimestamp: 2025-11-19T17:02:09.250746\n\nOverall Sentiment: NEUTRAL\nConfidence: 0.67\nArticles Analyzed: 3\n\nSentiment Distribution:\n- Positive: 33.3%\n- Negative: 0.0%\n- Neutral: 66.7%\n\nRecommendation: \ud83d\udfe1 HOLD",
+      "content": "Stock Sentiment: 000660.KS (East Asia)\nTimestamp: 2025-11-23T12:35:00.519611\n\nOverall Sentiment: POSITIVE\nConfidence: 1.00\nArticles Analyzed: 3\n\nSentiment Distribution:\n- Positive: 100.0%\n- Negative: 0.0%\n- Neutral: 0.0%\n\nRecommendation: \ud83d\udfe2 STRONG BUY",
       "metadata": {
         "source": "scraping_agent",
         "type": "stock_sentiment",
         "symbol": "000660.KS",
         "region": "East Asia",
-        "timestamp": "2025-11-19T16:56:44.040590"
+        "timestamp": "2025-11-23T12:32:36.559013"
       }
     },
     {
-      "content": "News Article: 000660.KS (East Asia)\nTitle: SK Hynix, Nvidia, Mercedes, MAG 7 earnings: Trending Stocks - Yahoo Finance\nPublished: Wed, 29 Oct 2025 07:00:00 GMT\nSource: Yahoo Finance\n\nHeadline Sentiment: NEUTRAL\nConfidence: 0.50",
+      "content": "News Article: 000660.KS (East Asia)\nTitle: Why Nvidia earnings are boosting these four stocks - Yahoo Finance\nPublished: Thu, 20 Nov 2025 12:48:26 GMT\nSource: Yahoo Finance\n\nHeadline Sentiment: POSITIVE\nConfidence: 1.00",
       "metadata": {
         "source": "scraping_agent",
         "type": "news_article",
         "symbol": "000660.KS",
         "region": "East Asia",
-        "timestamp": "Wed, 29 Oct 2025 07:00:00 GMT"
+        "timestamp": "Thu, 20 Nov 2025 12:48:26 GMT"
       }
     },
     {
-      "content": "Headline Sentiment: NEUTRAL\nConfidence: 0.50\n\nSummary: <a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQZGMtSTA2aTZSRnA3bEgzalpBdGlSSUtVaWp2d3prNG9WeV84bzRIUDJXTFg5bVp5SzFvalRFQU5DVk9GOWFySEd0UkRFd1d6UTVpMTU0QXZZbjdMSFhzeWlVOUlNV0l1X3o3X2ZQamo1Y1lDSmduRnVISTdMblFRSw?oc=5\" target=\"_blank\">SK Hynix, Nvidia, Mercedes, MAG 7 earnings: Trending",
+      "content": "Headline Sentiment: POSITIVE\nConfidence: 1.00\n\nSummary: <a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNS291Q2MtbnBFUmQ1TnA0NWkzOTlid0VaTjh4RjZMQ29SZlY3c2JIRGNOQjRCWTFHcjRkZ1pwdThTM1FYV2t3dVNzVDRqN0g0bTB1Vk01M2RKZHMzcWNLVE84Y1k5X3JoWUh5Q3FyNlA5NjlNVGNYTmZXMXI0cVcxUk9JZ0hmSU0?oc=5\" target=\"_blank\">Why Nvidia earnings are boosting these four",
       "metadata": {
         "source": "scraping_agent",
         "type": "news_article",
         "symbol": "000660.KS",
         "region": "East Asia",
-        "timestamp": "Wed, 29 Oct 2025 07:00:00 GMT"
+        "timestamp": "Thu, 20 Nov 2025 12:48:26 GMT"
       }
     },
     {
@@ -2573,53 +2513,33 @@
       }
     },
     {
-      "content": "News Article: 000660.KS (East Asia)\nTitle: SK Hynix Inc (XKRX:000660) Q3 2025 Earnings Report Preview: What to Expect - Yahoo Finance\nPublished: Tue, 28 Oct 2025 07:00:00 GMT\nSource: Yahoo Finance\n\nHeadline Sentiment: NEUTRAL\nConfidence: 0.50",
+      "content": "News Article: 000660.KS (East Asia)\nTitle: 3 Asian Stocks Estimated To Be Trading Below Fair Value By Up To 45.8% - Yahoo Finance Singapore\nPublished: Thu, 20 Nov 2025 22:34:37 GMT\nSource: Yahoo Finance Singapore\n\nHeadline Sentiment: POSITIVE\nConfidence: 1.00",
       "metadata": {
         "source": "scraping_agent",
         "type": "news_article",
         "symbol": "000660.KS",
         "region": "East Asia",
-        "timestamp": "Tue, 28 Oct 2025 07:00:00 GMT"
+        "timestamp": "Thu, 20 Nov 2025 22:34:37 GMT"
       }
     },
     {
-      "content": "Headline Sentiment: NEUTRAL\nConfidence: 0.50\n\nSummary: <a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE9MbGQ1X09EWlVCQno3Qnd6TFdIeU05Y0pGandFWjhkYkRiSTNDSHdBYkl6Mk5qMW1hUDNqR2xzVzdNcnIyZkFTd2VFX0Z4eHpQODNuSFFWN01NLUhCaW5yazZwZ2xVMmdZaFZDaXlUQ1VRQXZvdDVZV3N3?oc=5\" target=\"_blank\">SK Hynix Inc (XKRX:000660) Q3 2025 Earnings Report Preview: Wha",
+      "content": "Headline Sentiment: POSITIVE\nConfidence: 1.00\n\nSummary: <a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTXc5UGtnSWc1aWlJWFYxU0paMmNSQnhaMHZzcldZakxhZ0JPdHRZaWVjZGI3MGx3THlzeS1QMzk5SVNCLTVBczJDcjliSkpvV1FJdHVINnJ1TzBYRWh4eVF6cVFOYzJ6NmFRa0prYUhBYnc0bnR0RnJiTVpfUGxYbHVoNlBRRjgx?oc=5\" target=\"_blank\">3 Asian Stocks Estimated To Be Trading Belo",
       "metadata": {
         "source": "scraping_agent",
         "type": "news_article",
         "symbol": "000660.KS",
         "region": "East Asia",
-        "timestamp": "Tue, 28 Oct 2025 07:00:00 GMT"
+        "timestamp": "Thu, 20 Nov 2025 22:34:37 GMT"
       }
     },
     {
-      "content": "Stock Sentiment: 035720.KS (East Asia)\nTimestamp: 2025-11-19T17:02:31.228669\n\nOverall Sentiment: NEUTRAL\nConfidence: 0.67\nArticles Analyzed: 3\n\nSentiment Distribution:\n- Positive: 0.0%\n- Negative: 33.3%\n- Neutral: 66.7%\n\nRecommendation: \ud83d\udfe1 HOLD",
+      "content": "Stock Sentiment: 035720.KS (East Asia)\nTimestamp: 2025-11-23T12:35:08.439466\n\nOverall Sentiment: NEUTRAL\nConfidence: 0.67\nArticles Analyzed: 3\n\nSentiment Distribution:\n- Positive: 0.0%\n- Negative: 33.3%\n- Neutral: 66.7%\n\nRecommendation: \ud83d\udfe1 HOLD",
       "metadata": {
         "source": "scraping_agent",
         "type": "stock_sentiment",
         "symbol": "035720.KS",
         "region": "East Asia",
-        "timestamp": "2025-11-19T16:56:44.040590"
-      }
-    },
-    {
-      "content": "News Article: 035720.KS (East Asia)\nTitle: South Korean court clears Kakao founder of stock manipulation charges - Yahoo Finance\nPublished: Mon, 20 Oct 2025 07:00:00 GMT\nSource: Yahoo Finance\n\nHeadline Sentiment: NEUTRAL\nConfidence: 0.50",
-      "metadata": {
-        "source": "scraping_agent",
-        "type": "news_article",
-        "symbol": "035720.KS",
-        "region": "East Asia",
-        "timestamp": "Mon, 20 Oct 2025 07:00:00 GMT"
-      }
-    },
-    {
-      "content": "Headline Sentiment: NEUTRAL\nConfidence: 0.50\n\nSummary: <a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOR29lTmU2Z0YyZ1hiMTR0M3BPcWNyR3JydmdHUkJIc0NwUk1pVkFOZTdaeG1pRXJPdUhnTEhBZkZQZFF0YklZWm0xb3BXMDBGcXhiR0FTNVh6NlkxNFN0aldkdUhKTjlIMF9XNVpBNzJlbXlya2Jnb2tRc0Q4b1RtZ0NVUQ?oc=5\" target=\"_blank\">South Korean court clears Kakao founder of stock",
-      "metadata": {
-        "source": "scraping_agent",
-        "type": "news_article",
-        "symbol": "035720.KS",
-        "region": "East Asia",
-        "timestamp": "Mon, 20 Oct 2025 07:00:00 GMT"
+        "timestamp": "2025-11-23T12:32:36.559013"
       }
     },
     {
@@ -2663,123 +2583,103 @@
       }
     },
     {
-      "content": "Stock Sentiment: TSM (East Asia)\nTimestamp: 2025-11-19T17:02:50.895958\n\nOverall Sentiment: NEUTRAL\nConfidence: 0.67\nArticles Analyzed: 3\n\nSentiment Distribution:\n- Positive: 33.3%\n- Negative: 0.0%\n- Neutral: 66.7%\n\nRecommendation: \ud83d\udfe1 HOLD",
+      "content": "News Article: 035720.KS (East Asia)\nTitle: Kakao Founder Charged With Stock Manipulation in Landmark Case - Yahoo Finance\nPublished: Wed, 07 Aug 2024 07:00:00 GMT\nSource: Yahoo Finance\n\nHeadline Sentiment: NEUTRAL\nConfidence: 0.50",
+      "metadata": {
+        "source": "scraping_agent",
+        "type": "news_article",
+        "symbol": "035720.KS",
+        "region": "East Asia",
+        "timestamp": "Wed, 07 Aug 2024 07:00:00 GMT"
+      }
+    },
+    {
+      "content": "Headline Sentiment: NEUTRAL\nConfidence: 0.50\n\nSummary: <a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxONXRDclpCNHVWcGNRdl81OTV1RHlUaFpQZEhhMTMxTnlOakFpYzlpTWw5amUxbnVLcEplV2RuSV8zQVBNSHJWanZLcmUwSG1lQnNNNXhXcWtTbHhoYUgzWEYyb0lad1IxcER3bFBMNHZBZDB3ZmRLRVM0STBuTWdabGE1UGlITUNOZ3ZTb1RyOA?oc=5\" target=\"_blank\">Kakao Founder Charged With Stock",
+      "metadata": {
+        "source": "scraping_agent",
+        "type": "news_article",
+        "symbol": "035720.KS",
+        "region": "East Asia",
+        "timestamp": "Wed, 07 Aug 2024 07:00:00 GMT"
+      }
+    },
+    {
+      "content": "Stock Sentiment: TSM (East Asia)\nTimestamp: 2025-11-23T12:35:17.008095\n\nOverall Sentiment: NEUTRAL\nConfidence: 1.00\nArticles Analyzed: 3\n\nSentiment Distribution:\n- Positive: 0.0%\n- Negative: 0.0%\n- Neutral: 100.0%\n\nRecommendation: \ud83d\udfe1 HOLD",
       "metadata": {
         "source": "scraping_agent",
         "type": "stock_sentiment",
         "symbol": "TSM",
         "region": "East Asia",
-        "timestamp": "2025-11-19T16:56:44.040590"
+        "timestamp": "2025-11-23T12:32:36.559013"
       }
     },
     {
-      "content": "News Article: TSM (East Asia)\nTitle: Taiwan Semiconductor (TSM) Stock: Strong Buy Or Not? | 2-Minute Analysis - Seeking Alpha\nPublished: Wed, 19 Nov 2025 10:07:00 GMT\nSource: Seeking Alpha\n\nHeadline Sentiment: POSITIVE\nConfidence: 1.00",
+      "content": "News Article: TSM (East Asia)\nTitle: TSM Stock Price Prediction: Where Taiwan Semiconductor Manufacturing Could Be by 2025, 2026, 2030 - Yahoo Finance\nPublished: Sat, 22 Nov 2025 13:23:55 GMT\nSource: Yahoo Finance\n\nHeadline Sentiment: NEUTRAL\nConfidence: 0.50",
       "metadata": {
         "source": "scraping_agent",
         "type": "news_article",
         "symbol": "TSM",
         "region": "East Asia",
-        "timestamp": "Wed, 19 Nov 2025 10:07:00 GMT"
+        "timestamp": "Sat, 22 Nov 2025 13:23:55 GMT"
       }
     },
     {
-      "content": "Headline Sentiment: POSITIVE\nConfidence: 1.00\n\nSummary: <a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQUE1eUV4WXIxWmRZcGM1LXZyVlduWHZ2Xzl3ckdzNVV6MTU1Z1FhbW0wMUpSRnBWb3F3SU5wc29LVnphQXhESjZOek5VV1B4ZEFnaFB1Z19hbE9vb3ppUmt5UmFmVGZfbVFlQlFKakpnYWVveV9FeGJtZkF4bzY3cHJnTUlkLXZ1TG9oRDBVTFI0aXNRUTBFdXExUkZhbFpEYnQydU5ETXNlaEk?oc=5\" target=\"_bla",
+      "content": "Headline Sentiment: NEUTRAL\nConfidence: 0.50\n\nSummary: <a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPWUliUGJTVnNZLWVKLUpUYnVsamYwTnZSX05uanF2QzJYQUVERzhOVlBRTHhMb3E5Y3hqUm1NNngySFZ6eGN1V3VWbkR3aUVyUTNZcUJBWmV2dzVWd1ZtMHNxODRnamtmakxQYnlsNDUyRnpCWUtmR052WTJhWWFacC1BWVo?oc=5\" target=\"_blank\">TSM Stock Price Prediction: Where Taiwan Semicon",
       "metadata": {
         "source": "scraping_agent",
         "type": "news_article",
         "symbol": "TSM",
         "region": "East Asia",
-        "timestamp": "Wed, 19 Nov 2025 10:07:00 GMT"
+        "timestamp": "Sat, 22 Nov 2025 13:23:55 GMT"
       }
     },
     {
-      "content": "News Article: TSM (East Asia)\nTitle: Bank of America Securities Maintains Buy Rating on Taiwan Semiconductor Manufacturing (TSM) Stock - Finviz\nPublished: Sun, 16 Nov 2025 05:05:19 GMT\nSource: Finviz\n\nHeadline Sentiment: NEUTRAL\nConfidence: 0.50",
+      "content": "News Article: TSM (East Asia)\nTitle: 3 Reasons to Buy Taiwan Semiconductor Stock Like There's No Tomorrow - The Motley Fool\nPublished: Fri, 21 Nov 2025 14:15:00 GMT\nSource: The Motley Fool\n\nHeadline Sentiment: NEUTRAL\nConfidence: 0.50",
       "metadata": {
         "source": "scraping_agent",
         "type": "news_article",
         "symbol": "TSM",
         "region": "East Asia",
-        "timestamp": "Sun, 16 Nov 2025 05:05:19 GMT"
+        "timestamp": "Fri, 21 Nov 2025 14:15:00 GMT"
       }
     },
     {
-      "content": "Headline Sentiment: NEUTRAL\nConfidence: 0.50\n\nSummary: <a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPMk9oYUNMcXREaUZwVWIyYlVJNEZNUlpEYm1UZDZTT3VJeVdwZ3hicExRazMyTFQ4eGJPV21yOFVqekZpWnVwcVE4V3VEUzNhZmN3RTNtZnNUUnMyZVNFc184blZ6V3poQU1fdTY2X1Y5TWFxc2NSZk1BZXhhTjhlcFNGODVuOEdTaVgtUGJxU2daSmJEVDVta1BnMUJ6WXdEZkFLdnppWUxfX2dnVHhPbkdiaEVucjlNS1",
+      "content": "Headline Sentiment: NEUTRAL\nConfidence: 0.50\n\nSummary: <a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOcUdyb3k1aWdZeEQ5akpUb0hQaDRxQ205aGpEY3dfRGhtdzlORjgxU2l3Yl82OUk2Z0QzRUR5Q2xNb0NCQncxN0ZMTE1sWXBZMXNrblJfQXR5VWJYenFNTG91dzVRdTRSTHBCMk1tdkttQ1V4WnhpNXFtZkRwZmZOblpiMjhCeUY0bnkyZGxENEFnX3lyNFE?oc=5\" target=\"_blank\">3 Reasons to Buy Taiwan",
       "metadata": {
         "source": "scraping_agent",
         "type": "news_article",
         "symbol": "TSM",
         "region": "East Asia",
-        "timestamp": "Sun, 16 Nov 2025 05:05:19 GMT"
+        "timestamp": "Fri, 21 Nov 2025 14:15:00 GMT"
       }
     },
     {
-      "content": "News Article: TSM (East Asia)\nTitle: Taiwan Semiconductor Reports All Systems Go With October Sales - Investor's Business Daily\nPublished: Mon, 10 Nov 2025 08:00:00 GMT\nSource: Investor's Business Daily\n\nHeadline Sentiment: NEUTRAL\nConfidence: 0.50",
+      "content": "News Article: TSM (East Asia)\nTitle: Taiwan Semiconductor, IBD Stock Of The Day, Gets Brief Lift From Key Customer Nvidia - Investor's Business Daily\nPublished: Thu, 20 Nov 2025 21:25:00 GMT\nSource: Investor's Business Daily\n\nHeadline Sentiment: NEUTRAL\nConfidence: 0.50",
       "metadata": {
         "source": "scraping_agent",
         "type": "news_article",
         "symbol": "TSM",
         "region": "East Asia",
-        "timestamp": "Mon, 10 Nov 2025 08:00:00 GMT"
+        "timestamp": "Thu, 20 Nov 2025 21:25:00 GMT"
       }
     },
     {
-      "content": "Headline Sentiment: NEUTRAL\nConfidence: 0.50\n\nSummary: <a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNOXR2UmFpNktOMFp6NS1xeVVBM0xIdVY1VGVqRkxEWTFCdkR1cWFfVnhhUmphVF9Db1JQVmZteTZlejNiVEZuY3RYdmhLT0VvTWVmQ3kxb280c3ZWdnNXWGEwdks0ZC1qWmt1MnRzdWxuRGE4WmQyZHJ5dVZJT1M4RTVuYw?oc=5\" target=\"_blank\">Taiwan Semiconductor Reports All Systems Go With",
+      "content": "Headline Sentiment: NEUTRAL\nConfidence: 0.50\n\nSummary: <a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPbVppQ09JdVJXMUxmUTluRk9iUEExMGtaMGktcjdjZnpWbFNLejlYckpOWVZaTjNvZlJfYUtYRmJBSjZBaDJwT3hVVGdwajVKVlYtRXFGQWVwSDgxUVhPUldOcElWMW9sQXdqMHczd3lzSjdZTzRhdDF5MThHQ1RRVWVTYUVBNzdWX2J0eExiRkliSkNoVENRUWtpVnZhckJMcHRhRnZIVG1Eak5yQnc?oc=5\" target=\"",
       "metadata": {
         "source": "scraping_agent",
         "type": "news_article",
         "symbol": "TSM",
         "region": "East Asia",
-        "timestamp": "Mon, 10 Nov 2025 08:00:00 GMT"
+        "timestamp": "Thu, 20 Nov 2025 21:25:00 GMT"
       }
     },
     {
-      "content": "Stock Sentiment: 2330.TW (East Asia)\nTimestamp: 2025-11-19T17:03:13.019961\n\nOverall Sentiment: NEUTRAL\nConfidence: 0.67\nArticles Analyzed: 3\n\nSentiment Distribution:\n- Positive: 33.3%\n- Negative: 0.0%\n- Neutral: 66.7%\n\nRecommendation: \ud83d\udfe1 HOLD",
+      "content": "Stock Sentiment: 2330.TW (East Asia)\nTimestamp: 2025-11-23T12:35:40.370724\n\nOverall Sentiment: NEUTRAL\nConfidence: 0.67\nArticles Analyzed: 3\n\nSentiment Distribution:\n- Positive: 33.3%\n- Negative: 0.0%\n- Neutral: 66.7%\n\nRecommendation: \ud83d\udfe1 HOLD",
       "metadata": {
         "source": "scraping_agent",
         "type": "stock_sentiment",
         "symbol": "2330.TW",
         "region": "East Asia",
-        "timestamp": "2025-11-19T16:56:44.040590"
-      }
-    },
-    {
-      "content": "News Article: 2330.TW (East Asia)\nTitle: 3 Reasons to Buy Taiwan Semiconductor Stock Like There's No Tomorrow - Yahoo Finance\nPublished: Wed, 22 Oct 2025 07:00:00 GMT\nSource: Yahoo Finance\n\nHeadline Sentiment: NEUTRAL\nConfidence: 0.50",
-      "metadata": {
-        "source": "scraping_agent",
-        "type": "news_article",
-        "symbol": "2330.TW",
-        "region": "East Asia",
-        "timestamp": "Wed, 22 Oct 2025 07:00:00 GMT"
-      }
-    },
-    {
-      "content": "Headline Sentiment: NEUTRAL\nConfidence: 0.50\n\nSummary: <a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOYkI3anR3cUZ0bldXbmZua0tXcW93UGF1TU9uZXhabkFidmVJeldvZkpUZ2Z6NU0tU0tNSkkzN1JmOWJNNS15ZVR1bXZnMXZFNm1jRU5xWE1YSXItX2xZbG5PS0tsMTNvaWVxTlBYYUdSdXd0MnliYWk0ZnYtS0h0dDFPbmV5czA?oc=5\" target=\"_blank\">3 Reasons to Buy Taiwan Semiconductor Stock",
-      "metadata": {
-        "source": "scraping_agent",
-        "type": "news_article",
-        "symbol": "2330.TW",
-        "region": "East Asia",
-        "timestamp": "Wed, 22 Oct 2025 07:00:00 GMT"
-      }
-    },
-    {
-      "content": "News Article: 2330.TW (East Asia)\nTitle: Chip stocks rise after TSMC's rosy outlook on strong AI demand - Reuters\nPublished: Thu, 16 Oct 2025 07:00:00 GMT\nSource: Reuters\n\nHeadline Sentiment: POSITIVE\nConfidence: 1.00",
-      "metadata": {
-        "source": "scraping_agent",
-        "type": "news_article",
-        "symbol": "2330.TW",
-        "region": "East Asia",
-        "timestamp": "Thu, 16 Oct 2025 07:00:00 GMT"
-      }
-    },
-    {
-      "content": "Headline Sentiment: POSITIVE\nConfidence: 1.00\n\nSummary: <a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOaWZwVVpldWM1V0dyOURnSFZQRU50Y0RraTJRUUI5X1B5bm5ycVZCZFdkNGJmU1ZSQ0xCY0dvVVRWUll2UWxxSzF2MERjcmlWSXgyZDVhdGlqTW4zanRTc05lMFVmanJmSG1KOE8zbVR1Mjlza0lYYUpYVW53elRmVmRpcDB4LU1oWHk1MUJDaHJYbll5ZWNDb2g0U1NPb1NvVi11bmt0OW9XNV9xa296TjN6RQ?oc=5\" t",
-      "metadata": {
-        "source": "scraping_agent",
-        "type": "news_article",
-        "symbol": "2330.TW",
-        "region": "East Asia",
-        "timestamp": "Thu, 16 Oct 2025 07:00:00 GMT"
+        "timestamp": "2025-11-23T12:32:36.559013"
       }
     },
     {
@@ -2803,33 +2703,53 @@
       }
     },
     {
-      "content": "Stock Sentiment: 2454.TW (East Asia)\nTimestamp: 2025-11-19T17:03:32.748167\n\nOverall Sentiment: NEUTRAL\nConfidence: 1.00\nArticles Analyzed: 3\n\nSentiment Distribution:\n- Positive: 0.0%\n- Negative: 0.0%\n- Neutral: 100.0%\n\nRecommendation: \ud83d\udfe1 HOLD",
+      "content": "News Article: 2330.TW (East Asia)\nTitle: Chip stocks rise after TSMC's rosy outlook on strong AI demand - Reuters\nPublished: Thu, 16 Oct 2025 07:00:00 GMT\nSource: Reuters\n\nHeadline Sentiment: POSITIVE\nConfidence: 1.00",
+      "metadata": {
+        "source": "scraping_agent",
+        "type": "news_article",
+        "symbol": "2330.TW",
+        "region": "East Asia",
+        "timestamp": "Thu, 16 Oct 2025 07:00:00 GMT"
+      }
+    },
+    {
+      "content": "Headline Sentiment: POSITIVE\nConfidence: 1.00\n\nSummary: <a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOaWZwVVpldWM1V0dyOURnSFZQRU50Y0RraTJRUUI5X1B5bm5ycVZCZFdkNGJmU1ZSQ0xCY0dvVVRWUll2UWxxSzF2MERjcmlWSXgyZDVhdGlqTW4zanRTc05lMFVmanJmSG1KOE8zbVR1Mjlza0lYYUpYVW53elRmVmRpcDB4LU1oWHk1MUJDaHJYbll5ZWNDb2g0U1NPb1NvVi11bmt0OW9XNV9xa296TjN6RQ?oc=5\" t",
+      "metadata": {
+        "source": "scraping_agent",
+        "type": "news_article",
+        "symbol": "2330.TW",
+        "region": "East Asia",
+        "timestamp": "Thu, 16 Oct 2025 07:00:00 GMT"
+      }
+    },
+    {
+      "content": "News Article: 2330.TW (East Asia)\nTitle: 3 Reasons to Buy Taiwan Semiconductor Stock Like There's No Tomorrow - Yahoo Finance\nPublished: Wed, 22 Oct 2025 07:00:00 GMT\nSource: Yahoo Finance\n\nHeadline Sentiment: NEUTRAL\nConfidence: 0.50",
+      "metadata": {
+        "source": "scraping_agent",
+        "type": "news_article",
+        "symbol": "2330.TW",
+        "region": "East Asia",
+        "timestamp": "Wed, 22 Oct 2025 07:00:00 GMT"
+      }
+    },
+    {
+      "content": "Headline Sentiment: NEUTRAL\nConfidence: 0.50\n\nSummary: <a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOYkI3anR3cUZ0bldXbmZua0tXcW93UGF1TU9uZXhabkFidmVJeldvZkpUZ2Z6NU0tU0tNSkkzN1JmOWJNNS15ZVR1bXZnMXZFNm1jRU5xWE1YSXItX2xZbG5PS0tsMTNvaWVxTlBYYUdSdXd0MnliYWk0ZnYtS0h0dDFPbmV5czA?oc=5\" target=\"_blank\">3 Reasons to Buy Taiwan Semiconductor Stock",
+      "metadata": {
+        "source": "scraping_agent",
+        "type": "news_article",
+        "symbol": "2330.TW",
+        "region": "East Asia",
+        "timestamp": "Wed, 22 Oct 2025 07:00:00 GMT"
+      }
+    },
+    {
+      "content": "Stock Sentiment: 2454.TW (East Asia)\nTimestamp: 2025-11-23T12:36:00.007172\n\nOverall Sentiment: NEUTRAL\nConfidence: 0.33\nArticles Analyzed: 3\n\nSentiment Distribution:\n- Positive: 33.3%\n- Negative: 33.3%\n- Neutral: 33.3%\n\nRecommendation: \ud83d\udfe1 HOLD",
       "metadata": {
         "source": "scraping_agent",
         "type": "stock_sentiment",
         "symbol": "2454.TW",
         "region": "East Asia",
-        "timestamp": "2025-11-19T16:56:44.040590"
-      }
-    },
-    {
-      "content": "News Article: 2454.TW (East Asia)\nTitle: MediaTek Adopts Taiwan Semiconductor 2nm Breakthrough For Flagship Chip - Yahoo Finance\nPublished: Thu, 18 Sep 2025 07:00:00 GMT\nSource: Yahoo Finance\n\nHeadline Sentiment: NEUTRAL\nConfidence: 0.50",
-      "metadata": {
-        "source": "scraping_agent",
-        "type": "news_article",
-        "symbol": "2454.TW",
-        "region": "East Asia",
-        "timestamp": "Thu, 18 Sep 2025 07:00:00 GMT"
-      }
-    },
-    {
-      "content": "Headline Sentiment: NEUTRAL\nConfidence: 0.50\n\nSummary: <a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNRTZQbG5wNXVJUUFVTm1wM0hFR3NCWUtoWDlMVjdqWnU3Z2MzdjZYalVpdnhLZTd3czdfTG1UR2RrR25KYmZPbkpXLWprNzlCVkxFUFN2YkFlcFZNNk9xcVdCVnowSjRWeW9lV0dlcFo5eElZUzBGZldzZGpvdXplM0JsUGc3bnh3Q2JCUkFnaw?oc=5\" target=\"_blank\">MediaTek Adopts Taiwan Semiconduc",
-      "metadata": {
-        "source": "scraping_agent",
-        "type": "news_article",
-        "symbol": "2454.TW",
-        "region": "East Asia",
-        "timestamp": "Thu, 18 Sep 2025 07:00:00 GMT"
+        "timestamp": "2025-11-23T12:32:36.559013"
       }
     },
     {
@@ -2853,33 +2773,53 @@
       }
     },
     {
-      "content": "News Article: 2454.TW (East Asia)\nTitle: Global's Leading Trio Of Dividend Stocks - simplywall.st\nPublished: Thu, 10 Jul 2025 07:00:00 GMT\nSource: simplywall.st\n\nHeadline Sentiment: NEUTRAL\nConfidence: 0.50",
+      "content": "News Article: 2454.TW (East Asia)\nTitle: MediaTek Full Year 2024 Earnings: EPS Beats Expectations - simplywall.st\nPublished: Thu, 06 Mar 2025 08:00:00 GMT\nSource: simplywall.st\n\nHeadline Sentiment: POSITIVE\nConfidence: 1.00",
       "metadata": {
         "source": "scraping_agent",
         "type": "news_article",
         "symbol": "2454.TW",
         "region": "East Asia",
-        "timestamp": "Thu, 10 Jul 2025 07:00:00 GMT"
+        "timestamp": "Thu, 06 Mar 2025 08:00:00 GMT"
       }
     },
     {
-      "content": "Headline Sentiment: NEUTRAL\nConfidence: 0.50\n\nSummary: <a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNV0tSVUVLRy1BQmJPaWQxeTlCVVBfTTdSWmZ3aVVTYmNDZ3Q2VWpRUzg4NjEzX0VKVUUzRTJkakhhclVyeldkOVljaHdlaEhXM3pOY0x6N2Y3bGYxcWhzaEhzM0VaTW1tanVSdGt0UU9PWmVlRWV5bDFlUU84djhFWWw2MTQ3OXhJUjd0dUFtdy04cVVTcm03ZkhJeklHcmdaNVNLdldEQkY0WkRzSWNKYWt0YXBsVUxQ0g",
+      "content": "Headline Sentiment: POSITIVE\nConfidence: 1.00\n\nSummary: <a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxOVG54MkZIQURVX1J4N3lVbUxLSkRTUFNUcFI0WVVPdE02WWw1bGlHbEY4N3JGb3hTaTVPLUVLVWR6cUZabjBZWlJHT2c0VkQ5bVJzSzFSYUwyd3FYWXhxQWJoTUMxdDJIZGhwZi1hdzMwNExWVlB0S2pTaS1NOVBGQUN2M2k3RUV0M2RsaEd4bjZqS1hRQVVYM1ZPZlp2ZGwzZzEwV3l1alQ3NmJZdHJZVFBXUUJXSGU2Vk",
       "metadata": {
         "source": "scraping_agent",
         "type": "news_article",
         "symbol": "2454.TW",
         "region": "East Asia",
-        "timestamp": "Thu, 10 Jul 2025 07:00:00 GMT"
+        "timestamp": "Thu, 06 Mar 2025 08:00:00 GMT"
       }
     },
     {
-      "content": "Stock Sentiment: 1211.HK (East Asia)\nTimestamp: 2025-11-19T17:04:12.093668\n\nOverall Sentiment: NEUTRAL\nConfidence: 0.33\nArticles Analyzed: 3\n\nSentiment Distribution:\n- Positive: 33.3%\n- Negative: 33.3%\n- Neutral: 33.3%\n\nRecommendation: \ud83d\udfe1 HOLD",
+      "content": "News Article: 2454.TW (East Asia)\nTitle: Broadcom: This Is the Biggest Risk the Stock Faces - Yahoo Finance\nPublished: Sun, 05 Oct 2025 07:00:00 GMT\nSource: Yahoo Finance\n\nHeadline Sentiment: NEGATIVE\nConfidence: 1.00",
+      "metadata": {
+        "source": "scraping_agent",
+        "type": "news_article",
+        "symbol": "2454.TW",
+        "region": "East Asia",
+        "timestamp": "Sun, 05 Oct 2025 07:00:00 GMT"
+      }
+    },
+    {
+      "content": "Headline Sentiment: NEGATIVE\nConfidence: 1.00\n\nSummary: <a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNcWxJbTN6S1czMTBpOUk4cTNBMmVvLWhkdXU1RUNkUFAweDVhVm8xRndCNHFqVVZoZ0s3b2xvaGdxMFZROTY1SnB0VUVUa0JlNUJPaC14RHhWZWFxcVY4dVVjZ3N2djlYMktPeUdpeGhkTjhIbVJwRTEyQkV0Zy03cm9KVjU3QQ?oc=5\" target=\"_blank\">Broadcom: This Is the Biggest Risk the Stock",
+      "metadata": {
+        "source": "scraping_agent",
+        "type": "news_article",
+        "symbol": "2454.TW",
+        "region": "East Asia",
+        "timestamp": "Sun, 05 Oct 2025 07:00:00 GMT"
+      }
+    },
+    {
+      "content": "Stock Sentiment: 1211.HK (East Asia)\nTimestamp: 2025-11-23T12:36:24.558753\n\nOverall Sentiment: POSITIVE\nConfidence: 0.67\nArticles Analyzed: 3\n\nSentiment Distribution:\n- Positive: 66.7%\n- Negative: 33.3%\n- Neutral: 0.0%\n\nRecommendation: \ud83d\udfe2 BUY",
       "metadata": {
         "source": "scraping_agent",
         "type": "stock_sentiment",
         "symbol": "1211.HK",
         "region": "East Asia",
-        "timestamp": "2025-11-19T16:56:44.040590"
+        "timestamp": "2025-11-23T12:32:36.559013"
       }
     },
     {
@@ -2923,42 +2863,32 @@
       }
     },
     {
-      "content": "News Article: 1211.HK (East Asia)\nTitle: Adjustment of BYD Company Structured Products, Futures and Options - hkex.com.hk\nPublished: Tue, 20 May 2025 07:00:00 GMT\nSource: hkex.com.hk\n\nHeadline Sentiment: NEUTRAL\nConfidence: 0.50",
+      "content": "News Article: 1211.HK (East Asia)\nTitle: 10 China mobility stocks to ride BYD\u2019s UK surge - NAI500\nPublished: Mon, 06 Oct 2025 07:00:00 GMT\nSource: NAI500\n\nHeadline Sentiment: POSITIVE\nConfidence: 1.00\n\nSummary: <a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPdzA3YlR6alB5NE4tNnUwSk1UbUlUZDFqUzR1Y29WZDh1R1VmekNMeGp6QUNha0JJeFJyUFB2Yk9STXVSVHEySE91T3ZkSE9nRjBvMU5jdWpGTHlSQlo5RXRDX3owajNHdndMUF9CVkRkTjVrc1EzRWE4VHNXM0RtUi1jVkE2bDg?oc=5\" target=\"_blank\">10 China mobility stocks to ride BYD\u2019s UK su",
       "metadata": {
         "source": "scraping_agent",
         "type": "news_article",
         "symbol": "1211.HK",
         "region": "East Asia",
-        "timestamp": "Tue, 20 May 2025 07:00:00 GMT"
+        "timestamp": "Mon, 06 Oct 2025 07:00:00 GMT"
       }
     },
     {
-      "content": "Headline Sentiment: NEUTRAL\nConfidence: 0.50\n\nSummary: <a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOSkNZSGp0c2VSc00wTk04UGNpUGpCTnlxMTFiRzdka0lYTENuVmZWanVhZkVXMnRwb0JXbTRBZ3JBVGhDMXVkUEpubnpzN0xBSW1fMHRxVENmMzhYSjNUdWNnTWhlR0Z1VU05OUJlUkEtOHd0eFcxclpMWXNrSGZ3OVBlUQ?oc=5\" target=\"_blank\">Adjustment of BYD Company Structured Products, Fu",
-      "metadata": {
-        "source": "scraping_agent",
-        "type": "news_article",
-        "symbol": "1211.HK",
-        "region": "East Asia",
-        "timestamp": "Tue, 20 May 2025 07:00:00 GMT"
-      }
-    },
-    {
-      "content": "Regional Sentiment Analysis: South Asia\nTimestamp: 2025-11-19T17:05:12.072273\nTotal Stocks Analyzed: 5\n\nSentiment Breakdown:\n- Positive Stocks: 1\n- Negative Stocks: 0\n- Neutral Stocks: 4\n- Overall Trend: POSITIVE\n\nThis analysis provides market sentiment overview for South Asia based on recent news and articles.",
+      "content": "Regional Sentiment Analysis: South Asia\nTimestamp: 2025-11-23T12:36:39.988858\nTotal Stocks Analyzed: 5\n\nSentiment Breakdown:\n- Positive Stocks: 0\n- Negative Stocks: 0\n- Neutral Stocks: 5\n- Overall Trend: NEUTRAL\n\nThis analysis provides market sentiment overview for South Asia based on recent news and articles.",
       "metadata": {
         "source": "scraping_agent",
         "type": "regional_sentiment",
         "region": "South Asia",
-        "timestamp": "2025-11-19T16:56:44.040590"
+        "timestamp": "2025-11-23T12:32:36.559013"
       }
     },
     {
-      "content": "Stock Sentiment: TCS.BO (South Asia)\nTimestamp: 2025-11-19T17:05:36.289411\n\nOverall Sentiment: NEUTRAL\nConfidence: 0.33\nArticles Analyzed: 3\n\nSentiment Distribution:\n- Positive: 33.3%\n- Negative: 33.3%\n- Neutral: 33.3%\n\nRecommendation: \ud83d\udfe1 HOLD",
+      "content": "Stock Sentiment: TCS.BO (South Asia)\nTimestamp: 2025-11-23T12:37:00.866275\n\nOverall Sentiment: NEUTRAL\nConfidence: 1.00\nArticles Analyzed: 3\n\nSentiment Distribution:\n- Positive: 0.0%\n- Negative: 0.0%\n- Neutral: 100.0%\n\nRecommendation: \ud83d\udfe1 HOLD",
       "metadata": {
         "source": "scraping_agent",
         "type": "stock_sentiment",
         "symbol": "TCS.BO",
         "region": "South Asia",
-        "timestamp": "2025-11-19T16:56:44.040590"
+        "timestamp": "2025-11-23T12:32:36.559013"
       }
     },
     {
@@ -2982,53 +2912,73 @@
       }
     },
     {
-      "content": "News Article: TCS.BO (South Asia)\nTitle: Infosys, TCS, HCL Tech, other IT stocks jump up to 3% amid India-US trade deal buzz - livemint.com\nPublished: Thu, 23 Oct 2025 07:00:00 GMT\nSource: livemint.com\n\nHeadline Sentiment: POSITIVE\nConfidence: 1.00",
+      "content": "News Article: TCS.BO (South Asia)\nTitle: TaMo, TCS stocks slide as JLR woes linger - Times of India\nPublished: Fri, 26 Sep 2025 07:00:00 GMT\nSource: Times of India\n\nHeadline Sentiment: NEUTRAL\nConfidence: 0.50",
       "metadata": {
         "source": "scraping_agent",
         "type": "news_article",
         "symbol": "TCS.BO",
         "region": "South Asia",
-        "timestamp": "Thu, 23 Oct 2025 07:00:00 GMT"
+        "timestamp": "Fri, 26 Sep 2025 07:00:00 GMT"
       }
     },
     {
-      "content": "Headline Sentiment: POSITIVE\nConfidence: 1.00\n\nSummary: <a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxPNVlUeVB6SlVoLUJWMmh1Zm1tZEJOaFpfM3dLclhPeDVJOFY3XzNhcVZ0SlFmVFEzVnNsYTVQQTlHZ3J1R2FTN2N3TDFiVF9KWDBGZW8tRXNlT1lWakVwTnRBRkZObGM3S0lUVmpUU2ZVU3RPVmc1RUR4aHhqaWVJdXFoY1pzRFh4cEJNS3JfVWJTYnFIRnIzWDFrTTc0elJ2T1p5YjFEdVU2ekRtUVFCbGhyZW9nekd2OD",
+      "content": "Headline Sentiment: NEUTRAL\nConfidence: 0.50\n\nSummary: <a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPcDZSN0RBaUl4SHB2TjhFYjFZMGlhb0VfbFVWSkI1MHgxbXlKWkVPM0gxaXZhLTI3SGQ0aFVEa0hnYS04QWh6M291RjZxRkJpRU1zUnc0b3poeDVYZ08yQjIwMFNuM0FTU1I2OUh4Z1d0ZHJEazlGdnoySDZUdFBKbjg3T3VEQWwzV212eUc5T0VKQUt2WnVpdkNZMFR6bktSam82Q21IckZuX0E1ZU5HWHF3OXdDZ3FBWD",
       "metadata": {
         "source": "scraping_agent",
         "type": "news_article",
         "symbol": "TCS.BO",
         "region": "South Asia",
-        "timestamp": "Thu, 23 Oct 2025 07:00:00 GMT"
+        "timestamp": "Fri, 26 Sep 2025 07:00:00 GMT"
       }
     },
     {
-      "content": "News Article: TCS.BO (South Asia)\nTitle: TCS stock slumps! IT firm's shares plunge 33% from lifetime high, down 25% in 2025; amidst layoffs news, - Times of India\nPublished: Tue, 29 Jul 2025 07:00:00 GMT\nSource: Times of India\n\nHeadline Sentiment: NEGATIVE\nConfidence: 1.00",
+      "content": "News Article: TCS.BO (South Asia)\nTitle: Stocks to Watch today: ITC, RIL, TCS, Vedanta, Hyundai Motor India, Swiggy - Business Standard\nPublished: Fri, 31 Oct 2025 07:00:00 GMT\nSource: Business Standard\n\nHeadline Sentiment: NEUTRAL\nConfidence: 0.50",
       "metadata": {
         "source": "scraping_agent",
         "type": "news_article",
         "symbol": "TCS.BO",
         "region": "South Asia",
-        "timestamp": "Tue, 29 Jul 2025 07:00:00 GMT"
+        "timestamp": "Fri, 31 Oct 2025 07:00:00 GMT"
       }
     },
     {
-      "content": "Headline Sentiment: NEGATIVE\nConfidence: 1.00\n\nSummary: <a href=\"https://news.google.com/rss/articles/CBMitgJBVV95cUxQMjBCSGFjM01YT1R6WUZlX1BtanJLNDNqSllBZzRqY3pEbWtUd1VmZ0F0cjV0TjByVjJVR2RVdDg1allfd3RWR1YxOW9kNGtZc0tFTGZnVUFNb2pXM2pSc1JzWE1MVWpNenI5d0k5NzYtaHh2OUUyTHo4b1ZTOC1rTTlVUUV3MWRxZjk4cFl5c0ZKcktCQS1pWm10MlpTRy1RSWJ3OEY2eURfYlJfeXQ3amEwNWtQU3huVE",
+      "content": "Headline Sentiment: NEUTRAL\nConfidence: 0.50\n\nSummary: <a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxOd25tdjUtYkgwbVBqOWVpUFB0X191VERpUXdlczJyT0pyMTUzR3c1Wm1iTlc4VHo5c01FT1BqbmY1WlpPYjYwdlM0aW9UaVZNT19fTEJuV0tfUHZvc1FDWG1VajBKUmJxTmVtMnNMd3hzZ2ZXOVUwOWhxY2VhenFqVE1heG5kZ1lOSW1faklZUlFhZkl0aVZsM3Rqb1o0TDJhY2xtVGhyOHpnZFcydUtZQ3dCWU5OQThSLW",
       "metadata": {
         "source": "scraping_agent",
         "type": "news_article",
         "symbol": "TCS.BO",
         "region": "South Asia",
-        "timestamp": "Tue, 29 Jul 2025 07:00:00 GMT"
+        "timestamp": "Fri, 31 Oct 2025 07:00:00 GMT"
       }
     },
     {
-      "content": "Stock Sentiment: INFY.BO (South Asia)\nTimestamp: 2025-11-19T17:05:57.757800\n\nOverall Sentiment: POSITIVE\nConfidence: 0.67\nArticles Analyzed: 3\n\nSentiment Distribution:\n- Positive: 66.7%\n- Negative: 0.0%\n- Neutral: 33.3%\n\nRecommendation: \ud83d\udfe2 BUY",
+      "content": "Stock Sentiment: INFY.BO (South Asia)\nTimestamp: 2025-11-23T12:37:13.485845\n\nOverall Sentiment: NEUTRAL\nConfidence: 1.00\nArticles Analyzed: 3\n\nSentiment Distribution:\n- Positive: 0.0%\n- Negative: 0.0%\n- Neutral: 100.0%\n\nRecommendation: \ud83d\udfe1 HOLD",
       "metadata": {
         "source": "scraping_agent",
         "type": "stock_sentiment",
         "symbol": "INFY.BO",
         "region": "South Asia",
-        "timestamp": "2025-11-19T16:56:44.040590"
+        "timestamp": "2025-11-23T12:32:36.559013"
+      }
+    },
+    {
+      "content": "News Article: INFY.BO (South Asia)\nTitle: Infosys (NYSE: INFY) to modernize Metro Bank finance with Workday Financial Management - Stock Titan\nPublished: Wed, 29 Oct 2025 07:00:00 GMT\nSource: Stock Titan\n\nHeadline Sentiment: NEUTRAL\nConfidence: 0.50",
+      "metadata": {
+        "source": "scraping_agent",
+        "type": "news_article",
+        "symbol": "INFY.BO",
+        "region": "South Asia",
+        "timestamp": "Wed, 29 Oct 2025 07:00:00 GMT"
+      }
+    },
+    {
+      "content": "Headline Sentiment: NEUTRAL\nConfidence: 0.50\n\nSummary: <a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRUZWMnRYemQ0VTVVbkhLdDNZWE9wbjBxZGRhTWUtSmVRcWlSOHFwTWdBWm1zMnN5SzNXVk9UYmFza2tOc185ZmZNeHIyZGRRTzNZVGZUWGRHS0UtUVotdmNteWEwMXR6YXJzTUhLbXZlLWJiY3ptZWRIc05GQTdNemFNdmJZZjBHZXF6SzROWTB4d2MzeldGYTRrdVl3OHNNNnRkT2xHQklLQ3I0VWc2cXJPR2EyQVJqem",
+      "metadata": {
+        "source": "scraping_agent",
+        "type": "news_article",
+        "symbol": "INFY.BO",
+        "region": "South Asia",
+        "timestamp": "Wed, 29 Oct 2025 07:00:00 GMT"
       }
     },
     {
@@ -3052,53 +3002,33 @@
       }
     },
     {
-      "content": "News Article: INFY.BO (South Asia)\nTitle: Infosys Transforms ABN AMRO's Lending Operations: 100,000 Records Migrated in Major Digital Overhaul - Stock Titan\nPublished: Mon, 11 Aug 2025 07:00:00 GMT\nSource: Stock Titan\n\nHeadline Sentiment: POSITIVE\nConfidence: 1.00",
+      "content": "News Article: INFY.BO (South Asia)\nTitle: Last day! Infosys, 9 other stocks turn ex-dividend today; do you own any? - Business Standard\nPublished: Mon, 27 Oct 2025 07:00:00 GMT\nSource: Business Standard\n\nHeadline Sentiment: NEUTRAL\nConfidence: 0.50",
       "metadata": {
         "source": "scraping_agent",
         "type": "news_article",
         "symbol": "INFY.BO",
         "region": "South Asia",
-        "timestamp": "Mon, 11 Aug 2025 07:00:00 GMT"
+        "timestamp": "Mon, 27 Oct 2025 07:00:00 GMT"
       }
     },
     {
-      "content": "Headline Sentiment: POSITIVE\nConfidence: 1.00\n\nSummary: <a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOdGNHcUZCVl90M2NYdlNxamZWQ0RnTTJQT3VrVHNFcTNnS08xN2NmS21yN1d2d1RIMkF5TzcydDhGbUNfMDVUa19EdHZFOXBfdHZQcFVGcGx0eDdtVEZGLTJVTGhGX0h2dGpRdmRuRWlNWk4xT0pDQW5Ra1BRVW5aNnNYbzVJS1VXNG9iWkl6dXdBQmtUYUxlRFk3QzY3T2ZqV1F1S3c3N2tJQmJLaktMZmRFV0dHMUZwcG",
+      "content": "Headline Sentiment: NEUTRAL\nConfidence: 0.50\n\nSummary: <a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSG94TVg4RFlpb3hNSWZMQWZOT1lmeFZacUhaRTlPc1ZEdkZqZU1OMlp5WC1kZXp1RjRTNWhoTTBMU3NzWU5YZE44ZEhJdFV0S3J5elNkRVY2VVVuNnVHOHNvUlJSaXdiZTV1M0RRVUhqNTlCNks5N0xYVEdTVkhpTU5hN0MzTTQtOXYzWC10MWtkV2RZTWxYaHM5N05WLWRhNkM3aTY0bUVqLW03ZUQ4azM1dWdfRFpteF",
       "metadata": {
         "source": "scraping_agent",
         "type": "news_article",
         "symbol": "INFY.BO",
         "region": "South Asia",
-        "timestamp": "Mon, 11 Aug 2025 07:00:00 GMT"
+        "timestamp": "Mon, 27 Oct 2025 07:00:00 GMT"
       }
     },
     {
-      "content": "News Article: INFY.BO (South Asia)\nTitle: Infosys, TCS, HCL Tech, other IT stocks jump up to 3% amid India-US trade deal buzz - livemint.com\nPublished: Thu, 23 Oct 2025 07:00:00 GMT\nSource: livemint.com\n\nHeadline Sentiment: POSITIVE\nConfidence: 1.00",
-      "metadata": {
-        "source": "scraping_agent",
-        "type": "news_article",
-        "symbol": "INFY.BO",
-        "region": "South Asia",
-        "timestamp": "Thu, 23 Oct 2025 07:00:00 GMT"
-      }
-    },
-    {
-      "content": "Headline Sentiment: POSITIVE\nConfidence: 1.00\n\nSummary: <a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxPNVlUeVB6SlVoLUJWMmh1Zm1tZEJOaFpfM3dLclhPeDVJOFY3XzNhcVZ0SlFmVFEzVnNsYTVQQTlHZ3J1R2FTN2N3TDFiVF9KWDBGZW8tRXNlT1lWakVwTnRBRkZObGM3S0lUVmpUU2ZVU3RPVmc1RUR4aHhqaWVJdXFoY1pzRFh4cEJNS3JfVWJTYnFIRnIzWDFrTTc0elJ2T1p5YjFEdVU2ekRtUVFCbGhyZW9nekd2OD",
-      "metadata": {
-        "source": "scraping_agent",
-        "type": "news_article",
-        "symbol": "INFY.BO",
-        "region": "South Asia",
-        "timestamp": "Thu, 23 Oct 2025 07:00:00 GMT"
-      }
-    },
-    {
-      "content": "Stock Sentiment: WIPRO.BO (South Asia)\nTimestamp: 2025-11-19T17:06:22.632335\n\nOverall Sentiment: NEUTRAL\nConfidence: 1.00\nArticles Analyzed: 3\n\nSentiment Distribution:\n- Positive: 0.0%\n- Negative: 0.0%\n- Neutral: 100.0%\n\nRecommendation: \ud83d\udfe1 HOLD",
+      "content": "Stock Sentiment: WIPRO.BO (South Asia)\nTimestamp: 2025-11-23T12:37:26.403460\n\nOverall Sentiment: NEUTRAL\nConfidence: 1.00\nArticles Analyzed: 3\n\nSentiment Distribution:\n- Positive: 0.0%\n- Negative: 0.0%\n- Neutral: 100.0%\n\nRecommendation: \ud83d\udfe1 HOLD",
       "metadata": {
         "source": "scraping_agent",
         "type": "stock_sentiment",
         "symbol": "WIPRO.BO",
         "region": "South Asia",
-        "timestamp": "2025-11-19T16:56:44.040590"
+        "timestamp": "2025-11-23T12:32:36.559013"
       }
     },
     {
@@ -3142,33 +3072,33 @@
       }
     },
     {
-      "content": "News Article: WIPRO.BO (South Asia)\nTitle: Wipro Limited Set to Launch Wipro CyberShieldSM MDR In Collaboration With CrowdStrike - Yahoo Finance\nPublished: Thu, 18 Sep 2025 07:00:00 GMT\nSource: Yahoo Finance\n\nHeadline Sentiment: NEUTRAL\nConfidence: 0.50",
+      "content": "News Article: WIPRO.BO (South Asia)\nTitle: CLSA Maintains a Buy Rating on Wipro Limited (WIT) - Yahoo Finance\nPublished: Mon, 13 Oct 2025 07:00:00 GMT\nSource: Yahoo Finance\n\nHeadline Sentiment: NEUTRAL\nConfidence: 0.50",
       "metadata": {
         "source": "scraping_agent",
         "type": "news_article",
         "symbol": "WIPRO.BO",
         "region": "South Asia",
-        "timestamp": "Thu, 18 Sep 2025 07:00:00 GMT"
+        "timestamp": "Mon, 13 Oct 2025 07:00:00 GMT"
       }
     },
     {
-      "content": "Headline Sentiment: NEUTRAL\nConfidence: 0.50\n\nSummary: <a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNN0VobGx1T3lYa1M1Nktzc1Ztcko4QzBpclk5NUUyS19BNF9zTEh4M3ZhaXZZbklldzhzWUxSajQ1N0txWmpqdlotVElpQnFJYXZRTTVRTXVMR19vQ3QyRXJjbG9ZSXFOOVFvQXQ0Y0k0Y2hJbmZWR1Zac3A2WnpFV0Rn?oc=5\" target=\"_blank\">Wipro Limited Set to Launch Wipro CyberShieldSM MDR",
+      "content": "Headline Sentiment: NEUTRAL\nConfidence: 0.50\n\nSummary: <a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOakNiWHlhWW5fV3pYTnRZb0RHRlI3b3h3bFhhVGRvRER2UUw3am5MLWxXUG9LVDdBNkhGeHQ3cFczcnBXUkhjQ1hpWkZXd1Z0eFVvWnRLUnNSZTBRYWFlcEdrcFkzVGFDYWVsWUliRlQyVGE3dzdpblQyeVhjemFrTHE3QQ?oc=5\" target=\"_blank\">CLSA Maintains a Buy Rating on Wipro Limited (WIT",
       "metadata": {
         "source": "scraping_agent",
         "type": "news_article",
         "symbol": "WIPRO.BO",
         "region": "South Asia",
-        "timestamp": "Thu, 18 Sep 2025 07:00:00 GMT"
+        "timestamp": "Mon, 13 Oct 2025 07:00:00 GMT"
       }
     },
     {
-      "content": "Stock Sentiment: HCLTECH.BO (South Asia)\nTimestamp: 2025-11-19T17:06:45.506543\n\nOverall Sentiment: NEUTRAL\nConfidence: 0.67\nArticles Analyzed: 3\n\nSentiment Distribution:\n- Positive: 33.3%\n- Negative: 0.0%\n- Neutral: 66.7%\n\nRecommendation: \ud83d\udfe1 HOLD",
+      "content": "Stock Sentiment: HCLTECH.BO (South Asia)\nTimestamp: 2025-11-23T12:37:38.669195\n\nOverall Sentiment: NEUTRAL\nConfidence: 0.67\nArticles Analyzed: 3\n\nSentiment Distribution:\n- Positive: 33.3%\n- Negative: 0.0%\n- Neutral: 66.7%\n\nRecommendation: \ud83d\udfe1 HOLD",
       "metadata": {
         "source": "scraping_agent",
         "type": "stock_sentiment",
         "symbol": "HCLTECH.BO",
         "region": "South Asia",
-        "timestamp": "2025-11-19T16:56:44.040590"
+        "timestamp": "2025-11-23T12:32:36.559013"
       }
     },
     {
@@ -3192,7 +3122,27 @@
       }
     },
     {
-      "content": "News Article: HCLTECH.BO (South Asia)\nTitle: Infosys, TCS, HCL Tech, other IT stocks jump up to 3% amid India-US trade deal buzz - livemint.com\nPublished: Thu, 23 Oct 2025 07:00:00 GMT\nSource: livemint.com\n\nHeadline Sentiment: POSITIVE\nConfidence: 1.00",
+      "content": "News Article: HCLTECH.BO (South Asia)\nTitle: Stocks to watch: RIL, HCL Tech, Tata Power among 10 shares in focus today - livemint.com\nPublished: Tue, 18 Nov 2025 01:51:04 GMT\nSource: livemint.com\n\nHeadline Sentiment: NEUTRAL\nConfidence: 0.50",
+      "metadata": {
+        "source": "scraping_agent",
+        "type": "news_article",
+        "symbol": "HCLTECH.BO",
+        "region": "South Asia",
+        "timestamp": "Tue, 18 Nov 2025 01:51:04 GMT"
+      }
+    },
+    {
+      "content": "Headline Sentiment: NEUTRAL\nConfidence: 0.50\n\nSummary: <a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxONzEtZUs0N1VKUUhXQmRxZlZSWE5aQzNkMWxGdzZLZGhDWDdPZ1FCRzAtc0cwekp5eXR0dDRmT19EUzBZY0xhT25nT3Z4ampkb3hqeVRZdHRuSU96U1JHUDJPYzBNSVFBQWVESm5QYV9nN2psbjRYTndXb1Z5REZoaWdhdXRkN0lKUU1yMnBERHd3dkUzS0dQNVgzYmk4TkxVUWVFelpLYmlMMGVsV3prbE9YZ2hjeFNzeF",
+      "metadata": {
+        "source": "scraping_agent",
+        "type": "news_article",
+        "symbol": "HCLTECH.BO",
+        "region": "South Asia",
+        "timestamp": "Tue, 18 Nov 2025 01:51:04 GMT"
+      }
+    },
+    {
+      "content": "News Article: HCLTECH.BO (South Asia)\nTitle: HCL Tech shares gain 3% on partnership with UAE-based DIB; IT stocks rally - Business Standard\nPublished: Thu, 23 Oct 2025 07:00:00 GMT\nSource: Business Standard\n\nHeadline Sentiment: POSITIVE\nConfidence: 1.00",
       "metadata": {
         "source": "scraping_agent",
         "type": "news_article",
@@ -3202,7 +3152,7 @@
       }
     },
     {
-      "content": "Headline Sentiment: POSITIVE\nConfidence: 1.00\n\nSummary: <a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxPNVlUeVB6SlVoLUJWMmh1Zm1tZEJOaFpfM3dLclhPeDVJOFY3XzNhcVZ0SlFmVFEzVnNsYTVQQTlHZ3J1R2FTN2N3TDFiVF9KWDBGZW8tRXNlT1lWakVwTnRBRkZObGM3S0lUVmpUU2ZVU3RPVmc1RUR4aHhqaWVJdXFoY1pzRFh4cEJNS3JfVWJTYnFIRnIzWDFrTTc0elJ2T1p5YjFEdVU2ekRtUVFCbGhyZW9nekd2OD",
+      "content": "Headline Sentiment: POSITIVE\nConfidence: 1.00\n\nSummary: <a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxNWGFld3BURjBoVWZ1ckx4WktWUUVXa0xWdDdZSzZiU2tRX2o1THg4WUFjcWpCbmdXUkRvak5IMTJmWHpSOHFGUHFzSGJsSmt2YmxjTDZrTnI2M3hUbExnbTR6SVZ1X1N2YW9OQ1BrQTgyMWlTR0ZYak84cDFtcXEwWVByMjd0Z1drV0tibTJuazl1MFoybVlFX2t1YnpjdnRja2tFaThmVEhEczZWd3hMN0ZYZjNiYUVBTV",
       "metadata": {
         "source": "scraping_agent",
         "type": "news_article",
@@ -3212,33 +3162,13 @@
       }
     },
     {
-      "content": "News Article: HCLTECH.BO (South Asia)\nTitle: HCL Tech vs TechM vs Persistent: Which IT stock to bet on post Q2 results? - Business Standard\nPublished: Wed, 15 Oct 2025 07:00:00 GMT\nSource: Business Standard\n\nHeadline Sentiment: NEUTRAL\nConfidence: 0.50",
-      "metadata": {
-        "source": "scraping_agent",
-        "type": "news_article",
-        "symbol": "HCLTECH.BO",
-        "region": "South Asia",
-        "timestamp": "Wed, 15 Oct 2025 07:00:00 GMT"
-      }
-    },
-    {
-      "content": "Headline Sentiment: NEUTRAL\nConfidence: 0.50\n\nSummary: <a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVjFpSmxFWmhRMzd4cWczSmxERnYxUXlnUnBPekFmYXByU09xaEdnT1FqcUt3R2lQaFg5M0FxaUZOZjNjbk50NFI5OHpMa1FIeld1T1NoaXA0bEFoUTVJanNrRkdfNndQQzE3TEhvdHZyOTctRGNRSS1sQUpJQ255QnlBM2lQVHkwNWZUUzBqWFUtbHFBUDdHVXlvRjBYbXZxaEE5Skc2WjZ0X0wwQWZfZUJjdGJ6Rl9kbG",
-      "metadata": {
-        "source": "scraping_agent",
-        "type": "news_article",
-        "symbol": "HCLTECH.BO",
-        "region": "South Asia",
-        "timestamp": "Wed, 15 Oct 2025 07:00:00 GMT"
-      }
-    },
-    {
-      "content": "Stock Sentiment: PTCL.KA (South Asia)\nTimestamp: 2025-11-19T17:07:10.837992\n\nOverall Sentiment: NEUTRAL\nConfidence: 0.67\nArticles Analyzed: 3\n\nSentiment Distribution:\n- Positive: 0.0%\n- Negative: 33.3%\n- Neutral: 66.7%\n\nRecommendation: \ud83d\udfe1 HOLD",
+      "content": "Stock Sentiment: PTCL.KA (South Asia)\nTimestamp: 2025-11-23T12:38:05.924047\n\nOverall Sentiment: NEUTRAL\nConfidence: 0.67\nArticles Analyzed: 3\n\nSentiment Distribution:\n- Positive: 0.0%\n- Negative: 33.3%\n- Neutral: 66.7%\n\nRecommendation: \ud83d\udfe1 HOLD",
       "metadata": {
         "source": "scraping_agent",
         "type": "stock_sentiment",
         "symbol": "PTCL.KA",
         "region": "South Asia",
-        "timestamp": "2025-11-19T16:56:44.040590"
+        "timestamp": "2025-11-23T12:32:36.559013"
       }
     },
     {
@@ -3262,26 +3192,6 @@
       }
     },
     {
-      "content": "News Article: PTCL.KA (South Asia)\nTitle: Corvus Pharmaceuticals Eyes Phase 3 Trials: Soquelitinib's Promise In PTCL (NASDAQ:CRVS) - Seeking Alpha\nPublished: Tue, 03 Sep 2024 07:00:00 GMT\nSource: Seeking Alpha\n\nHeadline Sentiment: NEUTRAL\nConfidence: 0.50",
-      "metadata": {
-        "source": "scraping_agent",
-        "type": "news_article",
-        "symbol": "PTCL.KA",
-        "region": "South Asia",
-        "timestamp": "Tue, 03 Sep 2024 07:00:00 GMT"
-      }
-    },
-    {
-      "content": "Headline Sentiment: NEUTRAL\nConfidence: 0.50\n\nSummary: <a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNLVRxZ0J3ZFdYN29BSGJWZ0NSV1FJSDZUdUdOWHc3UTVjSUNrYmk1M1ZuSExieGdUQ1I5RlNVNmRqbktYai1nOHIyQTVOWHRTWDJURHdFTFNlR0VyWVdvUHFaQzN3d0wxZ2p6Z093RU1Pbnh0bHh0b3F3Qk55U0ZFNEV4eTlwZ1hlQW82YUVsMmw2ejJtZFZid2VNTkY2RVpVSU95RWJoQ0hqamxEd2JmTDhjVXZZZ2FR?o",
-      "metadata": {
-        "source": "scraping_agent",
-        "type": "news_article",
-        "symbol": "PTCL.KA",
-        "region": "South Asia",
-        "timestamp": "Tue, 03 Sep 2024 07:00:00 GMT"
-      }
-    },
-    {
       "content": "News Article: PTCL.KA (South Asia)\nTitle: CCP approves PTCL\u2019s acquisition of Telenor Pakistan - Mettis Global\nPublished: Wed, 01 Oct 2025 07:00:00 GMT\nSource: Mettis Global\n\nHeadline Sentiment: NEUTRAL\nConfidence: 0.50",
       "metadata": {
         "source": "scraping_agent",
@@ -3302,92 +3212,42 @@
       }
     },
     {
-      "content": "Regional Sentiment Analysis: Southeast Asia\nTimestamp: 2025-11-19T17:07:13.847652\nTotal Stocks Analyzed: 7\n\nSentiment Breakdown:\n- Positive Stocks: 1\n- Negative Stocks: 0\n- Neutral Stocks: 6\n- Overall Trend: POSITIVE\n\nThis analysis provides market sentiment overview for Southeast Asia based on recent news and articles.",
+      "content": "News Article: PTCL.KA (South Asia)\nTitle: Corvus Pharmaceuticals Eyes Phase 3 Trials: Soquelitinib's Promise In PTCL (NASDAQ:CRVS) - Seeking Alpha\nPublished: Tue, 03 Sep 2024 07:00:00 GMT\nSource: Seeking Alpha\n\nHeadline Sentiment: NEUTRAL\nConfidence: 0.50",
+      "metadata": {
+        "source": "scraping_agent",
+        "type": "news_article",
+        "symbol": "PTCL.KA",
+        "region": "South Asia",
+        "timestamp": "Tue, 03 Sep 2024 07:00:00 GMT"
+      }
+    },
+    {
+      "content": "Headline Sentiment: NEUTRAL\nConfidence: 0.50\n\nSummary: <a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNLVRxZ0J3ZFdYN29BSGJWZ0NSV1FJSDZUdUdOWHc3UTVjSUNrYmk1M1ZuSExieGdUQ1I5RlNVNmRqbktYai1nOHIyQTVOWHRTWDJURHdFTFNlR0VyWVdvUHFaQzN3d0wxZ2p6Z093RU1Pbnh0bHh0b3F3Qk55U0ZFNEV4eTlwZ1hlQW82YUVsMmw2ejJtZFZid2VNTkY2RVpVSU95RWJoQ0hqamxEd2JmTDhjVXZZZ2FR?o",
+      "metadata": {
+        "source": "scraping_agent",
+        "type": "news_article",
+        "symbol": "PTCL.KA",
+        "region": "South Asia",
+        "timestamp": "Tue, 03 Sep 2024 07:00:00 GMT"
+      }
+    },
+    {
+      "content": "Regional Sentiment Analysis: Southeast Asia\nTimestamp: 2025-11-23T12:38:08.951221\nTotal Stocks Analyzed: 7\n\nSentiment Breakdown:\n- Positive Stocks: 3\n- Negative Stocks: 0\n- Neutral Stocks: 4\n- Overall Trend: POSITIVE\n\nThis analysis provides market sentiment overview for Southeast Asia based on recent news and articles.",
       "metadata": {
         "source": "scraping_agent",
         "type": "regional_sentiment",
         "region": "Southeast Asia",
-        "timestamp": "2025-11-19T16:56:44.040590"
+        "timestamp": "2025-11-23T12:32:36.559013"
       }
     },
     {
-      "content": "Stock Sentiment: U11.SI (Southeast Asia)\nTimestamp: 2025-11-19T17:07:34.605849\n\nOverall Sentiment: NEUTRAL\nConfidence: 0.33\nArticles Analyzed: 3\n\nSentiment Distribution:\n- Positive: 33.3%\n- Negative: 33.3%\n- Neutral: 33.3%\n\nRecommendation: \ud83d\udfe1 HOLD",
-      "metadata": {
-        "source": "scraping_agent",
-        "type": "stock_sentiment",
-        "symbol": "U11.SI",
-        "region": "Southeast Asia",
-        "timestamp": "2025-11-19T16:56:44.040590"
-      }
-    },
-    {
-      "content": "News Article: U11.SI (Southeast Asia)\nTitle: Strategy Inc (MSTR) stock price, news, quote and history - Yahoo Finance Singapore\nPublished: Mon, 17 Nov 2025 15:00:00 GMT\nSource: Yahoo Finance Singapore\n\nHeadline Sentiment: NEUTRAL\nConfidence: 0.50",
-      "metadata": {
-        "source": "scraping_agent",
-        "type": "news_article",
-        "symbol": "U11.SI",
-        "region": "Southeast Asia",
-        "timestamp": "Mon, 17 Nov 2025 15:00:00 GMT"
-      }
-    },
-    {
-      "content": "Headline Sentiment: NEUTRAL\nConfidence: 0.50\n\nSummary: <a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE9wVGhMTmZBSkJ2dkplTDItTk83NEpxdWR4YmJuT3ZKSTBOZ3JGS1BUVi1Ld3hhYWdvVUYycXB0VTZNSExmd3ZtRGpJakE5QkRRWGc?oc=5\" target=\"_blank\">Strategy Inc (MSTR) stock price, news, quote and history</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance Singapor",
-      "metadata": {
-        "source": "scraping_agent",
-        "type": "news_article",
-        "symbol": "U11.SI",
-        "region": "Southeast Asia",
-        "timestamp": "Mon, 17 Nov 2025 15:00:00 GMT"
-      }
-    },
-    {
-      "content": "News Article: U11.SI (Southeast Asia)\nTitle: UOB (SGX:U11) News Today, Nov 6: Shares Fall on Unexpected Q3 Profit Drop - Meyka\nPublished: Thu, 06 Nov 2025 16:12:40 GMT\nSource: Meyka\n\nHeadline Sentiment: NEGATIVE\nConfidence: 0.67",
-      "metadata": {
-        "source": "scraping_agent",
-        "type": "news_article",
-        "symbol": "U11.SI",
-        "region": "Southeast Asia",
-        "timestamp": "Thu, 06 Nov 2025 16:12:40 GMT"
-      }
-    },
-    {
-      "content": "Headline Sentiment: NEGATIVE\nConfidence: 0.67\n\nSummary: <a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQRDM2aElpcFIwZkIzZ3g2eWVlVHpMUThHSHhyMHA4Y3BNN2NHd2loMkhYXzJxSTRIbEVubnk2N2t1UDBUa2R3SFN2M2VmQ0RGWnhiMi1xMlg5LWE1VnA3UHAzUEFmN0tZZEpKZEVNRHRQdzZvY3VQZExoZnlubFRRMXhZdmNBX1F2NGxxbWcyTC12ekl4bVZHaEEyZXQ5QQ?oc=5\" target=\"_blank\">UOB (SGX:U11)",
-      "metadata": {
-        "source": "scraping_agent",
-        "type": "news_article",
-        "symbol": "U11.SI",
-        "region": "Southeast Asia",
-        "timestamp": "Thu, 06 Nov 2025 16:12:40 GMT"
-      }
-    },
-    {
-      "content": "News Article: U11.SI (Southeast Asia)\nTitle: Can Singapore Bank Stocks Rise Further? - Yahoo Finance Singapore\nPublished: Sun, 26 Oct 2025 07:00:00 GMT\nSource: Yahoo Finance Singapore\n\nHeadline Sentiment: POSITIVE\nConfidence: 1.00",
-      "metadata": {
-        "source": "scraping_agent",
-        "type": "news_article",
-        "symbol": "U11.SI",
-        "region": "Southeast Asia",
-        "timestamp": "Sun, 26 Oct 2025 07:00:00 GMT"
-      }
-    },
-    {
-      "content": "Headline Sentiment: POSITIVE\nConfidence: 1.00\n\nSummary: <a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeGhwb0xoal9rblh3VmRpV0pjTUUwdlRKQjJOT1pJdUpTM1ZVemZJUzN1TE80NlJsNGd3eVE5SkUtZGttQ2RCbmppQkdlM0RNZ1ZpMk51ZEJkV3lFLTBWU0ZhLUVnLU50UF9aaXRuUkNfWVUyLWR5cXhjZUppaVllNHVxbTM0RkVEVDc4?oc=5\" target=\"_blank\">Can Singapore Bank Stocks Rise Further?",
-      "metadata": {
-        "source": "scraping_agent",
-        "type": "news_article",
-        "symbol": "U11.SI",
-        "region": "Southeast Asia",
-        "timestamp": "Sun, 26 Oct 2025 07:00:00 GMT"
-      }
-    },
-    {
-      "content": "Stock Sentiment: D05.SI (Southeast Asia)\nTimestamp: 2025-11-19T17:07:55.748335\n\nOverall Sentiment: NEUTRAL\nConfidence: 0.67\nArticles Analyzed: 3\n\nSentiment Distribution:\n- Positive: 33.3%\n- Negative: 0.0%\n- Neutral: 66.7%\n\nRecommendation: \ud83d\udfe1 HOLD",
+      "content": "Stock Sentiment: D05.SI (Southeast Asia)\nTimestamp: 2025-11-23T12:38:23.269803\n\nOverall Sentiment: POSITIVE\nConfidence: 0.67\nArticles Analyzed: 3\n\nSentiment Distribution:\n- Positive: 66.7%\n- Negative: 0.0%\n- Neutral: 33.3%\n\nRecommendation: \ud83d\udfe2 BUY",
       "metadata": {
         "source": "scraping_agent",
         "type": "stock_sentiment",
         "symbol": "D05.SI",
         "region": "Southeast Asia",
-        "timestamp": "2025-11-19T16:56:44.040590"
+        "timestamp": "2025-11-23T12:32:36.559013"
       }
     },
     {
@@ -3431,33 +3291,33 @@
       }
     },
     {
-      "content": "News Article: D05.SI (Southeast Asia)\nTitle: UK Stock Market News: HSBC, BAE Systems, Airtel Africa - Yahoo Finance Singapore\nPublished: Tue, 28 Oct 2025 07:00:00 GMT\nSource: Yahoo Finance Singapore\n\nHeadline Sentiment: NEUTRAL\nConfidence: 0.50",
+      "content": "News Article: D05.SI (Southeast Asia)\nTitle: DBS vs OCBC: Which Bank Stock Looks Stronger After the Fed Rate Cuts? - Yahoo Finance Singapore\nPublished: Wed, 08 Oct 2025 07:00:00 GMT\nSource: Yahoo Finance Singapore\n\nHeadline Sentiment: POSITIVE\nConfidence: 1.00",
       "metadata": {
         "source": "scraping_agent",
         "type": "news_article",
         "symbol": "D05.SI",
         "region": "Southeast Asia",
-        "timestamp": "Tue, 28 Oct 2025 07:00:00 GMT"
+        "timestamp": "Wed, 08 Oct 2025 07:00:00 GMT"
       }
     },
     {
-      "content": "Headline Sentiment: NEUTRAL\nConfidence: 0.50\n\nSummary: <a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1YRm50Rnh4U20wSmtaSHAzcUhaVTBPaHhpVWFOWWhSVmNRSWphdG96djRSWVprOWtESTVlV3AxVFlKWmdLbElqYVFqeGhjOE01WVRnQndBRDZoRUFFdGRoX0JUbHRlY3NScjhQY1FEVm9LRUJEYUpVVktGZ3JBUnc?oc=5\" target=\"_blank\">UK Stock Market News: HSBC, BAE Systems, Airtel Africa</",
+      "content": "Headline Sentiment: POSITIVE\nConfidence: 1.00\n\nSummary: <a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE9qbFktd1lGNHZoZU0wZ18yVGM4d3FvY1pUSWVPWFMxZ3ZDcllOQVdCVEVpNTQzRjlBMGF4TTZqTlZjREp1eDBXZ1VZd2FhSjBPNV9lWnlJbEZuaGlya0hYbUI2QXVack1VU3lIdjBfaEZnY21Ha0c5UTJVZw?oc=5\" target=\"_blank\">DBS vs OCBC: Which Bank Stock Looks Stronger After the Fed Ra",
       "metadata": {
         "source": "scraping_agent",
         "type": "news_article",
         "symbol": "D05.SI",
         "region": "Southeast Asia",
-        "timestamp": "Tue, 28 Oct 2025 07:00:00 GMT"
+        "timestamp": "Wed, 08 Oct 2025 07:00:00 GMT"
       }
     },
     {
-      "content": "Stock Sentiment: 5185.KL (Southeast Asia)\nTimestamp: 2025-11-19T17:09:00.112648\n\nOverall Sentiment: NEUTRAL\nConfidence: 1.00\nArticles Analyzed: 3\n\nSentiment Distribution:\n- Positive: 0.0%\n- Negative: 0.0%\n- Neutral: 100.0%\n\nRecommendation: \ud83d\udfe1 HOLD",
+      "content": "Stock Sentiment: 5185.KL (Southeast Asia)\nTimestamp: 2025-11-23T12:38:36.910931\n\nOverall Sentiment: NEUTRAL\nConfidence: 1.00\nArticles Analyzed: 3\n\nSentiment Distribution:\n- Positive: 0.0%\n- Negative: 0.0%\n- Neutral: 100.0%\n\nRecommendation: \ud83d\udfe1 HOLD",
       "metadata": {
         "source": "scraping_agent",
         "type": "stock_sentiment",
         "symbol": "5185.KL",
         "region": "Southeast Asia",
-        "timestamp": "2025-11-19T16:56:44.040590"
+        "timestamp": "2025-11-23T12:32:36.559013"
       }
     },
     {
@@ -3521,33 +3381,33 @@
       }
     },
     {
-      "content": "Stock Sentiment: ADVANC.BK (Southeast Asia)\nTimestamp: 2025-11-19T17:09:24.214673\n\nOverall Sentiment: NEUTRAL\nConfidence: 0.67\nArticles Analyzed: 3\n\nSentiment Distribution:\n- Positive: 33.3%\n- Negative: 0.0%\n- Neutral: 66.7%\n\nRecommendation: \ud83d\udfe1 HOLD",
+      "content": "Stock Sentiment: ADVANC.BK (Southeast Asia)\nTimestamp: 2025-11-23T12:38:49.486698\n\nOverall Sentiment: POSITIVE\nConfidence: 0.67\nArticles Analyzed: 3\n\nSentiment Distribution:\n- Positive: 66.7%\n- Negative: 0.0%\n- Neutral: 33.3%\n\nRecommendation: \ud83d\udfe2 BUY",
       "metadata": {
         "source": "scraping_agent",
         "type": "stock_sentiment",
         "symbol": "ADVANC.BK",
         "region": "Southeast Asia",
-        "timestamp": "2025-11-19T16:56:44.040590"
+        "timestamp": "2025-11-23T12:32:36.559013"
       }
     },
     {
-      "content": "News Article: ADVANC.BK (Southeast Asia)\nTitle: ACM Research Delivers Advanced Ultra Lith BK Photoresist Hardening Tool with Industry-Leading UV Curing and Temperature Uniformity - MarketScreener\nPublished: Wed, 19 Nov 2025 09:00:10 GMT\nSource: MarketScreener\n\nHeadline Sentiment: NEUTRAL\nConfidence: 0.50",
+      "content": "News Article: ADVANC.BK (Southeast Asia)\nTitle: ABN AMRO Bank N.V. Buys Shares of 1,702 Advanced Micro Devices, Inc. $AMD - MarketBeat\nPublished: Sat, 22 Nov 2025 08:19:17 GMT\nSource: MarketBeat\n\nHeadline Sentiment: POSITIVE\nConfidence: 1.00",
       "metadata": {
         "source": "scraping_agent",
         "type": "news_article",
         "symbol": "ADVANC.BK",
         "region": "Southeast Asia",
-        "timestamp": "Wed, 19 Nov 2025 09:00:10 GMT"
+        "timestamp": "Sat, 22 Nov 2025 08:19:17 GMT"
       }
     },
     {
-      "content": "Headline Sentiment: NEUTRAL\nConfidence: 0.50\n\nSummary: <a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxPR1l2dXFCeEc4QVN2RDZxeHhuemtwZ3JzUjNJNFBLRG9pRnpRMW5ObjRJUUNZYzRoOUhnYWxkekJXdi1sRVNNaExGbUV4MjBhVUp4UEdZNnpGdU5NYjJNNU1HLXZPc0FqeGVhYkZiM005VVBLZnp1ZjlORjdMUmpuTkdxQ2NTVk1mS2E2OWRJOUluU2ZhZVRacUVuZlRxYmFyam9TcnlZRlZKRWJQdVFsYW9JT3NiZGR6eF",
+      "content": "Headline Sentiment: POSITIVE\nConfidence: 1.00\n\nSummary: <a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQcG5sNHZOeXhqTldNR2lFN2NCRTVJclpPaEFPZmpCWi1pa1lqNWlhYXhwWW5ieVpKN0MtZDFLOG5xdUZKWFhvYVZOekZzejRhb0t5MWU2S2x3YXlaMjB3MHRIRTB1THVpWG5HWGdERDlhRXRlblZMcmVxQzF2SXQyaWQyQWN5UFczb005XzFMX1BELUpqbnVlY0lJSk9VSm9hb3N3YWVKaUYzeVBCSkZJTVJVVXd2Q0NxWm",
       "metadata": {
         "source": "scraping_agent",
         "type": "news_article",
         "symbol": "ADVANC.BK",
         "region": "Southeast Asia",
-        "timestamp": "Wed, 19 Nov 2025 09:00:10 GMT"
+        "timestamp": "Sat, 22 Nov 2025 08:19:17 GMT"
       }
     },
     {
@@ -3591,13 +3451,13 @@
       }
     },
     {
-      "content": "Stock Sentiment: TRUEIT.BK (Southeast Asia)\nTimestamp: 2025-11-19T17:09:32.523427\n\nOverall Sentiment: NEUTRAL\nConfidence: 1.00\nArticles Analyzed: 1\n\nSentiment Distribution:\n- Positive: 0.0%\n- Negative: 0.0%\n- Neutral: 100.0%\n\nRecommendation: \ud83d\udfe1 HOLD",
+      "content": "Stock Sentiment: TRUEIT.BK (Southeast Asia)\nTimestamp: 2025-11-23T12:38:54.677167\n\nOverall Sentiment: NEUTRAL\nConfidence: 1.00\nArticles Analyzed: 1\n\nSentiment Distribution:\n- Positive: 0.0%\n- Negative: 0.0%\n- Neutral: 100.0%\n\nRecommendation: \ud83d\udfe1 HOLD",
       "metadata": {
         "source": "scraping_agent",
         "type": "stock_sentiment",
         "symbol": "TRUEIT.BK",
         "region": "Southeast Asia",
-        "timestamp": "2025-11-19T16:56:44.040590"
+        "timestamp": "2025-11-23T12:32:36.559013"
       }
     },
     {
@@ -3621,13 +3481,13 @@
       }
     },
     {
-      "content": "Stock Sentiment: TLKM.JK (Southeast Asia)\nTimestamp: 2025-11-19T17:09:46.777823\n\nOverall Sentiment: NEUTRAL\nConfidence: 1.00\nArticles Analyzed: 2\n\nSentiment Distribution:\n- Positive: 0.0%\n- Negative: 0.0%\n- Neutral: 100.0%\n\nRecommendation: \ud83d\udfe1 HOLD",
+      "content": "Stock Sentiment: TLKM.JK (Southeast Asia)\nTimestamp: 2025-11-23T12:39:13.006322\n\nOverall Sentiment: NEUTRAL\nConfidence: 1.00\nArticles Analyzed: 2\n\nSentiment Distribution:\n- Positive: 0.0%\n- Negative: 0.0%\n- Neutral: 100.0%\n\nRecommendation: \ud83d\udfe1 HOLD",
       "metadata": {
         "source": "scraping_agent",
         "type": "stock_sentiment",
         "symbol": "TLKM.JK",
         "region": "Southeast Asia",
-        "timestamp": "2025-11-19T16:56:44.040590"
+        "timestamp": "2025-11-23T12:32:36.559013"
       }
     },
     {
@@ -3671,13 +3531,53 @@
       }
     },
     {
-      "content": "Stock Sentiment: VNM (Southeast Asia)\nTimestamp: 2025-11-19T17:10:44.488266\n\nOverall Sentiment: POSITIVE\nConfidence: 1.00\nArticles Analyzed: 3\n\nSentiment Distribution:\n- Positive: 100.0%\n- Negative: 0.0%\n- Neutral: 0.0%\n\nRecommendation: \ud83d\udfe2 STRONG BUY",
+      "content": "Stock Sentiment: VNM (Southeast Asia)\nTimestamp: 2025-11-23T12:39:25.263709\n\nOverall Sentiment: POSITIVE\nConfidence: 0.67\nArticles Analyzed: 3\n\nSentiment Distribution:\n- Positive: 66.7%\n- Negative: 0.0%\n- Neutral: 33.3%\n\nRecommendation: \ud83d\udfe2 BUY",
       "metadata": {
         "source": "scraping_agent",
         "type": "stock_sentiment",
         "symbol": "VNM",
         "region": "Southeast Asia",
-        "timestamp": "2025-11-19T16:56:44.040590"
+        "timestamp": "2025-11-23T12:32:36.559013"
+      }
+    },
+    {
+      "content": "News Article: VNM (Southeast Asia)\nTitle: How VNM stock performs in easing cycles - Portfolio Update Report & Stepwise Trade Signal Guides - newser.com\nPublished: Thu, 20 Nov 2025 08:45:52 GMT\nSource: newser.com\n\nHeadline Sentiment: POSITIVE\nConfidence: 1.00",
+      "metadata": {
+        "source": "scraping_agent",
+        "type": "news_article",
+        "symbol": "VNM",
+        "region": "Southeast Asia",
+        "timestamp": "Thu, 20 Nov 2025 08:45:52 GMT"
+      }
+    },
+    {
+      "content": "Headline Sentiment: POSITIVE\nConfidence: 1.00\n\nSummary: <a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5RTlJzWTJLRmRwYms1N1IxZkswQXJsZTB1aTBwTC1EdkU3MW9UV0t1ZjZtVGJ4SWNUWU1Fa1hZRkRKblBaYW5Sa2dTS1VkWUZvM2pXV1FJYXAzbVpFdkFfWXliWGlHT2JjcWN2MjJXTnRKNGdwV1ptZGRDZGNOMHM?oc=5\" target=\"_blank\">How VNM stock performs in easing cycles - Portfolio Upda",
+      "metadata": {
+        "source": "scraping_agent",
+        "type": "news_article",
+        "symbol": "VNM",
+        "region": "Southeast Asia",
+        "timestamp": "Thu, 20 Nov 2025 08:45:52 GMT"
+      }
+    },
+    {
+      "content": "News Article: VNM (Southeast Asia)\nTitle: Why (VNM) Price Action Is Critical for Tactical Trading - news.stocktradersdaily.com\nPublished: Fri, 21 Nov 2025 11:06:02 GMT\nSource: news.stocktradersdaily.com\n\nHeadline Sentiment: NEUTRAL\nConfidence: 0.50",
+      "metadata": {
+        "source": "scraping_agent",
+        "type": "news_article",
+        "symbol": "VNM",
+        "region": "Southeast Asia",
+        "timestamp": "Fri, 21 Nov 2025 11:06:02 GMT"
+      }
+    },
+    {
+      "content": "Headline Sentiment: NEUTRAL\nConfidence: 0.50\n\nSummary: <a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQMl9DUklWc1V1OTVMbVFCdTlyVmJQUmJQYVV6cm5kZ0xRSGJTSHUwbDhfT2szblFuSEN0UDAwN1BiSE1pYjFHZGpieWs4THF4WWpQazZpZUEzalk4aVBVVW9DQkJ2a3hpaUdkUzcwMUVoaWVSQjRycTRhZHJQTmttSzhlYlJsWXJ5SXY2N3pWYW93YlJvWHM0aTA5UVR2Q0tueHpwajNRUE9iU1UxMVh2VFpwTTUzRHRZTX",
+      "metadata": {
+        "source": "scraping_agent",
+        "type": "news_article",
+        "symbol": "VNM",
+        "region": "Southeast Asia",
+        "timestamp": "Fri, 21 Nov 2025 11:06:02 GMT"
       }
     },
     {
@@ -3701,101 +3601,31 @@
       }
     },
     {
-      "content": "News Article: VNM (Southeast Asia)\nTitle: VNM: Vietnam Stocks Break Out, And The Valuation Is A Bargain (Rating Upgrade) - Seeking Alpha\nPublished: Sun, 16 Mar 2025 07:00:00 GMT\nSource: Seeking Alpha\n\nHeadline Sentiment: POSITIVE\nConfidence: 1.00",
-      "metadata": {
-        "source": "scraping_agent",
-        "type": "news_article",
-        "symbol": "VNM",
-        "region": "Southeast Asia",
-        "timestamp": "Sun, 16 Mar 2025 07:00:00 GMT"
-      }
-    },
-    {
-      "content": "Headline Sentiment: POSITIVE\nConfidence: 1.00\n\nSummary: <a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNX2cyOWowX0NoTmVhSXByYzUzWFhwOWlSMW54SUVOM0FUYzI5aFAyRFg4ZVM4bUJKcGYydWVjQUlmSUltcDJQQlJvSzVhVjZYQW1IbHFNUF9PYTFpelhGSTlaZ29MSjZfVVpQRDhJVkhDVEwtdGF0MHZsLUp2d2d4RVV1eldJTDFEN0FMaEtBdDczb29STzVWeFRyZm5fcXY4Wnc?oc=5\" target=\"_blank\">VNM: Vie",
-      "metadata": {
-        "source": "scraping_agent",
-        "type": "news_article",
-        "symbol": "VNM",
-        "region": "Southeast Asia",
-        "timestamp": "Sun, 16 Mar 2025 07:00:00 GMT"
-      }
-    },
-    {
-      "content": "News Article: VNM (Southeast Asia)\nTitle: Vietnam's Dairy Pride: Vinamilk Makes Headlines at Growth Asia Summit with 6-HMO Breakthrough - Yahoo Finance Singapore\nPublished: Thu, 17 Jul 2025 07:00:00 GMT\nSource: Yahoo Finance Singapore\n\nHeadline Sentiment: POSITIVE\nConfidence: 1.00",
-      "metadata": {
-        "source": "scraping_agent",
-        "type": "news_article",
-        "symbol": "VNM",
-        "region": "Southeast Asia",
-        "timestamp": "Thu, 17 Jul 2025 07:00:00 GMT"
-      }
-    },
-    {
-      "content": "Headline Sentiment: POSITIVE\nConfidence: 1.00\n\nSummary: <a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOSXNLTk5WbU5CMmtiWFpKUk9fRG5hX0dxVUNSOU5GODB5eHBBTWNMenZ6OFNWdjJSNkhzV0VtTEMxWFQyWjRTZkhRaEpzeEVNbldFejREMmFFVHR0U3dHT2gzb3pQRHlob2xPQU1qWm45czNwUms4SGFZSDFRUl9vVVZCTE1oam8tWnZQSg?oc=5\" target=\"_blank\">Vietnam's Dairy Pride: Vinamilk Makes",
-      "metadata": {
-        "source": "scraping_agent",
-        "type": "news_article",
-        "symbol": "VNM",
-        "region": "Southeast Asia",
-        "timestamp": "Thu, 17 Jul 2025 07:00:00 GMT"
-      }
-    },
-    {
-      "content": "Regional Sentiment Analysis: Central Asia\nTimestamp: 2025-11-19T17:10:47.492061\nTotal Stocks Analyzed: 2\n\nSentiment Breakdown:\n- Positive Stocks: 0\n- Negative Stocks: 0\n- Neutral Stocks: 2\n- Overall Trend: NEUTRAL\n\nThis analysis provides market sentiment overview for Central Asia based on recent news and articles.",
+      "content": "Regional Sentiment Analysis: Central Asia\nTimestamp: 2025-11-23T12:39:28.279245\nTotal Stocks Analyzed: 2\n\nSentiment Breakdown:\n- Positive Stocks: 0\n- Negative Stocks: 0\n- Neutral Stocks: 2\n- Overall Trend: NEUTRAL\n\nThis analysis provides market sentiment overview for Central Asia based on recent news and articles.",
       "metadata": {
         "source": "scraping_agent",
         "type": "regional_sentiment",
         "region": "Central Asia",
-        "timestamp": "2025-11-19T16:56:44.040590"
+        "timestamp": "2025-11-23T12:32:36.559013"
       }
     },
     {
-      "content": "Regional Sentiment Analysis: Western Asia\nTimestamp: 2025-11-19T17:10:52.816447\nTotal Stocks Analyzed: 3\n\nSentiment Breakdown:\n- Positive Stocks: 0\n- Negative Stocks: 0\n- Neutral Stocks: 3\n- Overall Trend: NEUTRAL\n\nThis analysis provides market sentiment overview for Western Asia based on recent news and articles.",
+      "content": "Regional Sentiment Analysis: Western Asia\nTimestamp: 2025-11-23T12:39:32.982804\nTotal Stocks Analyzed: 3\n\nSentiment Breakdown:\n- Positive Stocks: 0\n- Negative Stocks: 0\n- Neutral Stocks: 3\n- Overall Trend: NEUTRAL\n\nThis analysis provides market sentiment overview for Western Asia based on recent news and articles.",
       "metadata": {
         "source": "scraping_agent",
         "type": "regional_sentiment",
         "region": "Western Asia",
-        "timestamp": "2025-11-19T16:56:44.040590"
+        "timestamp": "2025-11-23T12:32:36.559013"
       }
     },
     {
-      "content": "Stock Sentiment: TRNFP (Western Asia)\nTimestamp: 2025-11-19T17:10:59.652836\n\nOverall Sentiment: NEUTRAL\nConfidence: 1.00\nArticles Analyzed: 1\n\nSentiment Distribution:\n- Positive: 0.0%\n- Negative: 0.0%\n- Neutral: 100.0%\n\nRecommendation: \ud83d\udfe1 HOLD",
-      "metadata": {
-        "source": "scraping_agent",
-        "type": "stock_sentiment",
-        "symbol": "TRNFP",
-        "region": "Western Asia",
-        "timestamp": "2025-11-19T16:56:44.040590"
-      }
-    },
-    {
-      "content": "News Article: TRNFP (Western Asia)\nTitle: Senior manager at Russia's Transneft oil pipeline company dies suddenly, company says - MarketScreener\nPublished: Fri, 04 Jul 2025 07:00:00 GMT\nSource: MarketScreener\n\nHeadline Sentiment: NEUTRAL\nConfidence: 0.50",
-      "metadata": {
-        "source": "scraping_agent",
-        "type": "news_article",
-        "symbol": "TRNFP",
-        "region": "Western Asia",
-        "timestamp": "Fri, 04 Jul 2025 07:00:00 GMT"
-      }
-    },
-    {
-      "content": "Headline Sentiment: NEUTRAL\nConfidence: 0.50\n\nSummary: <a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxNOF9WTVI4YnZtMWJpN1hndmEzM0k2MWpVRGg4bzBUOVFHTW9Db0pQWnJuYXB6ODN4YkNqZUF2RThPUWVSU1I5ZV8wYXZSbEMyc0ZYckFJVFl0VTRUck5jVDA2TGNMNUhIRG11ckduY1l0djVWd1ZPZmtnVEk4YmRTSjl1TkFSd3dsV3M5TUNmdWxJXzZ5aEZZbXRXcXJYT2N4cnpHM0h1Tm5KRThIQUNvcjVvd1dsV25vUH",
-      "metadata": {
-        "source": "scraping_agent",
-        "type": "news_article",
-        "symbol": "TRNFP",
-        "region": "Western Asia",
-        "timestamp": "Fri, 04 Jul 2025 07:00:00 GMT"
-      }
-    },
-    {
-      "content": "Stock Sentiment: 2222.SR (Western Asia)\nTimestamp: 2025-11-19T17:11:21.124217\n\nOverall Sentiment: NEUTRAL\nConfidence: 1.00\nArticles Analyzed: 3\n\nSentiment Distribution:\n- Positive: 0.0%\n- Negative: 0.0%\n- Neutral: 100.0%\n\nRecommendation: \ud83d\udfe1 HOLD",
+      "content": "Stock Sentiment: 2222.SR (Western Asia)\nTimestamp: 2025-11-23T12:39:46.425617\n\nOverall Sentiment: NEUTRAL\nConfidence: 1.00\nArticles Analyzed: 3\n\nSentiment Distribution:\n- Positive: 0.0%\n- Negative: 0.0%\n- Neutral: 100.0%\n\nRecommendation: \ud83d\udfe1 HOLD",
       "metadata": {
         "source": "scraping_agent",
         "type": "stock_sentiment",
         "symbol": "2222.SR",
         "region": "Western Asia",
-        "timestamp": "2025-11-19T16:56:44.040590"
+        "timestamp": "2025-11-23T12:32:36.559013"
       }
     },
     {
@@ -3819,7 +3649,7 @@
       }
     },
     {
-      "content": "News Article: 2222.SR (Western Asia)\nTitle: Saudi Aramco reports $26.9B profit in third quarter, down slightly over lower oil prices - Yahoo! Finance Canada\nPublished: Mon, 03 Nov 2025 08:00:00 GMT\nSource: Yahoo! Finance Canada\n\nHeadline Sentiment: NEUTRAL\nConfidence: 0.50",
+      "content": "News Article: 2222.SR (Western Asia)\nTitle: Saudi Aramco reports $26.9B profit in third quarter, down slightly over lower oil prices - Yahoo Finance\nPublished: Mon, 03 Nov 2025 08:00:00 GMT\nSource: Yahoo Finance\n\nHeadline Sentiment: NEUTRAL\nConfidence: 0.50",
       "metadata": {
         "source": "scraping_agent",
         "type": "news_article",
@@ -3829,7 +3659,7 @@
       }
     },
     {
-      "content": "Headline Sentiment: NEUTRAL\nConfidence: 0.50\n\nSummary: <a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNQ1hXTGZabDJxMWNkc0dGd2VJSFZ6N0FoS2R6Q0ZWS3FUZ091cUhLWTdETmpNQmI1MWxqQkExVzZMLS1KRkN0VWFTZEJFT2hzSkhrYV9sNjFib0ttU016OWk4RkF3NHl0R2lIV0xHMTBLTDlOSzlzdHhTSzREbGhwMw?oc=5\" target=\"_blank\">Saudi Aramco reports $26.9B profit in third quarter,",
+      "content": "Headline Sentiment: NEUTRAL\nConfidence: 0.50\n\nSummary: <a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE4zd0Q2akFzYWdOeHhZd0RkVzdScDRRZXJKNFVyaWh4eDRnZUhENXhQTEpsYWZNUDdCQ3kyU0xJdUw0NzJwWGk1QmJETkhIYk5PenVfeDJDcV9HNjhIbGlVdHlvNDlaQzRaZlBqMEF3ajM3WC1IMGhLNmNNWG8?oc=5\" target=\"_blank\">Saudi Aramco reports $26.9B profit in third quarter, down sl",
       "metadata": {
         "source": "scraping_agent",
         "type": "news_article",
@@ -3859,13 +3689,13 @@
       }
     },
     {
-      "content": "Stock Sentiment: EMAAR.AE (Western Asia)\nTimestamp: 2025-11-19T17:11:41.973065\n\nOverall Sentiment: NEUTRAL\nConfidence: 0.67\nArticles Analyzed: 3\n\nSentiment Distribution:\n- Positive: 33.3%\n- Negative: 0.0%\n- Neutral: 66.7%\n\nRecommendation: \ud83d\udfe1 HOLD",
+      "content": "Stock Sentiment: EMAAR.AE (Western Asia)\nTimestamp: 2025-11-23T12:40:00.205509\n\nOverall Sentiment: NEUTRAL\nConfidence: 1.00\nArticles Analyzed: 3\n\nSentiment Distribution:\n- Positive: 0.0%\n- Negative: 0.0%\n- Neutral: 100.0%\n\nRecommendation: \ud83d\udfe1 HOLD",
       "metadata": {
         "source": "scraping_agent",
         "type": "stock_sentiment",
         "symbol": "EMAAR.AE",
         "region": "Western Asia",
-        "timestamp": "2025-11-19T16:56:44.040590"
+        "timestamp": "2025-11-23T12:32:36.559013"
       }
     },
     {
@@ -3889,26 +3719,6 @@
       }
     },
     {
-      "content": "News Article: EMAAR.AE (Western Asia)\nTitle: UAE Stocks Inch Up As Global Factors Take Center Stage - Finimize\nPublished: Sat, 25 Oct 2025 22:07:36 GMT\nSource: Finimize\n\nHeadline Sentiment: POSITIVE\nConfidence: 1.00",
-      "metadata": {
-        "source": "scraping_agent",
-        "type": "news_article",
-        "symbol": "EMAAR.AE",
-        "region": "Western Asia",
-        "timestamp": "Sat, 25 Oct 2025 22:07:36 GMT"
-      }
-    },
-    {
-      "content": "Headline Sentiment: POSITIVE\nConfidence: 1.00\n\nSummary: <a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdG1WcXhHcFVhMXZsdTZWdllGaGVIRWJLaVhreFJrS3YxSVdZLXFHck0ya21yeWh0XzBDakMyM0ZxanZOM0FzSnBUNUgyNzRfR0htZlphZktzd1FiWThNTzhrdGd6NkdOMmtBSEpvLWdYZC1kSXFGUE0zSUhLMkVJRlk3aEZZQXowNFB3?oc=5\" target=\"_blank\">UAE Stocks Inch Up As Global Factors Ta",
-      "metadata": {
-        "source": "scraping_agent",
-        "type": "news_article",
-        "symbol": "EMAAR.AE",
-        "region": "Western Asia",
-        "timestamp": "Sat, 25 Oct 2025 22:07:36 GMT"
-      }
-    },
-    {
       "content": "News Article: EMAAR.AE (Western Asia)\nTitle: Dubai shares hit near-decade high, Emaar Properties shines - Reuters\nPublished: Mon, 16 Dec 2024 08:00:00 GMT\nSource: Reuters\n\nHeadline Sentiment: NEUTRAL\nConfidence: 0.50",
       "metadata": {
         "source": "scraping_agent",
@@ -3926,6 +3736,26 @@
         "symbol": "EMAAR.AE",
         "region": "Western Asia",
         "timestamp": "Mon, 16 Dec 2024 08:00:00 GMT"
+      }
+    },
+    {
+      "content": "News Article: EMAAR.AE (Western Asia)\nTitle: Ninenty One\u2019s Top Fund Buys UAE Stocks to Shield From Trade War - Bloomberg.com\nPublished: Mon, 17 Mar 2025 07:00:00 GMT\nSource: Bloomberg.com\n\nHeadline Sentiment: NEUTRAL\nConfidence: 0.50",
+      "metadata": {
+        "source": "scraping_agent",
+        "type": "news_article",
+        "symbol": "EMAAR.AE",
+        "region": "Western Asia",
+        "timestamp": "Mon, 17 Mar 2025 07:00:00 GMT"
+      }
+    },
+    {
+      "content": "Headline Sentiment: NEUTRAL\nConfidence: 0.50\n\nSummary: <a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPY09ZMXg5RG1NZEZWeDB2b3EzZkVpd2ZNNHdFVlEzQy1vQmJSNVYwWU1pX3ZUYTlsY1pZamZjU0p6Mm9tMHdaWnRPWk0wQ2F0U19mWll3ZDExUnpRUnVmS0tma2FKZ1JJN19SQlkzWF9DMUxLbjVwclo1ZFdpRjZPTmxxaXl0U3JWdFl6aDVTMjNRVVpxeUFSbDVJMExEaUtYOThzR3ZaU3BHaGdDRFNZTFJBdHo?oc=5\"",
+      "metadata": {
+        "source": "scraping_agent",
+        "type": "news_article",
+        "symbol": "EMAAR.AE",
+        "region": "Western Asia",
+        "timestamp": "Mon, 17 Mar 2025 07:00:00 GMT"
       }
     }
   ]
